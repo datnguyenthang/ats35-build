@@ -9,7 +9,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(946);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(945);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__coursecompetencies__ = __webpack_require__(1909);
 // (C) Copyright 2015 Martin Dougiamas
 //
@@ -98,7 +98,7 @@ var AddonCompetencyCourseCompetenciesPage = /** @class */ (function () {
     }
     AddonCompetencyCourseCompetenciesPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-competency-coursecompetencies',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/addon/competency/pages/coursecompetencies/coursecompetencies.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.competency.coursecompetencies\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<addon-competency-course class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-competency-course>'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/addon/competency/pages/coursecompetencies/coursecompetencies.html"*/,
+            selector: 'page-addon-competency-coursecompetencies',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/competency/pages/coursecompetencies/coursecompetencies.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.competency.coursecompetencies\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<addon-competency-course class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-competency-course>'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/competency/pages/coursecompetencies/coursecompetencies.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */]])
     ], AddonCompetencyCourseCompetenciesPage);

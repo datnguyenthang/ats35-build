@@ -10,7 +10,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(947);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(946);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__report__ = __webpack_require__(1912);
 // (C) Copyright 2015 Martin Dougiamas
 //
@@ -101,7 +101,7 @@ var AddonCourseCompletionReportPage = /** @class */ (function () {
     }
     AddonCourseCompletionReportPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-course-completion-report',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/addon/coursecompletion/pages/report/report.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.coursecompletion.coursecompletion\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<addon-course-completion-report class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-course-completion-report>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/addon/coursecompletion/pages/report/report.html"*/,
+            selector: 'page-addon-course-completion-report',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/coursecompletion/pages/report/report.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.coursecompletion.coursecompletion\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<addon-course-completion-report class="core-avoid-header" [courseId]="courseId" [userId]="userId"></addon-course-completion-report>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/coursecompletion/pages/report/report.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */]])
     ], AddonCourseCompletionReportPage);

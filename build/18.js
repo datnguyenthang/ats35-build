@@ -1,6 +1,6 @@
 webpackJsonp([18],{
 
-/***/ 1885:
+/***/ 1884:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9,7 +9,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__space_usage__ = __webpack_require__(2011);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__space_usage__ = __webpack_require__(2010);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__ = __webpack_require__(15);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pipes_pipes_module__ = __webpack_require__(66);
@@ -63,7 +63,7 @@ var CoreSettingsSpaceUsagePageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 2011:
+/***/ 2010:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -254,7 +254,7 @@ var CoreSettingsSpaceUsagePage = /** @class */ (function () {
     };
     CoreSettingsSpaceUsagePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-core-settings-space-usage',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/core/settings/pages/space-usage/space-usage.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'core.settings.spaceusage\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="usageLoaded" (ionRefresh)="refreshData($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-loading [hideUntil]="usageLoaded">\n        <ion-item *ngFor="let site of sites" [class.core-primary-item]="site.id == currentSiteId">\n            <h2><core-format-text [text]="site.siteName"></core-format-text></h2>\n            <p>{{ site.fullName }}</p>\n            <p item-end>{{ site.spaceUsage | coreBytesToSize }}</p>\n            <button ion-button icon-only clear color="danger" item-end (click)="deleteSiteFiles(site)" [hidden]="!site.spaceUsage > \'0\'" [attr.aria-label]="\'core.settings.deletesitefilestitle\' | translate">\n                <ion-icon name="trash"></ion-icon>\n            </button>\n        </ion-item>\n        <ion-item-divider color="light">\n            <p>{{ \'core.settings.total\' | translate }}</p>\n            <p item-end>{{ totalUsage | coreBytesToSize }}</p>\n        </ion-item-divider>\n        <ion-item-divider color="light">\n            <p>{{ \'core.settings.estimatedfreespace\' | translate }}</p>\n            <p item-end>{{ freeSpace | coreBytesToSize }}</p>\n        </ion-item-divider>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/core/settings/pages/space-usage/space-usage.html"*/,
+            selector: 'page-core-settings-space-usage',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/settings/pages/space-usage/space-usage.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'core.settings.spaceusage\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="usageLoaded" (ionRefresh)="refreshData($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-loading [hideUntil]="usageLoaded">\n        <ion-item *ngFor="let site of sites" [class.core-primary-item]="site.id == currentSiteId">\n            <h2><core-format-text [text]="site.siteName"></core-format-text></h2>\n            <p>{{ site.fullName }}</p>\n            <p item-end>{{ site.spaceUsage | coreBytesToSize }}</p>\n            <button ion-button icon-only clear color="danger" item-end (click)="deleteSiteFiles(site)" [hidden]="!site.spaceUsage > \'0\'" [attr.aria-label]="\'core.settings.deletesitefilestitle\' | translate">\n                <ion-icon name="trash"></ion-icon>\n            </button>\n        </ion-item>\n        <ion-item-divider color="light">\n            <p>{{ \'core.settings.total\' | translate }}</p>\n            <p item-end>{{ totalUsage | coreBytesToSize }}</p>\n        </ion-item-divider>\n        <ion-item-divider color="light">\n            <p>{{ \'core.settings.estimatedfreespace\' | translate }}</p>\n            <p item-end>{{ freeSpace | coreBytesToSize }}</p>\n        </ion-item-divider>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/settings/pages/space-usage/space-usage.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__providers_file__["a" /* CoreFileProvider */], __WEBPACK_IMPORTED_MODULE_3__providers_filepool__["a" /* CoreFilepoolProvider */],
             __WEBPACK_IMPORTED_MODULE_4__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_5__providers_utils_text__["a" /* CoreTextUtilsProvider */],

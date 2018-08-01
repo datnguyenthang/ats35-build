@@ -1,6 +1,6 @@
 webpackJsonp([114],{
 
-/***/ 1782:
+/***/ 1783:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12,7 +12,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pipes_pipes_module__ = __webpack_require__(66);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__list__ = __webpack_require__(1904);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__list__ = __webpack_require__(1905);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -63,7 +63,7 @@ var AddonCalendarListPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1904:
+/***/ 1905:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -72,13 +72,13 @@ var AddonCalendarListPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_calendar__ = __webpack_require__(249);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_helper__ = __webpack_require__(933);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_helper__ = __webpack_require__(932);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__core_courses_providers_courses__ = __webpack_require__(41);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_utils_dom__ = __webpack_require__(8);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_utils_utils__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_sites__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_local_notifications__ = __webpack_require__(78);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_course_picker_menu_course_picker_menu_popover__ = __webpack_require__(944);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_course_picker_menu_course_picker_menu_popover__ = __webpack_require__(943);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_events__ = __webpack_require__(12);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_app__ = __webpack_require__(9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_split_view_split_view__ = __webpack_require__(133);
@@ -408,7 +408,7 @@ var AddonCalendarListPage = /** @class */ (function () {
     ], AddonCalendarListPage.prototype, "splitviewCtrl", void 0);
     AddonCalendarListPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-calendar-list',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/addon/calendar/pages/list/list.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.calendar.calendarevents\' | translate }}</ion-title>\n        <ion-buttons end>\n            <button *ngIf="courses && courses.length" ion-button icon-only (click)="openCourseFilter($event)" [attr.aria-label]="\'core.courses.filter\' | translate">\n                <ion-icon name="funnel"></ion-icon>\n            </button>\n            <core-context-menu>\n                <core-context-menu-item [hidden]="!notificationsEnabled" [priority]="600" [content]="\'core.settings.settings\' | translate" (action)="openSettings()" [iconAction]="\'cog\'"></core-context-menu-item>\n            </core-context-menu>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<core-split-view>\n    <ion-content>\n        <ion-refresher [enabled]="eventsLoaded" (ionRefresh)="refreshEvents($event)">\n            <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n        </ion-refresher>\n        <core-loading [hideUntil]="eventsLoaded">\n            <core-empty-box *ngIf="!filteredEvents || !filteredEvents.length" icon="calendar" [message]="\'addon.calendar.noevents\' | translate">\n            </core-empty-box>\n\n            <ion-list *ngIf="filteredEvents && filteredEvents.length" no-margin>\n                <a ion-item text-wrap *ngFor="let event of filteredEvents" [title]="event.name" (click)="gotoEvent(event.id)" [class.core-split-item-selected]="event.id == eventId">\n                    <img *ngIf="event.moduleIcon" src="{{event.moduleIcon}}" item-start class="core-module-icon">\n                    <core-icon *ngIf="event.icon && !event.moduleIcon" [name]="event.icon" item-start></core-icon>\n                    <h2><core-format-text [text]="event.name"></core-format-text></h2>\n                    <p>{{ event.timestart | coreToLocaleString }}</p>\n                </a>\n            </ion-list>\n\n            <ion-infinite-scroll [enabled]="canLoadMore" (ionInfinite)="$event.waitFor(fetchEvents())">\n               <ion-infinite-scroll-content></ion-infinite-scroll-content>\n            </ion-infinite-scroll>\n        </core-loading>\n    </ion-content>\n</core-split-view>'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/addon/calendar/pages/list/list.html"*/,
+            selector: 'page-addon-calendar-list',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/calendar/pages/list/list.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.calendar.calendarevents\' | translate }}</ion-title>\n        <ion-buttons end>\n            <button *ngIf="courses && courses.length" ion-button icon-only (click)="openCourseFilter($event)" [attr.aria-label]="\'core.courses.filter\' | translate">\n                <ion-icon name="funnel"></ion-icon>\n            </button>\n            <core-context-menu>\n                <core-context-menu-item [hidden]="!notificationsEnabled" [priority]="600" [content]="\'core.settings.settings\' | translate" (action)="openSettings()" [iconAction]="\'cog\'"></core-context-menu-item>\n            </core-context-menu>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<core-split-view>\n    <ion-content>\n        <ion-refresher [enabled]="eventsLoaded" (ionRefresh)="refreshEvents($event)">\n            <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n        </ion-refresher>\n        <core-loading [hideUntil]="eventsLoaded">\n            <core-empty-box *ngIf="!filteredEvents || !filteredEvents.length" icon="calendar" [message]="\'addon.calendar.noevents\' | translate">\n            </core-empty-box>\n\n            <ion-list *ngIf="filteredEvents && filteredEvents.length" no-margin>\n                <a ion-item text-wrap *ngFor="let event of filteredEvents" [title]="event.name" (click)="gotoEvent(event.id)" [class.core-split-item-selected]="event.id == eventId">\n                    <img *ngIf="event.moduleIcon" src="{{event.moduleIcon}}" item-start class="core-module-icon">\n                    <core-icon *ngIf="event.icon && !event.moduleIcon" [name]="event.icon" item-start></core-icon>\n                    <h2><core-format-text [text]="event.name"></core-format-text></h2>\n                    <p>{{ event.timestart | coreToLocaleString }}</p>\n                </a>\n            </ion-list>\n\n            <ion-infinite-scroll [enabled]="canLoadMore" (ionInfinite)="$event.waitFor(fetchEvents())">\n               <ion-infinite-scroll-content></ion-infinite-scroll-content>\n            </ion-infinite-scroll>\n        </core-loading>\n    </ion-content>\n</core-split-view>'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/calendar/pages/list/list.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["c" /* TranslateService */], __WEBPACK_IMPORTED_MODULE_3__providers_calendar__["a" /* AddonCalendarProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */],
             __WEBPACK_IMPORTED_MODULE_6__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_5__core_courses_providers_courses__["a" /* CoreCoursesProvider */], __WEBPACK_IMPORTED_MODULE_7__providers_utils_utils__["a" /* CoreUtilsProvider */],

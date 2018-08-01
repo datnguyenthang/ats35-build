@@ -1,6 +1,6 @@
 webpackJsonp([65],{
 
-/***/ 1834:
+/***/ 1833:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModQuizPreflightModalModule", function() { return AddonModQuizPreflightModalModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__preflight_modal__ = __webpack_require__(1957);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__preflight_modal__ = __webpack_require__(1955);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
 // (C) Copyright 2015 Martin Dougiamas
@@ -57,7 +57,7 @@ var AddonModQuizPreflightModalModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1957:
+/***/ 1955:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -178,7 +178,7 @@ var AddonModQuizPreflightModalPage = /** @class */ (function () {
     ], AddonModQuizPreflightModalPage.prototype, "content", void 0);
     AddonModQuizPreflightModalPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-mod-quiz-preflight-modal',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/addon/mod/quiz/pages/preflight-modal/preflight-modal.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ title | translate }}</ion-title>\n        <ion-buttons end>\n            <button ion-button icon-only (click)="closeModal()" [attr.aria-label]="\'core.close\' | translate">\n                <ion-icon name="close"></ion-icon>\n            </button>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content padding class="addon-mod_quiz-preflight-modal">\n    <core-loading [hideUntil]="loaded">\n        <form ion-list [formGroup]="preflightForm" (ngSubmit)="sendData()">\n            <!-- Access rules. -->\n            <ng-container *ngFor="let data of accessRulesData; let last = last">\n                <core-dynamic-component [component]="data.component" [data]="data.data">\n                    <p padding>Couldn\'t find the directive to render this access rule.</p>\n                </core-dynamic-component>\n                <ion-item-divider color="light" *ngIf="!last"></ion-item-divider>\n            </ng-container>\n\n            <button ion-button block type="submit">\n                {{ title | translate }}\n            </button>\n        </form>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/addon/mod/quiz/pages/preflight-modal/preflight-modal.html"*/,
+            selector: 'page-addon-mod-quiz-preflight-modal',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/quiz/pages/preflight-modal/preflight-modal.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ title | translate }}</ion-title>\n        <ion-buttons end>\n            <button ion-button icon-only (click)="closeModal()" [attr.aria-label]="\'core.close\' | translate">\n                <ion-icon name="close"></ion-icon>\n            </button>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content padding class="addon-mod_quiz-preflight-modal">\n    <core-loading [hideUntil]="loaded">\n        <form ion-list [formGroup]="preflightForm" (ngSubmit)="sendData()">\n            <!-- Access rules. -->\n            <ng-container *ngFor="let data of accessRulesData; let last = last">\n                <core-dynamic-component [component]="data.component" [data]="data.data">\n                    <p padding>Couldn\'t find the directive to render this access rule.</p>\n                </core-dynamic-component>\n                <ion-item-divider color="light" *ngIf="!last"></ion-item-divider>\n            </ng-container>\n\n            <button ion-button block type="submit">\n                {{ title | translate }}\n            </button>\n        </form>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/quiz/pages/preflight-modal/preflight-modal.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_3__angular_forms__["a" /* FormBuilder */], __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["c" /* TranslateService */], __WEBPACK_IMPORTED_MODULE_4__providers_sites__["a" /* CoreSitesProvider */],
             __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["B" /* ViewController */], __WEBPACK_IMPORTED_MODULE_6__providers_access_rules_delegate__["a" /* AddonModQuizAccessRuleDelegate */],

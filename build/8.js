@@ -95,7 +95,7 @@ var CoreViewerIframePage = /** @class */ (function () {
     }
     CoreViewerIframePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-core-viewer-iframe',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/core/viewer/pages/iframe/iframe.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ title }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <core-iframe [src]="url"></core-iframe>\n</ion-content>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/core/viewer/pages/iframe/iframe.html"*/,
+            selector: 'page-core-viewer-iframe',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/viewer/pages/iframe/iframe.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ title }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <core-iframe [src]="url"></core-iframe>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/viewer/pages/iframe/iframe.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */]])
     ], CoreViewerIframePage);

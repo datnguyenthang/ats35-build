@@ -1,6 +1,6 @@
 webpackJsonp([30],{
 
-/***/ 1873:
+/***/ 1872:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CoreLoginIntroductionPageModule", function() { return CoreLoginIntroductionPageModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__introduction__ = __webpack_require__(1999);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__introduction__ = __webpack_require__(1998);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__ = __webpack_require__(15);
@@ -60,7 +60,7 @@ var CoreLoginIntroductionPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1999:
+/***/ 1998:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -214,7 +214,7 @@ var CoreLoginIntroductionPage = /** @class */ (function () {
     };
     CoreLoginIntroductionPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-core-login-introduction',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/core/login/pages/introduction/introduction.html"*/'<ion-content class="core-center-view">\n        <div class="box">\n            <img *ngIf="!logoUrl" src="assets/img/login_logo_fe.png" class="login-logo-parent" role="presentation">\n            <div text-wrap text-center>\n                <!-- Show site logo or a default image. -->\n                <img *ngIf="logoUrl" [src]="logoUrl" role="presentation">\n                <img *ngIf="!logoUrl" src="assets/img/login_logo_ats.png" class="login-logo" role="presentation">\n                \n\n                <!-- If no sitename show big siteurl. -->\n                <!-- <p *ngIf="!siteName" padding class="item-heading core-siteurl">{{siteUrl}}</p> -->\n                <!-- If sitename, show big sitename and small siteurl. -->\n                <p *ngIf="siteName" padding class="item-heading core-sitename"><core-format-text [text]="siteName"></core-format-text></p>\n                <p *ngIf="siteName" class="core-siteurl">{{siteUrl}}</p>\n            </div>\n            <ion-slides   class="login-slides" pager="true" autoplay="3000">\n                <ion-slide>\n                        <img src="assets/img/login_slides/slide1.png" class="img-slides" role="presentation">\n                        <p class="slogan-text">The more read the more you know, the more you learn the more you grow</p>    \n                </ion-slide>\n\n                <ion-slide>\n                    \n                        <img src="assets/img/login_slides/slide2.png" class="img-slides" role="presentation">\n                        <p class="slogan-text">Develop a passion for learning. If you do, you will never cease to grow</p>\n                    \n                </ion-slide>\n\n                <ion-slide>\n                        <img src="assets/img/login_slides/slide3.png" class="img-slides" role="presentation">\n                        <p class="slogan-text">If you are not willing to learn no one can help you.if you are determined to learn no one can stop you</p>\n                </ion-slide>\n            </ion-slides>\n            \n            \n            <button ion-button block  (click)="goLoginPage()" >{{ \'core.login.loginbutton\' | translate }}</button>\n    </div>\n</ion-content>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/core/login/pages/introduction/introduction.html"*/,
+            selector: 'page-core-login-introduction',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/login/pages/introduction/introduction.html"*/'<ion-content class="core-center-view">\n        <div class="box">\n            <img *ngIf="!logoUrl" src="assets/img/login_logo_fe.png" class="login-logo-parent" role="presentation">\n            <ion-slides   class="login-slides" pager="true" autoplay="3000">\n                <ion-slide>\n                        <img src="assets/img/login_slides/slide1.png" class="img-slides" role="presentation">\n                        <p class="slogan-text">The more read the more you know, the more you learn the more you grow</p>    \n                </ion-slide>\n\n                <ion-slide>\n                    \n                        <img src="assets/img/login_slides/slide2.png" class="img-slides" role="presentation">\n                        <p class="slogan-text">Develop a passion for learning. If you do, you will never cease to grow</p>\n                    \n                </ion-slide>\n\n                <ion-slide>\n                        <img src="assets/img/login_slides/slide3.png" class="img-slides" role="presentation">\n                        <p class="slogan-text">If you are not willing to learn no one can help you.if you are determined to learn no one can stop you</p>\n                </ion-slide>\n            </ion-slides>\n            \n            \n            <button ion-button block  (click)="goLoginPage()" >{{ \'core.login.loginbutton\' | translate }}</button>\n    </div>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/login/pages/introduction/introduction.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_3__providers_app__["a" /* CoreAppProvider */],
             __WEBPACK_IMPORTED_MODULE_5__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_7__providers_helper__["a" /* CoreLoginHelperProvider */],

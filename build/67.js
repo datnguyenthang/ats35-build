@@ -10,7 +10,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(960);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(959);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__index__ = __webpack_require__(1953);
 // (C) Copyright 2015 Martin Dougiamas
 //
@@ -128,7 +128,7 @@ var AddonModQuizIndexPage = /** @class */ (function () {
     ], AddonModQuizIndexPage.prototype, "quizComponent", void 0);
     AddonModQuizIndexPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-addon-mod-quiz-index',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/addon/mod/quiz/pages/index/index.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="title"></core-format-text></ion-title>\n\n        <ion-buttons end>\n            <!-- The buttons defined by the component will be added in here. -->\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="quizComponent.loaded" (ionRefresh)="quizComponent.doRefresh($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n\n    <addon-mod-quiz-index [module]="module" [courseId]="courseId" (dataRetrieved)="updateData($event)"></addon-mod-quiz-index>\n</ion-content>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/addon/mod/quiz/pages/index/index.html"*/,
+            selector: 'page-addon-mod-quiz-index',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/quiz/pages/index/index.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="title"></core-format-text></ion-title>\n\n        <ion-buttons end>\n            <!-- The buttons defined by the component will be added in here. -->\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="quizComponent.loaded" (ionRefresh)="quizComponent.doRefresh($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n\n    <addon-mod-quiz-index [module]="module" [courseId]="courseId" (dataRetrieved)="updateData($event)"></addon-mod-quiz-index>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/quiz/pages/index/index.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */]])
     ], AddonModQuizIndexPage);

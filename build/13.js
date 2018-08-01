@@ -10,7 +10,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__module_index__ = __webpack_require__(2016);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(942);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(941);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -118,7 +118,7 @@ var CoreSitePluginsModuleIndexPage = /** @class */ (function () {
     ], CoreSitePluginsModuleIndexPage.prototype, "content", void 0);
     CoreSitePluginsModuleIndexPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-core-site-plugins-module-index',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/core/siteplugins/pages/module-index/module-index.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ title }}</ion-title>\n\n        <ion-buttons end>\n            <!-- If the site plugin defines some buttons using core-nav-buttons, they will be added here. -->\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="content && content.content && content.content.dataLoaded" (ionRefresh)="refreshData($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-site-plugins-module-index [module]="module" [courseId]="courseId"></core-site-plugins-module-index>\n</ion-content>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/core/siteplugins/pages/module-index/module-index.html"*/,
+            selector: 'page-core-site-plugins-module-index',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/siteplugins/pages/module-index/module-index.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ title }}</ion-title>\n\n        <ion-buttons end>\n            <!-- If the site plugin defines some buttons using core-nav-buttons, they will be added here. -->\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="content && content.content && content.content.dataLoaded" (ionRefresh)="refreshData($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-site-plugins-module-index [module]="module" [courseId]="courseId"></core-site-plugins-module-index>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/siteplugins/pages/module-index/module-index.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */]])
     ], CoreSitePluginsModuleIndexPage);

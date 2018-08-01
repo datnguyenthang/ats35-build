@@ -65,7 +65,7 @@ var CoreMainMenuPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_sites__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_mainmenu__ = __webpack_require__(935);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_mainmenu__ = __webpack_require__(934);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_delegate__ = __webpack_require__(94);
 // (C) Copyright 2015 Martin Dougiamas
 //
@@ -177,7 +177,7 @@ var CoreMainMenuPage = /** @class */ (function () {
     };
     CoreMainMenuPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-core-mainmenu',template:/*ion-inline-start:"/Users/vndtadmin/Desktop/ats2/src/core/mainmenu/pages/menu/menu.html"*/'<core-ion-tabs #mainTabs [hidden]="!showTabs" [loaded]="loaded" [selectedIndex]="initialTab" [selectedDisabled]="!!redirectPage" tabsPlacement="bottom" tabsLayout="title-hide">\n    <core-ion-tab [enabled]="false" [show]="false" [root]="redirectPage" [rootParams]="redirectParams"></core-ion-tab>\n    <core-ion-tab *ngFor="let tab of tabs" [root]="tab.page" [rootParams]="tab.pageParams" [tabTitle]="tab.title | translate" [tabIcon]="tab.icon" [tabBadge]="tab.badge" class="{{tab.class}}"></core-ion-tab>\n    <core-ion-tab root="CoreMainMenuMorePage" [tabTitle]="\'core.more\' | translate" tabIcon="more"></core-ion-tab>\n</core-ion-tabs>\n'/*ion-inline-end:"/Users/vndtadmin/Desktop/ats2/src/core/mainmenu/pages/menu/menu.html"*/,
+            selector: 'page-core-mainmenu',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/mainmenu/pages/menu/menu.html"*/'<core-ion-tabs #mainTabs [hidden]="!showTabs" [loaded]="loaded" [selectedIndex]="initialTab" [selectedDisabled]="!!redirectPage" tabsPlacement="bottom" tabsLayout="title-hide">\n    <core-ion-tab [enabled]="false" [show]="false" [root]="redirectPage" [rootParams]="redirectParams"></core-ion-tab>\n    <core-ion-tab *ngFor="let tab of tabs" [root]="tab.page" [rootParams]="tab.pageParams" [tabTitle]="tab.title | translate" [tabIcon]="tab.icon" [tabBadge]="tab.badge" class="{{tab.class}}"></core-ion-tab>\n    <core-ion-tab root="CoreMainMenuMorePage" [tabTitle]="\'core.more\' | translate" tabIcon="more"></core-ion-tab>\n</core-ion-tabs>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/mainmenu/pages/menu/menu.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_4__providers_delegate__["a" /* CoreMainMenuDelegate */], __WEBPACK_IMPORTED_MODULE_2__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */],
             __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */]])
