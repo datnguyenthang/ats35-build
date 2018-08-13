@@ -638,6 +638,7 @@
     "core.now": "bây giờ",
     "core.numwords": "{{$a}} từ",
     "core.offline": "Ngoại tuyến",
+    "core.ok": "Đồng ý",
     "core.online": "Trực tuyến",
     "core.openfullimage": "Chọn để hiển thị hình ảnh với kích thước đầy đủ",
     "core.openinbrowser": "Mở trên trình duyệt",
