@@ -290,7 +290,7 @@
     "addon.mod_quiz.warningattemptfinished": "Bài thi ngoại tuyến bị loại bỏ khi nó được hoàn thành trên trang web hoặc không tìm thấy.",
     "addon.mod_quiz.warningdatadiscarded": "Một số câu trả lời ngoại tuyến đã bị hủy vì các câu hỏi đã được sửa đổi trực tuyến.",
     "addon.mod_quiz.warningdatadiscardedfromfinished": "Bài thi chưa hoàn thành vì một số câu trả lời ngoại tuyến đã bị hủy. Vui lòng xem lại câu trả lời của bạn rồi gửi lại lần thử.",
-    "addon.mod_quiz.yourfinalgradeis": "Điểm cuối cùng của bạn cho bài kiểm tra này là {{$ a}}.",
+    "addon.mod_quiz.yourfinalgradeis": "Điểm cuối cùng của bạn cho bài kiểm tra này là {{$a}}.",
     "addon.notes.addnewnote": "Thêm một ghi chú",
     "addon.notes.coursenotes": "Các ghi chú trong khóa học",
     "addon.notes.eventnotecreated": "Ghi chú đã được tạo",
