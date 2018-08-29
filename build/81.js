@@ -1,6 +1,6 @@
 webpackJsonp([81],{
 
-/***/ 1829:
+/***/ 1827:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11,7 +11,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__edit__ = __webpack_require__(1954);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__edit__ = __webpack_require__(1952);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -60,7 +60,7 @@ var AddonModGlossaryNewDiscussionPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1954:
+/***/ 1952:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -76,7 +76,7 @@ var AddonModGlossaryNewDiscussionPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__core_fileuploader_providers_fileuploader__ = __webpack_require__(56);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_glossary__ = __webpack_require__(137);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__providers_offline__ = __webpack_require__(163);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_helper__ = __webpack_require__(411);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_helper__ = __webpack_require__(410);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

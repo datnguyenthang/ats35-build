@@ -73,8 +73,8 @@ var AddonModScormPlayerPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__ = __webpack_require__(8);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_utils_time__ = __webpack_require__(22);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_scorm__ = __webpack_require__(138);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_helper__ = __webpack_require__(419);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_scorm_sync__ = __webpack_require__(261);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_helper__ = __webpack_require__(418);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_scorm_sync__ = __webpack_require__(260);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__classes_data_model_12__ = __webpack_require__(1973);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_toc_popover_toc_popover__ = __webpack_require__(965);
 // (C) Copyright 2015 Martin Dougiamas

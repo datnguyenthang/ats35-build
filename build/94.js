@@ -1,6 +1,6 @@
 webpackJsonp([94],{
 
-/***/ 1817:
+/***/ 1814:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11,10 +11,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__core_comments_components_components_module__ = __webpack_require__(393);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__core_comments_components_components_module__ = __webpack_require__(392);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__core_compile_components_compile_html_compile_html_module__ = __webpack_require__(391);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_components_module__ = __webpack_require__(390);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__edit__ = __webpack_require__(1942);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__edit__ = __webpack_require__(1939);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -69,7 +69,7 @@ var AddonModDataEditPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1942:
+/***/ 1939:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -86,7 +86,7 @@ var AddonModDataEditPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__core_fileuploader_providers_fileuploader__ = __webpack_require__(56);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__core_course_providers_course__ = __webpack_require__(10);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_data__ = __webpack_require__(59);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_helper__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_helper__ = __webpack_require__(198);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_offline__ = __webpack_require__(150);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__providers_fields_delegate__ = __webpack_require__(62);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__components_components_module__ = __webpack_require__(390);

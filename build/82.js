@@ -1,6 +1,6 @@
 webpackJsonp([82],{
 
-/***/ 1825:
+/***/ 1826:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11,7 +11,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__new_discussion__ = __webpack_require__(1950);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__new_discussion__ = __webpack_require__(1951);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -60,7 +60,7 @@ var AddonModForumNewDiscussionPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1950:
+/***/ 1951:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -81,8 +81,8 @@ var AddonModForumNewDiscussionPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_rich_text_editor_rich_text_editor_ts__ = __webpack_require__(946);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__providers_forum__ = __webpack_require__(117);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__providers_offline__ = __webpack_require__(149);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__providers_helper__ = __webpack_require__(196);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__providers_sync__ = __webpack_require__(197);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__providers_helper__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__providers_sync__ = __webpack_require__(196);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

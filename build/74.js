@@ -1,6 +1,6 @@
 webpackJsonp([74],{
 
-/***/ 1835:
+/***/ 1834:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11,7 +11,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__player__ = __webpack_require__(1960);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__player__ = __webpack_require__(1959);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -60,7 +60,7 @@ var AddonModLessonPlayerPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1960:
+/***/ 1959:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -80,7 +80,7 @@ var AddonModLessonPlayerPageModule = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_utils_utils__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_lesson__ = __webpack_require__(95);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__providers_lesson_offline__ = __webpack_require__(200);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__providers_lesson_sync__ = __webpack_require__(260);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__providers_lesson_sync__ = __webpack_require__(259);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__providers_helper__ = __webpack_require__(941);
 // (C) Copyright 2015 Martin Dougiamas
 //

@@ -1,6 +1,6 @@
 webpackJsonp([32],{
 
-/***/ 1880:
+/***/ 1881:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CoreLoginInitPageModule", function() { return CoreLoginInitPageModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__init__ = __webpack_require__(2009);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__init__ = __webpack_require__(2010);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -51,7 +51,7 @@ var CoreLoginInitPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 2009:
+/***/ 2010:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
