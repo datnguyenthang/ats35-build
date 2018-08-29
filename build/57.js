@@ -1,1 +1,132 @@
-webpackJsonp([57],{1872:function(l,n,a){"use strict";function u(l){return e._42(0,[(l()(),e._16(0,0,null,null,11,"ion-header",[],null,null,null,null,null)),e._15(1,16384,null,0,K.a,[P.a,e.p,e.K,[2,w.a]],null,null),(l()(),e._40(-1,null,["\n    "])),(l()(),e._16(3,0,null,null,7,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,M.b,M.a)),e._15(4,49152,null,0,S.a,[j.a,[2,w.a],[2,k.a],P.a,e.p,e.K],null,null),(l()(),e._40(-1,3,["\n        "])),(l()(),e._16(6,0,null,3,3,"ion-title",[],null,null,null,B.b,B.a)),e._15(7,49152,null,0,F.a,[P.a,e.p,e.K,[2,G.a],[2,S.a]],null,null),(l()(),e._40(8,0,["",""])),e._32(131072,J.a,[N.a,e.i]),(l()(),e._40(-1,3,["\n    "])),(l()(),e._40(-1,null,["\n"])),(l()(),e._40(-1,null,["\n"])),(l()(),e._16(13,0,null,null,5,"core-split-view",[],null,null,null,O.b,O.a)),e._15(14,114688,null,0,U.a,[[2,k.a],e.p],null,null),(l()(),e._40(-1,0,["\n    "])),(l()(),e._16(16,0,null,0,1,"core-grades-course",[["class","core-avoid-header"]],null,null,null,C.c,C.b)),e._15(17,114688,null,0,q.a,[z.a,A.a,D.a,E.a,[2,k.a],H.a,[2,U.a]],{courseId:[0,"courseId"],userId:[1,"userId"],gradeId:[2,"gradeId"]},null),(l()(),e._40(-1,0,["\n"])),(l()(),e._40(-1,null,["\n\n\n"]))],function(l,n){var a=n.component;l(n,14,0);l(n,17,0,a.courseId,a.userId,a.gradeId)},function(l,n){l(n,3,0,e._29(n,4)._hidden,e._29(n,4)._sbPadding);l(n,8,0,e._41(n,8,0,e._29(n,9).transform("core.grades.grades")))})}Object.defineProperty(n,"__esModule",{value:!0});var e=a(1),r=(a(0),a(10),a(6)),_=a(2),d=function(){return function(l,n){this.courseId=l.get("courseId"),this.userId=l.get("userId")||n.getCurrentSiteUserId(),this.gradeId=l.get("gradeId")}}(),t=a(32),o=a(651),s=function(){return function(){}}(),i=a(1290),c=a(1291),b=a(1292),g=a(1293),p=a(1294),I=a(1295),f=a(1296),v=a(1297),h=a(1298),m=a(1301),x=a(1302),y=a(1303),C=a(1327),K=a(419),P=a(7),w=a(35),M=a(1299),S=a(191),j=a(27),k=a(22),B=a(1300),F=a(326),G=a(237),J=a(28),N=a(17),O=a(423),U=a(133),q=a(439),z=a(140),A=a(5),D=a(58),E=a(162),H=a(11),L=e._14({encapsulation:2,styles:[],data:{}}),Q=e._12("page-core-grades-course-split",d,function(l){return e._42(0,[(l()(),e._16(0,0,null,null,1,"page-core-grades-course-split",[],null,null,null,u,L)),e._15(1,49152,null,0,d,[D.a,_.a],null,null)],null,null)},{},{},[]),R=a(9),T=a(18),V=a(322),W=a(323),X=a(325),Y=a(324),Z=a(418),$=a(640),ll=a(31),nl=a(107),al=a(238);a.d(n,"CoreGradesCourseSplitPageModuleNgFactory",function(){return ul});var ul=e._13(s,[],function(l){return e._25([e._26(512,e.n,e._6,[[8,[i.a,c.a,b.a,g.a,p.a,I.a,f.a,v.a,h.a,m.a,x.a,y.a,C.a,Q]],[3,e.n],e.B]),e._26(4608,R.m,R.l,[e.x,[2,R.v]]),e._26(4608,T.x,T.x,[]),e._26(4608,T.d,T.d,[]),e._26(4608,V.b,V.a,[]),e._26(4608,W.a,W.b,[]),e._26(4608,X.b,X.a,[]),e._26(4608,Y.b,Y.a,[]),e._26(4608,N.a,N.a,[Z.a,V.b,W.a,X.b,Y.b,N.b,N.c]),e._26(512,R.b,R.b,[]),e._26(512,T.v,T.v,[]),e._26(512,T.i,T.i,[]),e._26(512,T.s,T.s,[]),e._26(512,$.a,$.a,[]),e._26(512,r.a,r.a,[]),e._26(512,ll.a,ll.a,[]),e._26(512,nl.a,nl.a,[]),e._26(512,t.a,t.a,[]),e._26(512,o.a,o.a,[]),e._26(512,$.b,$.b,[]),e._26(512,s,s,[]),e._26(256,N.c,void 0,[]),e._26(256,N.b,void 0,[]),e._26(256,al.a,d,[])])})}});
+webpackJsonp([57],{
+
+/***/ 1853:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModWorkshopIndexPageModule", function() { return AddonModWorkshopIndexPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(394);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__index__ = __webpack_require__(1980);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+var AddonModWorkshopIndexPageModule = /** @class */ (function () {
+    function AddonModWorkshopIndexPageModule() {
+    }
+    AddonModWorkshopIndexPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_5__index__["a" /* AddonModWorkshopIndexPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* AddonModWorkshopComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_5__index__["a" /* AddonModWorkshopIndexPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModWorkshopIndexPageModule);
+    return AddonModWorkshopIndexPageModule;
+}());
+
+//# sourceMappingURL=index.module.js.map
+
+/***/ }),
+
+/***/ 1980:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonModWorkshopIndexPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_index_index__ = __webpack_require__(423);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Page that displays a workshop.
+ */
+var AddonModWorkshopIndexPage = /** @class */ (function () {
+    function AddonModWorkshopIndexPage(navParams) {
+        this.module = navParams.get('module') || {};
+        this.courseId = navParams.get('courseId');
+        this.selectedGroup = navParams.get('group') || 0;
+        this.title = this.module.name;
+    }
+    /**
+     * Update some data based on the workshop instance.
+     *
+     * @param {any} workshop Workshop instance.
+     */
+    AddonModWorkshopIndexPage.prototype.updateData = function (workshop) {
+        this.title = workshop.name || this.title;
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_2__components_index_index__["a" /* AddonModWorkshopIndexComponent */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_2__components_index_index__["a" /* AddonModWorkshopIndexComponent */])
+    ], AddonModWorkshopIndexPage.prototype, "workshopComponent", void 0);
+    AddonModWorkshopIndexPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-mod-workshop-index',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/workshop/pages/index/index.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="title"></core-format-text></ion-title>\n\n        <ion-buttons end>\n            <!-- The buttons defined by the component will be added in here. -->\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="workshopComponent.loaded" (ionRefresh)="workshopComponent.doRefresh($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n\n    <addon-mod-workshop-index [module]="module" [courseId]="courseId" [group]="selectedGroup" (dataRetrieved)="updateData($event)"></addon-mod-workshop-index>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/workshop/pages/index/index.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */]])
+    ], AddonModWorkshopIndexPage);
+    return AddonModWorkshopIndexPage;
+}());
+
+//# sourceMappingURL=index.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=57.js.map

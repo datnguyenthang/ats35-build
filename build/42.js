@@ -1,1 +1,167 @@
-webpackJsonp([42],{1890:function(l,n,e){"use strict";function t(l){return _._42(0,[(l()(),_._16(0,0,null,null,14,"a",[["class","item item-block"],["detail-push",""],["ion-item",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.openHandler("CoreSharedFilesListPage",{manage:!0})&&t}return t},L.b,L.a)),_._15(1,1097728,null,3,H.a,[$.a,w.a,_.p,_.K,[2,I.a]],null,null),_._37(335544320,12,{contentLabel:0}),_._37(603979776,13,{_buttons:1}),_._37(603979776,14,{_icons:1}),_._15(5,16384,null,0,O.a,[],null,null),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(8,0,null,0,1,"ion-icon",[["item-start",""],["name","folder"],["role","img"]],[[2,"hide",null]],null,null,null,null)),_._15(9,147456,[[14,4]],0,D.a,[w.a,_.p,_.K],{name:[0,"name"]},null),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),_._40(12,null,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n            "]))],function(l,n){l(n,9,0,"folder")},function(l,n){var e=n.component;l(n,0,0,_._41(n,0,0,_._29(n,6).transform("core.sharedfiles.sharedfiles")),"CoreSharedFilesListPage"==e.selectedPage);l(n,8,0,_._29(n,9)._hidden);l(n,12,0,_._41(n,12,0,_._29(n,13).transform("core.sharedfiles.sharedfiles")))})}function a(l){return _._42(0,[(l()(),_._16(0,0,null,null,1,"core-icon",[["item-start",""]],null,null,null,G.b,G.a)),_._15(1,114688,null,0,T.a,[_.p],{name:[0,"name"]},null)],function(l,n){l(n,1,0,n.parent.context.$implicit.icon)},null)}function u(l){return _._42(0,[(l()(),_._16(0,0,null,null,16,"a",[["class","item item-block"],["detail-push",""],["ion-item",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.openHandler(l.context.$implicit.page,l.context.$implicit.params)&&t}return t},L.b,L.a)),_._15(1,278528,null,0,W.i,[_.v,_.w,_.p,_.L],{ngClass:[0,"ngClass"]},null),_._31(2,2),_._15(3,1097728,null,3,H.a,[$.a,w.a,_.p,_.K,[2,I.a]],null,null),_._37(335544320,15,{contentLabel:0}),_._37(603979776,16,{_buttons:1}),_._37(603979776,17,{_icons:1}),_._15(7,16384,null,0,O.a,[],null,null),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n                "])),(l()(),_._11(16777216,null,0,1,null,a)),_._15(11,16384,null,0,W.k,[_.W,_.T],{ngIf:[0,"ngIf"]},null),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(13,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),_._40(14,null,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n            "]))],function(l,n){l(n,1,0,l(n,2,0,"core-settings-handler",n.context.$implicit.class));l(n,11,0,n.context.$implicit.icon)},function(l,n){var e=n.component;l(n,0,0,_._41(n,0,0,_._29(n,8).transform(n.context.$implicit.title)),n.context.$implicit.page==e.selectedPage);l(n,14,0,_._41(n,14,0,_._29(n,15).transform(n.context.$implicit.title)))})}function i(l){return _._42(0,[_._37(402653184,1,{splitviewCtrl:0}),(l()(),_._16(1,0,null,null,16,"ion-header",[],null,null,null,null,null)),_._15(2,16384,null,0,j.a,[w.a,_.p,_.K,[2,A.a]],null,null),(l()(),_._40(-1,null,["\n    "])),(l()(),_._16(4,0,null,null,12,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,M.b,M.a)),_._15(5,49152,null,0,U.a,[B.a,[2,A.a],[2,J.a],w.a,_.p,_.K],null,null),(l()(),_._40(-1,3,["\n        "])),(l()(),_._16(7,0,null,3,3,"ion-title",[],null,null,null,N.b,N.a)),_._15(8,49152,null,0,R.a,[w.a,_.p,_.K,[2,V.a],[2,U.a]],null,null),(l()(),_._40(9,0,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,3,["\n        "])),(l()(),_._16(12,0,null,2,3,"ion-buttons",[["end",""]],null,null,null,null,null)),_._15(13,16384,null,1,q.a,[w.a,_.p,_.K,[2,V.a],[2,U.a]],null,null),_._37(603979776,2,{_buttons:1}),(l()(),_._40(-1,null,["\n        "])),(l()(),_._40(-1,3,["\n    "])),(l()(),_._40(-1,null,["\n"])),(l()(),_._40(-1,null,["\n"])),(l()(),_._16(19,0,null,null,80,"core-split-view",[],null,null,null,E.b,E.a)),_._15(20,114688,[[1,4]],0,c.a,[[2,J.a],_.p],null,null),(l()(),_._40(-1,0,["\n    "])),(l()(),_._16(22,0,null,0,76,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Q.b,Q.a)),_._15(23,4374528,null,0,X.a,[w.a,Y.a,Z.a,_.p,_.K,B.a,ll.a,_.D,[2,A.a],[2,J.a]],null,null),(l()(),_._40(-1,1,["\n        "])),(l()(),_._16(25,0,null,1,72,"ion-list",[],null,null,null,null,null)),_._15(26,16384,null,0,nl.a,[w.a,_.p,_.K,Y.a,el.l,Z.a],null,null),(l()(),_._40(-1,null,["\n            "])),(l()(),_._16(28,0,null,null,14,"a",[["class","item item-block"],["detail-push",""],["ion-item",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.openHandler("CoreSettingsGeneralPage")&&t}return t},L.b,L.a)),_._15(29,1097728,null,3,H.a,[$.a,w.a,_.p,_.K,[2,I.a]],null,null),_._37(335544320,3,{contentLabel:0}),_._37(603979776,4,{_buttons:1}),_._37(603979776,5,{_icons:1}),_._15(33,16384,null,0,O.a,[],null,null),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(36,0,null,0,1,"ion-icon",[["item-start",""],["name","construct"],["role","img"]],[[2,"hide",null]],null,null,null,null)),_._15(37,147456,[[5,4]],0,D.a,[w.a,_.p,_.K],{name:[0,"name"]},null),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(39,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),_._40(40,null,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n            "])),(l()(),_._40(-1,null,["\n            "])),(l()(),_._16(44,0,null,null,14,"a",[["class","item item-block"],["detail-push",""],["ion-item",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.openHandler("CoreSettingsSpaceUsagePage")&&t}return t},L.b,L.a)),_._15(45,1097728,null,3,H.a,[$.a,w.a,_.p,_.K,[2,I.a]],null,null),_._37(335544320,6,{contentLabel:0}),_._37(603979776,7,{_buttons:1}),_._37(603979776,8,{_icons:1}),_._15(49,16384,null,0,O.a,[],null,null),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(52,0,null,0,1,"ion-icon",[["item-start",""],["name","stats"],["role","img"]],[[2,"hide",null]],null,null,null,null)),_._15(53,147456,[[8,4]],0,D.a,[w.a,_.p,_.K],{name:[0,"name"]},null),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(55,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),_._40(56,null,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n            "])),(l()(),_._40(-1,null,["\n            "])),(l()(),_._16(60,0,null,null,14,"a",[["class","item item-block"],["detail-push",""],["ion-item",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.openHandler("CoreSettingsSynchronizationPage")&&t}return t},L.b,L.a)),_._15(61,1097728,null,3,H.a,[$.a,w.a,_.p,_.K,[2,I.a]],null,null),_._37(335544320,9,{contentLabel:0}),_._37(603979776,10,{_buttons:1}),_._37(603979776,11,{_icons:1}),_._15(65,16384,null,0,O.a,[],null,null),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(68,0,null,0,1,"ion-icon",[["item-start",""],["name","sync"],["role","img"]],[[2,"hide",null]],null,null,null,null)),_._15(69,147456,[[11,4]],0,D.a,[w.a,_.p,_.K],{name:[0,"name"]},null),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(71,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),_._40(72,null,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n            "])),(l()(),_._40(-1,null,["\n            "])),(l()(),_._11(16777216,null,null,1,null,t)),_._15(77,16384,null,0,W.k,[_.W,_.T],{ngIf:[0,"ngIf"]},null),(l()(),_._40(-1,null,["\n\n            "])),(l()(),_._11(16777216,null,null,1,null,u)),_._15(80,802816,null,0,W.j,[_.W,_.T,_.v],{ngForOf:[0,"ngForOf"]},null),(l()(),_._40(-1,null,["\n\n            "])),(l()(),_._16(82,0,null,null,14,"a",[["class","item item-block"],["detail-push",""],["ion-item",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.openHandler("CoreSettingsAboutPage")&&t}return t},L.b,L.a)),_._15(83,1097728,null,3,H.a,[$.a,w.a,_.p,_.K,[2,I.a]],null,null),_._37(335544320,18,{contentLabel:0}),_._37(603979776,19,{_buttons:1}),_._37(603979776,20,{_icons:1}),_._15(87,16384,null,0,O.a,[],null,null),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(90,0,null,0,1,"ion-icon",[["item-start",""],["name","contacts"],["role","img"]],[[2,"hide",null]],null,null,null,null)),_._15(91,147456,[[20,4]],0,D.a,[w.a,_.p,_.K],{name:[0,"name"]},null),(l()(),_._40(-1,2,["\n                "])),(l()(),_._16(93,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),_._40(94,null,["",""])),_._32(131072,F.a,[z.a,_.i]),(l()(),_._40(-1,2,["\n            "])),(l()(),_._40(-1,null,["\n        "])),(l()(),_._40(-1,1,["\n    "])),(l()(),_._40(-1,0,["\n"])),(l()(),_._40(-1,null,["\n"]))],function(l,n){var e=n.component;l(n,20,0);l(n,37,0,"construct");l(n,53,0,"stats");l(n,69,0,"sync");l(n,77,0,e.isIOS);l(n,80,0,e.handlers);l(n,91,0,"contacts")},function(l,n){var e=n.component;l(n,4,0,_._29(n,5)._hidden,_._29(n,5)._sbPadding);l(n,9,0,_._41(n,9,0,_._29(n,10).transform("core.settings.settings")));l(n,22,0,_._29(n,23).statusbarPadding,_._29(n,23)._hasRefresher);l(n,28,0,_._41(n,28,0,_._29(n,34).transform("core.settings.general")),"CoreSettingsGeneralPage"==e.selectedPage);l(n,36,0,_._29(n,37)._hidden);l(n,40,0,_._41(n,40,0,_._29(n,41).transform("core.settings.general")));l(n,44,0,_._41(n,44,0,_._29(n,50).transform("core.settings.spaceusage")),"CoreSettingsSpaceUsagePage"==e.selectedPage);l(n,52,0,_._29(n,53)._hidden);l(n,56,0,_._41(n,56,0,_._29(n,57).transform("core.settings.spaceusage")));l(n,60,0,_._41(n,60,0,_._29(n,66).transform("core.settings.synchronization")),"CoreSettingsSynchronizationPage"==e.selectedPage);l(n,68,0,_._29(n,69)._hidden);l(n,72,0,_._41(n,72,0,_._29(n,73).transform("core.settings.synchronization")));l(n,82,0,_._41(n,82,0,_._29(n,88).transform("core.settings.about")),"CoreSettingsAboutPage"==e.selectedPage);l(n,90,0,_._29(n,91)._hidden);l(n,94,0,_._41(n,94,0,_._29(n,95).transform("core.settings.about")))})}Object.defineProperty(n,"__esModule",{value:!0});var _=e(1),o=(e(0),e(10),e(6)),s=e(283),c=e(133),r=function(){function l(l,n,e){this.settingsDelegate=l,this.isIOS=n.is("ios"),this.selectedPage=e.get("page")||!1}return l.prototype.ionViewDidLoad=function(){this.handlers=this.settingsDelegate.getHandlers(),this.selectedPage?this.openHandler(this.selectedPage):this.splitviewCtrl.isOn()&&this.openHandler("CoreSettingsGeneralPage")},l.prototype.openHandler=function(l,n){this.selectedPage=l,this.splitviewCtrl.push(l,n)},l}(),p=e(32),m=e(31),d=function(){return function(){}}(),g=e(1290),f=e(1291),b=e(1292),h=e(1293),v=e(1294),P=e(1295),k=e(1296),S=e(1297),C=e(1298),K=e(1301),x=e(1302),y=e(1303),L=e(34),H=e(21),$=e(19),w=e(7),I=e(29),O=e(33),F=e(28),z=e(17),D=e(40),G=e(239),T=e(198),W=e(9),j=e(419),A=e(35),M=e(1299),U=e(191),B=e(27),J=e(22),N=e(1300),R=e(326),V=e(237),q=e(420),E=e(423),Q=e(176),X=e(25),Y=e(14),Z=e(26),ll=e(97),nl=e(79),el=e(36),tl=e(58),al=_._14({encapsulation:2,styles:[],data:{}}),ul=_._12("page-core-settings-list",r,function(l){return _._42(0,[(l()(),_._16(0,0,null,null,1,"page-core-settings-list",[],null,null,null,i,al)),_._15(1,49152,null,0,r,[s.a,Y.a,tl.a],null,null)],null,null)},{},{},[]),il=e(18),_l=e(322),ol=e(323),sl=e(325),cl=e(324),rl=e(418),pl=e(640),ml=e(107),dl=e(238);e.d(n,"CoreSettingsListPageModuleNgFactory",function(){return gl});var gl=_._13(d,[],function(l){return _._25([_._26(512,_.n,_._6,[[8,[g.a,f.a,b.a,h.a,v.a,P.a,k.a,S.a,C.a,K.a,x.a,y.a,ul]],[3,_.n],_.B]),_._26(4608,W.m,W.l,[_.x,[2,W.v]]),_._26(4608,il.x,il.x,[]),_._26(4608,il.d,il.d,[]),_._26(4608,_l.b,_l.a,[]),_._26(4608,ol.a,ol.b,[]),_._26(4608,sl.b,sl.a,[]),_._26(4608,cl.b,cl.a,[]),_._26(4608,z.a,z.a,[rl.a,_l.b,ol.a,sl.b,cl.b,z.b,z.c]),_._26(512,W.b,W.b,[]),_._26(512,il.v,il.v,[]),_._26(512,il.i,il.i,[]),_._26(512,il.s,il.s,[]),_._26(512,pl.a,pl.a,[]),_._26(512,o.a,o.a,[]),_._26(512,m.a,m.a,[]),_._26(512,ml.a,ml.a,[]),_._26(512,p.a,p.a,[]),_._26(512,pl.b,pl.b,[]),_._26(512,d,d,[]),_._26(256,z.c,void 0,[]),_._26(256,z.b,void 0,[]),_._26(256,dl.a,r,[])])})}});
+webpackJsonp([42],{
+
+/***/ 1871:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CoreCoursesSearchPageModule", function() { return CoreCoursesSearchPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__search__ = __webpack_require__(2000);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_components_module__ = __webpack_require__(931);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+var CoreCoursesSearchPageModule = /** @class */ (function () {
+    function CoreCoursesSearchPageModule() {
+    }
+    CoreCoursesSearchPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_3__search__["a" /* CoreCoursesSearchPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_5__components_components_module__["a" /* CoreCoursesComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_3__search__["a" /* CoreCoursesSearchPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], CoreCoursesSearchPageModule);
+    return CoreCoursesSearchPageModule;
+}());
+
+//# sourceMappingURL=search.module.js.map
+
+/***/ }),
+
+/***/ 2000:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CoreCoursesSearchPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_courses__ = __webpack_require__(41);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Page that allows searching for courses.
+ */
+var CoreCoursesSearchPage = /** @class */ (function () {
+    function CoreCoursesSearchPage(domUtils, coursesProvider) {
+        this.domUtils = domUtils;
+        this.coursesProvider = coursesProvider;
+        this.total = 0;
+        this.page = 0;
+        this.currentSearch = '';
+    }
+    /**
+     * Search a new text.
+     *
+     * @param {string} text The text to search.
+     */
+    CoreCoursesSearchPage.prototype.search = function (text) {
+        this.currentSearch = text;
+        this.courses = undefined;
+        this.page = 0;
+        var modal = this.domUtils.showModalLoading('core.searching', true);
+        this.searchCourses().finally(function () {
+            modal.dismiss();
+        });
+    };
+    /**
+     * Load more results.
+     *
+     * @param {any} infiniteScroll The infinit scroll instance.
+     */
+    CoreCoursesSearchPage.prototype.loadMoreResults = function (infiniteScroll) {
+        this.searchCourses().finally(function () {
+            infiniteScroll.complete();
+        });
+    };
+    /**
+     * Search courses or load the next page of current search.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesSearchPage.prototype.searchCourses = function () {
+        var _this = this;
+        return this.coursesProvider.search(this.currentSearch, this.page).then(function (response) {
+            if (_this.page === 0) {
+                _this.courses = response.courses;
+            }
+            else {
+                _this.courses = _this.courses.concat(response.courses);
+            }
+            _this.total = response.total;
+            _this.page++;
+            _this.canLoadMore = _this.courses.length < _this.total;
+        }).catch(function (error) {
+            _this.canLoadMore = false;
+            _this.domUtils.showErrorModalDefault(error, 'core.courses.errorsearching', true);
+        });
+    };
+    CoreCoursesSearchPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-core-courses-search',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/courses/pages/search/search.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'core.courses.searchcourses\' | translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <core-search-box (onSubmit)="search($event)" [placeholder]="\'core.courses.search\' | translate" [searchLabel]="\'core.courses.search\' | translate" autoFocus="true" showClear="false"></core-search-box>\n\n    <div *ngIf="courses">\n        <ion-item-divider color="light">{{ \'core.courses.totalcoursesearchresults\' | translate:{$a: total} }}</ion-item-divider>\n        <core-empty-box *ngIf="total == 0" icon="search" [message]="\'core.courses.nosearchresults\' | translate"></core-empty-box>\n        <core-courses-course-list-item *ngFor="let course of courses" [course]="course"></core-courses-course-list-item>\n        <ion-infinite-scroll [enabled]="canLoadMore" (ionInfinite)="loadMoreResults($event)">\n            <ion-infinite-scroll-content></ion-infinite-scroll-content>\n        </ion-infinite-scroll>\n    </div>\n</ion-content>\n\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/courses/pages/search/search.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_2__providers_courses__["a" /* CoreCoursesProvider */]])
+    ], CoreCoursesSearchPage);
+    return CoreCoursesSearchPage;
+}());
+
+//# sourceMappingURL=search.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=42.js.map

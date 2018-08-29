@@ -1,1 +1,661 @@
-webpackJsonp([74],{1847:function(n,i,t){"use strict";function e(n){return o._42(0,[(n()(),o._16(0,0,null,null,13,"ion-item",[["class","item-title item item-block"],["text-wrap",""]],null,null,null,M.b,M.a)),o._15(1,1097728,null,3,V.a,[K.a,W.a,o.p,o.K,[2,A.a]],null,null),o._37(335544320,2,{contentLabel:0}),o._37(603979776,3,{_buttons:1}),o._37(603979776,4,{_icons:1}),o._15(5,16384,null,0,N.a,[],null,null),(n()(),o._40(-1,2,["\n                "])),(n()(),o._16(7,0,null,3,5,"ion-input",[["name","title"],["type","text"]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],null,null,B.b,B.a)),o._15(8,671744,null,0,d.f,[[3,d.b],[8,null],[8,null],[8,null]],{name:[0,"name"]},null),o._35(2048,null,d.m,null,[d.f]),o._15(10,16384,null,0,d.n,[d.m],null,null),o._15(11,5423104,null,0,R.a,[W.a,H.a,K.a,j.a,o.p,o.K,[2,$.a],[2,V.a],[2,d.m],G.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),o._32(131072,J.a,[q.a,o.i]),(n()(),o._40(-1,2,["\n            "]))],function(n,i){n(i,8,0,"title");n(i,11,0,"text",o._41(i,11,1,o._29(i,12).transform("addon.mod_wiki.newpagetitle")))},function(n,i){n(i,7,0,o._29(i,10).ngClassUntouched,o._29(i,10).ngClassTouched,o._29(i,10).ngClassPristine,o._29(i,10).ngClassDirty,o._29(i,10).ngClassValid,o._29(i,10).ngClassInvalid,o._29(i,10).ngClassPending)})}function l(n){return o._42(0,[(n()(),o._16(0,0,null,null,11,"ion-item",[["class","addon-mod_wiki-wrongversionlock item item-block"],["text-center",""]],null,null,null,M.b,M.a)),o._15(1,1097728,null,3,V.a,[K.a,W.a,o.p,o.K,[2,A.a]],null,null),o._37(335544320,8,{contentLabel:0}),o._37(603979776,9,{_buttons:1}),o._37(603979776,10,{_icons:1}),o._15(5,16384,null,0,N.a,[],null,null),(n()(),o._40(-1,2,["\n                "])),(n()(),o._16(7,0,null,2,3,"ion-badge",[["color","danger"],["padding",""]],null,null,null,null,null)),o._15(8,16384,null,0,z.a,[W.a,o.p,o.K],{color:[0,"color"]},null),(n()(),o._40(9,null,["",""])),o._32(131072,J.a,[q.a,o.i]),(n()(),o._40(-1,2,["\n            "]))],function(n,i){n(i,8,0,"danger")},function(n,i){n(i,9,0,o._41(i,9,0,o._29(i,10).transform("addon.mod_wiki.wrongversionlock")))})}function a(n){return o._42(0,[(n()(),o._16(0,0,null,null,22,"ion-header",[],null,null,null,null,null)),o._15(1,16384,null,0,Q.a,[W.a,o.p,o.K,[2,X.a]],null,null),(n()(),o._40(-1,null,["\n    "])),(n()(),o._16(3,0,null,null,18,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Y.b,Y.a)),o._15(4,49152,null,0,Z.a,[j.a,[2,X.a],[2,nn.a],W.a,o.p,o.K],null,null),(n()(),o._40(-1,3,["\n        "])),(n()(),o._16(6,0,null,3,3,"ion-title",[],null,null,null,tn.b,tn.a)),o._15(7,49152,null,0,en.a,[W.a,o.p,o.K,[2,ln.a],[2,Z.a]],null,null),(n()(),o._16(8,0,null,0,1,"core-format-text",[],null,null,null,null,null)),o._15(9,540672,null,0,an.a,[o.p,g.a,_.a,p.a,q.a,H.a,on.a,un.a,rn.a,sn.a,dn.a,cn.a,[2,nn.a],[2,$.a]],{text:[0,"text"]},null),(n()(),o._40(-1,3,["\n\n        "])),(n()(),o._16(11,0,null,2,9,"ion-buttons",[["end",""]],null,null,null,null,null)),o._15(12,16384,null,1,gn.a,[W.a,o.p,o.K,[2,ln.a],[2,Z.a]],null,null),o._37(603979776,1,{_buttons:1}),(n()(),o._40(-1,null,["\n            "])),(n()(),o._16(15,0,null,null,4,"button",[["clear",""],["ion-button",""]],[[1,"aria-label",0]],[[null,"click"]],function(n,i,t){var e=!0;if("click"===i){e=!1!==n.component.save()&&e}return e},hn.b,hn.a)),o._15(16,1097728,[[1,4]],0,_n.a,[[8,""],W.a,o.p,o.K],{clear:[0,"clear"]},null),o._32(131072,J.a,[q.a,o.i]),(n()(),o._40(18,0,["\n                ","\n            "])),o._32(131072,J.a,[q.a,o.i]),(n()(),o._40(-1,null,["\n        "])),(n()(),o._40(-1,3,["\n    "])),(n()(),o._40(-1,null,["\n"])),(n()(),o._40(-1,null,["\n"])),(n()(),o._16(24,0,null,null,31,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,pn.b,pn.a)),o._15(25,4374528,null,0,$.a,[W.a,H.a,G.a,o.p,o.K,j.a,fn.a,o.D,[2,X.a],[2,nn.a]],null,null),(n()(),o._40(-1,1,["\n    "])),(n()(),o._16(27,0,null,1,27,"core-loading",[],null,null,null,In.b,In.a)),o._15(28,638976,null,0,kn.a,[q.a,o.p],{hideUntil:[0,"hideUntil"]},null),(n()(),o._40(-1,0,["\n        "])),(n()(),o._16(30,0,null,0,23,"form",[["ion-list",""],["novalidate",""]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"submit"],[null,"reset"]],function(n,i,t){var e=!0;if("submit"===i){e=!1!==o._29(n,32).onSubmit(t)&&e}if("reset"===i){e=!1!==o._29(n,32).onReset()&&e}return e},null,null)),o._15(31,16384,null,0,d.w,[],null,null),o._15(32,540672,null,0,d.h,[[8,null],[8,null]],{form:[0,"form"]},null),o._35(2048,null,d.b,null,[d.h]),o._15(34,16384,null,0,d.o,[d.b],null,null),(n()(),o._40(-1,null,["\n            "])),(n()(),o._11(16777216,null,null,1,null,e)),o._15(37,16384,null,0,wn.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(n()(),o._40(-1,null,["\n\n            "])),(n()(),o._16(39,0,null,null,10,"ion-item",[["class","item item-block"]],null,null,null,M.b,M.a)),o._15(40,1097728,null,3,V.a,[K.a,W.a,o.p,o.K,[2,A.a]],null,null),o._37(335544320,5,{contentLabel:0}),o._37(603979776,6,{_buttons:1}),o._37(603979776,7,{_icons:1}),o._15(44,16384,null,0,N.a,[],null,null),(n()(),o._40(-1,2,["\n                "])),(n()(),o._16(46,0,null,3,2,"core-rich-text-editor",[["item-content",""],["name","wiki_page_content"]],null,null,null,mn.b,mn.a)),o._15(47,1228800,null,0,vn.a,[_.a,bn.a,un.a,g.a,sn.a,[2,$.a],o.p,c.a,on.a],{placeholder:[0,"placeholder"],control:[1,"control"],name:[2,"name"],component:[3,"component"],componentId:[4,"componentId"]},null),o._32(131072,J.a,[q.a,o.i]),(n()(),o._40(-1,2,["\n            "])),(n()(),o._40(-1,null,["\n\n            "])),(n()(),o._11(16777216,null,null,1,null,l)),o._15(52,16384,null,0,wn.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(n()(),o._40(-1,null,["\n        "])),(n()(),o._40(-1,0,["\n    "])),(n()(),o._40(-1,1,["\n"])),(n()(),o._40(-1,null,["\n"]))],function(n,i){var t=i.component;n(i,9,0,t.title);n(i,16,0,"");n(i,28,0,t.loaded);n(i,32,0,t.pageForm);n(i,37,0,t.canEditTitle);n(i,47,0,o._41(i,47,0,o._29(i,48).transform("core.content")),t.contentControl,"wiki_page_content",t.component,t.componentId);n(i,52,0,t.wrongVersionLock)},function(n,i){n(i,3,0,o._29(i,4)._hidden,o._29(i,4)._sbPadding);n(i,15,0,o._41(i,15,0,o._29(i,17).transform("core.save")));n(i,18,0,o._41(i,18,0,o._29(i,19).transform("core.save")));n(i,24,0,o._29(i,25).statusbarPadding,o._29(i,25)._hasRefresher);n(i,30,0,o._29(i,34).ngClassUntouched,o._29(i,34).ngClassTouched,o._29(i,34).ngClassPristine,o._29(i,34).ngClassDirty,o._29(i,34).ngClassValid,o._29(i,34).ngClassInvalid,o._29(i,34).ngClassPending)})}Object.defineProperty(i,"__esModule",{value:!0});var o=t(1),u=(t(0),t(10),t(6)),r=t(32),s=t(31),d=t(18),c=t(20),g=t(2),h=t(83),_=t(5),p=t(12),f=t(15),I=t(43),k=t(202),w=t(250),m=t(281),v=function(){function n(n,i,t,e,l,a,o,u,r,s,d,c,g,h){this.navCtrl=t,this.sitesProvider=e,this.syncProvider=l,this.domUtils=a,this.translate=o,this.courseProvider=u,this.eventsProvider=r,this.wikiProvider=s,this.wikiOffline=d,this.wikiSync=c,this.textUtils=g,this.courseHelper=h,this.component=k.a.COMPONENT,this.forceLeave=!1,this.isDestroyed=!1,this.module=n.get("module")||{},this.courseId=n.get("courseId"),this.subwikiId=n.get("subwikiId"),this.wikiId=n.get("wikiId"),this.pageId=n.get("pageId"),this.section=n.get("section"),this.groupId=n.get("groupId"),this.userId=n.get("userId");var _=n.get("pageTitle");_=_?_.replace(/\+/g," "):"",this.initialSubwikiId=this.subwikiId,this.componentId=this.module.id,this.canEditTitle=!_,this.title=_?this.translate.instant("addon.mod_wiki.editingpage",{$a:_}):this.translate.instant("addon.mod_wiki.newpagehdr"),this.blockId=this.wikiSync.getSubwikiBlockId(this.subwikiId,this.wikiId,this.userId,this.groupId),this.contentControl=i.control(""),this.pageForm=i.group({title:_}),this.pageForm.addControl("text",this.contentControl),this.syncProvider.blockOperation(this.component,this.blockId)}return n.prototype.ngOnInit=function(){var n=this;this.fetchWikiPageData().then(function(i){if(i&&n.blockId&&!n.isDestroyed){var t=n.wikiSync.getSubwikiBlockId(n.subwikiId,n.wikiId,n.userId,n.groupId);t!=n.blockId&&(n.syncProvider.unblockOperation(n.component,n.blockId),n.blockId=t,n.syncProvider.blockOperation(n.component,n.blockId))}}).finally(function(){n.loaded=!0})},n.prototype.fetchWikiPageData=function(){var n,i=this,t=!1;if(this.pageId)this.canEditTitle=!1,this.editing=!0,this.editOffline=!1,n=this.wikiProvider.getPageContents(this.pageId).then(function(n){return i.pageForm.controls.title.setValue(n.title),i.wikiId=n.wikiid,i.subwikiId=n.subwikiid,i.title=i.translate.instant("addon.mod_wiki.editingpage",{$a:n.title}),i.groupId=n.groupid,i.userId=n.userid,t=n.caneditpage,i.wikiSync.waitForSync(i.blockId)}).then(function(){return i.wikiProvider.getSubwikiFiles(i.wikiId,i.groupId,i.userId)}).then(function(n){return i.subwikiFiles=n,i.wikiProvider.getPageForEditing(i.pageId,i.section)}).then(function(n){var e=i.textUtils.replacePluginfileUrls(n.content,i.subwikiFiles);i.contentControl.setValue(e),i.originalContent=e,i.version=n.version,t&&(i.renewLockInterval=setInterval(function(){i.renewLock()},k.a.RENEW_LOCK_TIME))});else{var e=this.pageForm.controls.title.value;n=this.wikiSync.waitForSync(this.blockId),e?n=n.then(function(n){if(n){var t=n.created.find(function(n){return n.title==e});if(t&&t.pageId>0)return i.pageId=t.pageId,i.fetchWikiPageData()}return i.wikiOffline.getNewPage(e,i.subwikiId,i.wikiId,i.userId,i.groupId)}).then(function(n){i.contentControl.setValue(n.cachedcontent),i.originalContent=n.cachedcontent,i.editOffline=!0}).catch(function(){i.editOffline=!1}):this.editOffline=!1,n.then(function(){i.editing=!1,t=!!i.blockId})}return n.then(function(){return!0}).catch(function(n){return i.domUtils.showErrorModalDefault(n,"Error getting wiki data."),i.forceLeavePage(),!1}).finally(function(){t||(i.domUtils.showAlert(i.translate.instant("core.notice"),i.translate.instant("addon.mod_wiki.cannoteditpage")),i.forceLeavePage())})},n.prototype.forceLeavePage=function(){this.forceLeave=!0,this.navCtrl.pop()},n.prototype.goToNewOfflinePage=function(n){this.courseId&&(this.module.id||this.wikiId)?this.editOffline&&!this.previousViewPageIsDifferentOffline(n)||(this.pageParamsToLoad={module:this.module,courseId:this.courseId,pageId:null,pageTitle:n,wikiId:this.wikiId,subwikiId:this.subwikiId,userId:this.userId,groupId:this.groupId}):this.domUtils.showAlert(this.translate.instant("core.success"),this.translate.instant("core.datastoredoffline")),this.forceLeavePage()},n.prototype.gotoPage=function(n){var i=this;return this.retrieveModuleInfo(this.wikiId).then(function(){var t=!1;i.initialSubwikiId&&(!i.editing&&i.editOffline&&i.previousViewPageIsDifferentOffline(n)?t=!0:!i.editOffline&&i.previousViewIsDifferentPageOnline()&&(t=!0)),t&&(i.pageParamsToLoad={module:i.module,courseId:i.courseId,pageId:i.pageId,pageTitle:n,wikiId:i.wikiId,subwikiId:i.subwikiId,userId:i.userId,groupId:i.groupId}),i.forceLeavePage()}).catch(function(){i.forceLeavePage()})},n.prototype.hasDataChanged=function(){var n=this.pageForm.value;return!(this.originalContent==n.text||!this.editing&&!n.text&&!n.title)},n.prototype.ionViewCanLeave=function(){return!!this.forceLeave||(!this.hasDataChanged()||this.domUtils.showConfirm(this.translate.instant("core.confirmcanceledit")))},n.prototype.ionViewDidLeave=function(){this.pageParamsToLoad&&this.navCtrl.push("AddonModWikiIndexPage",this.pageParamsToLoad)},n.prototype.previousViewIsDifferentPageOnline=function(){var n=this.navCtrl.getPrevious();return!this.editing||"AddonModWikiIndexPage"!=n.component.name||n.data.module.id!=this.module.id||n.data.pageId!=this.pageId},n.prototype.previousViewPageIsDifferentOffline=function(n){var i=this.navCtrl.getPrevious();if("AddonModWikiIndexPage"!=i.component.name||i.data.module.id!=this.module.id||i.data.wikiId!=this.wikiId||i.data.pageTitle!=n)return!0;var t=parseInt(i.data.subwikiId,10)||0;if(t>0&&this.subwikiId>0)return t!=this.subwikiId;var e=parseInt(i.data.userId,10)||0,l=parseInt(i.data.groupId,10)||0;return this.userId!=e||this.groupId!=l},n.prototype.save=function(){var n,i=this,t=this.pageForm.value,e=t.title,l=this.domUtils.showModalLoading("core.sending",!0),a=t.text;if(a=this.textUtils.restorePluginfileUrls(a,this.subwikiFiles),a=this.textUtils.formatHtmlLines(a),this.editing)n=this.wikiProvider.editPage(this.pageId,a,this.section).then(function(){return i.wikiProvider.invalidatePage(i.pageId).then(function(){return i.gotoPage(e)})});else{if(!e)return this.domUtils.showAlert(this.translate.instant("core.notice"),this.translate.instant("addon.mod_wiki.titleshouldnotbeempty")),void l.dismiss();n=(n=this.editOffline?Promise.resolve():this.wikiOffline.getNewPage(e,this.subwikiId,this.wikiId,this.userId,this.groupId).then(function(){return Promise.reject(i.translate.instant("addon.mod_wiki.pageexists"))},function(){})).then(function(){var n=i.wikiId||i.module&&i.module.instance;return i.wikiProvider.newPage(e,a,i.subwikiId,n,i.userId,i.groupId).then(function(t){if(t>0)return i.pageId=t,i.wikiProvider.getPageContents(i.pageId).then(function(t){var l=[];return n=parseInt(t.wikiid,10),i.subwikiId||l.push(i.wikiProvider.invalidateSubwikis(n)),i.subwikiId=parseInt(t.subwikiid,10),i.userId=parseInt(t.userid,10),i.groupId=parseInt(t.groupid,10),l.push(i.wikiProvider.invalidateSubwikiPages(n)),Promise.all(l).then(function(){return i.gotoPage(e)})}).finally(function(){i.eventsProvider.trigger(k.a.PAGE_CREATED_EVENT,{pageId:i.pageId,subwikiId:i.subwikiId,pageTitle:e},i.sitesProvider.getCurrentSiteId())});i.goToNewOfflinePage(e)})})}return n.catch(function(n){i.domUtils.showErrorModalDefault(n,"Error saving wiki data.")}).finally(function(){l.dismiss()})},n.prototype.renewLock=function(){var n=this;this.wikiProvider.getPageForEditing(this.pageId,this.section,!0).then(function(i){i.version&&n.version!=i.version&&(n.wrongVersionLock=!0)})},n.prototype.retrieveModuleInfo=function(n){var i=this;if(this.module.id&&this.courseId)return Promise.resolve();return(this.module.id?Promise.resolve(this.module):this.courseProvider.getModuleBasicInfoByInstance(n,"wiki")).then(function(t){if(i.module=t,i.componentId=i.module.id,!i.courseId&&i.module.course)i.courseId=i.module.course;else if(!i.courseId)return i.courseHelper.getModuleCourseIdByInstance(n,"wiki").then(function(n){i.courseId=n})})},n.prototype.ngOnDestroy=function(){this.isDestroyed=!0,clearInterval(this.renewLockInterval),this.blockId&&this.syncProvider.unblockOperation(this.component,this.blockId)},n}(),b=function(){return function(){}}(),P=t(1290),y=t(1291),C=t(1292),O=t(1293),L=t(1294),x=t(1295),T=t(1296),D=t(1297),E=t(1298),U=t(1301),F=t(1302),S=t(1303),M=t(34),V=t(21),K=t(19),W=t(7),A=t(29),N=t(33),B=t(90),R=t(73),H=t(14),j=t(27),$=t(25),G=t(26),J=t(28),q=t(17),z=t(212),Q=t(419),X=t(35),Y=t(1299),Z=t(191),nn=t(22),tn=t(1300),en=t(326),ln=t(237),an=t(38),on=t(3),un=t(24),rn=t(4),sn=t(16),dn=t(11),cn=t(23),gn=t(420),hn=t(45),_n=t(39),pn=t(176),fn=t(97),In=t(55),kn=t(49),wn=t(9),mn=t(269),vn=t(213),bn=t(165),Pn=t(58),yn=o._14({encapsulation:2,styles:[],data:{}}),Cn=o._12("page-addon-mod-wiki-edit",v,function(n){return o._42(0,[(n()(),o._16(0,0,null,null,1,"page-addon-mod-wiki-edit",[],null,null,null,a,yn)),o._15(1,245760,null,0,v,[Pn.a,d.d,nn.a,g.a,h.a,_.a,q.a,f.a,c.a,k.a,w.a,m.a,p.a,I.a],null,null)],function(n,i){n(i,1,0)},null)},{},{},[]),On=t(322),Ln=t(323),xn=t(325),Tn=t(324),Dn=t(418),En=t(640),Un=t(107),Fn=t(238);t.d(i,"AddonModWikiEditPageModuleNgFactory",function(){return Sn});var Sn=o._13(b,[],function(n){return o._25([o._26(512,o.n,o._6,[[8,[P.a,y.a,C.a,O.a,L.a,x.a,T.a,D.a,E.a,U.a,F.a,S.a,Cn]],[3,o.n],o.B]),o._26(4608,wn.m,wn.l,[o.x,[2,wn.v]]),o._26(4608,d.x,d.x,[]),o._26(4608,d.d,d.d,[]),o._26(4608,On.b,On.a,[]),o._26(4608,Ln.a,Ln.b,[]),o._26(4608,xn.b,xn.a,[]),o._26(4608,Tn.b,Tn.a,[]),o._26(4608,q.a,q.a,[Dn.a,On.b,Ln.a,xn.b,Tn.b,q.b,q.c]),o._26(512,wn.b,wn.b,[]),o._26(512,d.v,d.v,[]),o._26(512,d.i,d.i,[]),o._26(512,d.s,d.s,[]),o._26(512,En.a,En.a,[]),o._26(512,u.a,u.a,[]),o._26(512,s.a,s.a,[]),o._26(512,Un.a,Un.a,[]),o._26(512,r.a,r.a,[]),o._26(512,En.b,En.b,[]),o._26(512,b,b,[]),o._26(256,q.c,void 0,[]),o._26(256,q.b,void 0,[]),o._26(256,Fn.a,v,[])])})}});
+webpackJsonp([74],{
+
+/***/ 1835:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModLessonPlayerPageModule", function() { return AddonModLessonPlayerPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__player__ = __webpack_require__(1960);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+var AddonModLessonPlayerPageModule = /** @class */ (function () {
+    function AddonModLessonPlayerPageModule() {
+    }
+    AddonModLessonPlayerPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_5__player__["a" /* AddonModLessonPlayerPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_5__player__["a" /* AddonModLessonPlayerPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModLessonPlayerPageModule);
+    return AddonModLessonPlayerPageModule;
+}());
+
+//# sourceMappingURL=player.module.js.map
+
+/***/ }),
+
+/***/ 1960:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonModLessonPlayerPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_app__ = __webpack_require__(9);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_events__ = __webpack_require__(12);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_logger__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_sync__ = __webpack_require__(45);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__providers_utils_time__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_utils_url__ = __webpack_require__(47);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_utils_utils__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_lesson__ = __webpack_require__(95);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__providers_lesson_offline__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__providers_lesson_sync__ = __webpack_require__(259);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__providers_helper__ = __webpack_require__(941);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that allows attempting and reviewing a lesson.
+ */
+var AddonModLessonPlayerPage = /** @class */ (function () {
+    function AddonModLessonPlayerPage(navParams, logger, translate, eventsProvider, sitesProvider, syncProvider, domUtils, popoverCtrl, timeUtils, lessonProvider, lessonHelper, lessonSync, lessonOfflineProvider, cdr, modalCtrl, navCtrl, appProvider, utils, urlUtils, fb) {
+        this.navParams = navParams;
+        this.translate = translate;
+        this.eventsProvider = eventsProvider;
+        this.sitesProvider = sitesProvider;
+        this.syncProvider = syncProvider;
+        this.domUtils = domUtils;
+        this.timeUtils = timeUtils;
+        this.lessonProvider = lessonProvider;
+        this.lessonHelper = lessonHelper;
+        this.lessonSync = lessonSync;
+        this.lessonOfflineProvider = lessonOfflineProvider;
+        this.cdr = cdr;
+        this.navCtrl = navCtrl;
+        this.appProvider = appProvider;
+        this.utils = utils;
+        this.urlUtils = urlUtils;
+        this.fb = fb;
+        this.component = __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */].COMPONENT;
+        this.LESSON_EOL = __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */].LESSON_EOL;
+        this.forceLeave = false; // If true, don't perform any check when leaving the view.
+        this.lessonId = navParams.get('lessonId');
+        this.courseId = navParams.get('courseId');
+        this.password = navParams.get('password');
+        this.review = !!navParams.get('review');
+        this.currentPage = navParams.get('pageId');
+        // Block the lesson so it cannot be synced.
+        this.syncProvider.blockOperation(this.component, this.lessonId);
+        // Create the navigation modal.
+        this.menuModal = modalCtrl.create('AddonModLessonMenuModalPage', {
+            page: this
+        });
+    }
+    /**
+     * Component being initialized.
+     */
+    AddonModLessonPlayerPage.prototype.ngOnInit = function () {
+        var _this = this;
+        // Fetch the Lesson data.
+        this.fetchLessonData().then(function (success) {
+            if (success) {
+                // Review data loaded or new retake started, remove any retake being finished in sync.
+                _this.lessonSync.deleteRetakeFinishedInSync(_this.lessonId);
+            }
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Component being destroyed.
+     */
+    AddonModLessonPlayerPage.prototype.ngOnDestroy = function () {
+        // Unblock the lesson so it can be synced.
+        this.syncProvider.unblockOperation(this.component, this.lessonId);
+    };
+    /**
+     * Check if we can leave the page or not.
+     *
+     * @return {boolean|Promise<void>} Resolved if we can leave it, rejected if not.
+     */
+    AddonModLessonPlayerPage.prototype.ionViewCanLeave = function () {
+        if (this.forceLeave) {
+            return true;
+        }
+        if (this.question && !this.eolData && !this.processData && this.originalData) {
+            // Question shown. Check if there is any change.
+            if (!this.utils.basicLeftCompare(this.questionForm.getRawValue(), this.originalData, 3)) {
+                return this.domUtils.showConfirm(this.translate.instant('core.confirmcanceledit'));
+            }
+        }
+        return Promise.resolve();
+    };
+    /**
+     * A button was clicked.
+     *
+     * @param {any} data Button data.
+     */
+    AddonModLessonPlayerPage.prototype.buttonClicked = function (data) {
+        this.processPage(data);
+    };
+    /**
+     * Call a function and go offline if allowed and the call fails.
+     *
+     * @param {Function} func Function to call.
+     * @param {any[]} args Arguments to pass to the function.
+     * @param {number} offlineParamPos Position of the offline parameter in the args.
+     * @param {number} [jumpsParamPos] Position of the jumps parameter in the args.
+     * @return {Promise<any>} Promise resolved in success, rejected otherwise.
+     */
+    AddonModLessonPlayerPage.prototype.callFunction = function (func, args, offlineParamPos, jumpsParamPos) {
+        var _this = this;
+        return func.apply(func, args).catch(function (error) {
+            if (!_this.offline && !_this.review && _this.lessonProvider.isLessonOffline(_this.lesson) &&
+                !_this.utils.isWebServiceError(error)) {
+                // If it fails, go offline.
+                _this.offline = true;
+                // Get the possible jumps now.
+                return _this.lessonProvider.getPagesPossibleJumps(_this.lesson.id, true).then(function (jumpList) {
+                    _this.jumps = jumpList;
+                    // Call the function again with offline set to true and the new jumps.
+                    args[offlineParamPos] = true;
+                    if (typeof jumpsParamPos != 'undefined') {
+                        args[jumpsParamPos] = _this.jumps;
+                    }
+                    return func.apply(func, args);
+                });
+            }
+            return Promise.reject(error);
+        });
+    };
+    /**
+     * Change the page from menu or when continuing from a feedback page.
+     *
+     * @param {number} pageId Page to load.
+     * @param {boolean} [ignoreCurrent] If true, allow loading current page.
+     */
+    AddonModLessonPlayerPage.prototype.changePage = function (pageId, ignoreCurrent) {
+        var _this = this;
+        if (!ignoreCurrent && !this.eolData && this.currentPage == pageId) {
+            // Page already loaded, stop.
+            return;
+        }
+        this.loaded = true;
+        this.messages = [];
+        this.loadPage(pageId).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error loading page');
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Get the lesson data and load the page.
+     *
+     * @return {Promise<boolean>} Promise resolved with true if success, resolved with false otherwise.
+     */
+    AddonModLessonPlayerPage.prototype.fetchLessonData = function () {
+        var _this = this;
+        // Wait for any ongoing sync to finish. We won't sync a lesson while it's being played.
+        return this.lessonSync.waitForSync(this.lessonId).then(function () {
+            return _this.lessonProvider.getLessonById(_this.courseId, _this.lessonId);
+        }).then(function (lessonData) {
+            _this.lesson = lessonData;
+            _this.title = _this.lesson.name; // Temporary title.
+            // If lesson has offline data already, use offline mode.
+            return _this.lessonOfflineProvider.hasOfflineData(_this.lessonId);
+        }).then(function (offlineMode) {
+            _this.offline = offlineMode;
+            if (!offlineMode && !_this.appProvider.isOnline() && _this.lessonProvider.isLessonOffline(_this.lesson) && !_this.review) {
+                // Lesson doesn't have offline data, but it allows offline and the device is offline. Use offline mode.
+                _this.offline = true;
+            }
+            return _this.callFunction(_this.lessonProvider.getAccessInformation.bind(_this.lessonProvider), [_this.lesson.id, _this.offline, true], 1);
+        }).then(function (info) {
+            var promises = [];
+            _this.accessInfo = info;
+            _this.canManage = info.canmanage;
+            _this.retake = info.attemptscount;
+            _this.showRetake = !_this.currentPage && _this.retake > 0; // Only show it in first page if it isn't the first retake.
+            if (info.preventaccessreasons && info.preventaccessreasons.length) {
+                // If it's a password protected lesson and we have the password, allow playing it.
+                if (!_this.password || info.preventaccessreasons.length > 1 || !_this.lessonProvider.isPasswordProtected(info)) {
+                    // Lesson cannot be played, show message and go back.
+                    return Promise.reject(info.preventaccessreasons[0].message);
+                }
+            }
+            if (_this.review && _this.navParams.get('retake') != info.attemptscount - 1) {
+                // Reviewing a retake that isn't the last one. Error.
+                return Promise.reject(_this.translate.instant('addon.mod_lesson.errorreviewretakenotlast'));
+            }
+            if (_this.password) {
+                // Lesson uses password, get the whole lesson object.
+                promises.push(_this.callFunction(_this.lessonProvider.getLessonWithPassword.bind(_this.lessonProvider), [_this.lesson.id, _this.password, true, _this.offline, true], 3).then(function (lesson) {
+                    _this.lesson = lesson;
+                }));
+            }
+            if (_this.offline) {
+                // Offline mode, get the list of possible jumps to allow navigation.
+                promises.push(_this.lessonProvider.getPagesPossibleJumps(_this.lesson.id, true).then(function (jumpList) {
+                    _this.jumps = jumpList;
+                }));
+            }
+            return Promise.all(promises);
+        }).then(function () {
+            _this.mediaFile = _this.lesson.mediafiles && _this.lesson.mediafiles[0];
+            _this.lessonWidth = _this.lesson.slideshow ? _this.domUtils.formatPixelsSize(_this.lesson.mediawidth) : '';
+            _this.lessonHeight = _this.lesson.slideshow ? _this.domUtils.formatPixelsSize(_this.lesson.mediaheight) : '';
+            return _this.launchRetake(_this.currentPage);
+        }).then(function () {
+            return true;
+        }).catch(function (error) {
+            // An error occurred.
+            var promise;
+            if (_this.review && _this.navParams.get('retake') && _this.utils.isWebServiceError(error)) {
+                // The user cannot review the retake. Unmark the retake as being finished in sync.
+                promise = _this.lessonSync.deleteRetakeFinishedInSync(_this.lessonId);
+            }
+            else {
+                promise = Promise.resolve();
+            }
+            return promise.then(function () {
+                _this.domUtils.showErrorModalDefault(error, 'core.course.errorgetmodule', true);
+                _this.forceLeave = true;
+                _this.navCtrl.pop();
+                return false;
+            });
+        });
+    };
+    /**
+     * Finish the retake.
+     *
+     * @param {boolean} [outOfTime] Whether the retake is finished because the user ran out of time.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModLessonPlayerPage.prototype.finishRetake = function (outOfTime) {
+        var _this = this;
+        var promise;
+        this.messages = [];
+        if (this.offline && this.appProvider.isOnline()) {
+            // Offline mode but the app is online. Try to sync the data.
+            promise = this.lessonSync.syncLesson(this.lesson.id, true, true).then(function (result) {
+                if (result.warnings && result.warnings.length) {
+                    var error_1 = result.warnings[0];
+                    // Some data was deleted. Check if the retake has changed.
+                    return _this.lessonProvider.getAccessInformation(_this.lesson.id).then(function (info) {
+                        if (info.attemptscount != _this.accessInfo.attemptscount) {
+                            // The retake has changed. Leave the view and show the error.
+                            _this.forceLeave = true;
+                            _this.navCtrl.pop();
+                            return Promise.reject(error_1);
+                        }
+                        // Retake hasn't changed, show the warning and finish the retake in offline.
+                        _this.offline = false;
+                        _this.domUtils.showErrorModal(error_1);
+                    });
+                }
+                _this.offline = false;
+            }, function () {
+                // Ignore errors.
+            });
+        }
+        else {
+            promise = Promise.resolve();
+        }
+        return promise.then(function () {
+            // Now finish the retake.
+            var args = [_this.lesson, _this.courseId, _this.password, outOfTime, _this.review, _this.offline, _this.accessInfo];
+            return _this.callFunction(_this.lessonProvider.finishRetake.bind(_this.lessonProvider), args, 5);
+        }).then(function (data) {
+            _this.title = _this.lesson.name;
+            _this.eolData = data.data;
+            _this.messages = _this.messages.concat(data.messages);
+            _this.processData = undefined;
+            // Format activity link if present.
+            if (_this.eolData && _this.eolData.activitylink) {
+                _this.eolData.activitylink.value = _this.lessonHelper.formatActivityLink(_this.eolData.activitylink.value);
+            }
+            // Format review lesson if present.
+            if (_this.eolData && _this.eolData.reviewlesson) {
+                var params = _this.urlUtils.extractUrlParams(_this.eolData.reviewlesson.value);
+                if (!params || !params.pageid) {
+                    // No pageid in the URL, the user cannot review (probably didn't answer any question).
+                    delete _this.eolData.reviewlesson;
+                }
+                else {
+                    _this.eolData.reviewlesson.pageid = params.pageid;
+                }
+            }
+        });
+    };
+    /**
+     * Jump to a certain page after performing an action.
+     *
+     * @param {number} pageId The page to load.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModLessonPlayerPage.prototype.jumpToPage = function (pageId) {
+        if (pageId === 0) {
+            // Not a valid page, return to entry view.
+            // This happens, for example, when the user clicks to go to previous page and there is no previous page.
+            this.forceLeave = true;
+            this.navCtrl.pop();
+            return Promise.resolve();
+        }
+        else if (pageId == __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */].LESSON_EOL) {
+            // End of lesson reached.
+            return this.finishRetake();
+        }
+        // Load new page.
+        this.messages = [];
+        return this.loadPage(pageId);
+    };
+    /**
+     * Start or continue a retake.
+     *
+     * @param {number} pageId The page to load.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModLessonPlayerPage.prototype.launchRetake = function (pageId) {
+        var _this = this;
+        var promise;
+        if (this.review) {
+            // Review mode, no need to launch the retake.
+            promise = Promise.resolve({});
+        }
+        else if (!this.offline) {
+            // Not in offline mode, launch the retake.
+            promise = this.lessonProvider.launchRetake(this.lesson.id, this.password, pageId);
+        }
+        else {
+            // Check if there is a finished offline retake.
+            promise = this.lessonOfflineProvider.hasFinishedRetake(this.lesson.id).then(function (finished) {
+                if (finished) {
+                    // Always show EOL page.
+                    pageId = __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */].LESSON_EOL;
+                }
+                return {};
+            });
+        }
+        return promise.then(function (data) {
+            _this.currentPage = pageId || _this.accessInfo.firstpageid;
+            _this.messages = data.messages || [];
+            if (_this.lesson.timelimit && !_this.accessInfo.canmanage) {
+                // Get the last lesson timer.
+                return _this.lessonProvider.getTimers(_this.lesson.id, false, true).then(function (timers) {
+                    _this.endTime = timers[timers.length - 1].starttime + _this.lesson.timelimit;
+                });
+            }
+        }).then(function () {
+            return _this.loadPage(_this.currentPage);
+        });
+    };
+    /**
+     * Load the lesson menu.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModLessonPlayerPage.prototype.loadMenu = function () {
+        var _this = this;
+        if (this.loadingMenu) {
+            // Already loading.
+            return;
+        }
+        this.loadingMenu = true;
+        var args = [this.lessonId, this.password, this.offline, true];
+        return this.callFunction(this.lessonProvider.getPages.bind(this.lessonProvider), args, 2).then(function (pages) {
+            _this.lessonPages = pages.map(function (entry) {
+                return entry.page;
+            });
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error loading menu.');
+        }).finally(function () {
+            _this.loadingMenu = false;
+        });
+    };
+    /**
+     * Load a certain page.
+     *
+     * @param {number} pageId The page to load.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModLessonPlayerPage.prototype.loadPage = function (pageId) {
+        var _this = this;
+        if (pageId == __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */].LESSON_EOL) {
+            // End of lesson reached.
+            return this.finishRetake();
+        }
+        var args = [this.lesson, pageId, this.password, this.review, true, this.offline, true, this.accessInfo, this.jumps];
+        return this.callFunction(this.lessonProvider.getPageData.bind(this.lessonProvider), args, 5, 8).then(function (data) {
+            if (data.newpageid == __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */].LESSON_EOL) {
+                // End of lesson reached.
+                return _this.finishRetake();
+            }
+            _this.pageData = data;
+            _this.title = data.page.title;
+            _this.pageContent = _this.lessonHelper.getPageContentsFromPageData(data);
+            _this.loaded = true;
+            _this.currentPage = pageId;
+            _this.messages = _this.messages.concat(data.messages);
+            // Page loaded, hide EOL and feedback data if shown.
+            _this.eolData = _this.processData = undefined;
+            if (_this.lessonProvider.isQuestionPage(data.page.type)) {
+                // Create an empty FormGroup without controls, they will be added in getQuestionFromPageData.
+                _this.questionForm = _this.fb.group({});
+                _this.pageButtons = [];
+                _this.question = _this.lessonHelper.getQuestionFromPageData(_this.questionForm, data);
+                _this.originalData = _this.questionForm.getRawValue(); // Use getRawValue to include disabled values.
+            }
+            else {
+                _this.pageButtons = _this.lessonHelper.getPageButtonsFromHtml(data.pagecontent);
+                _this.question = undefined;
+                _this.originalData = undefined;
+            }
+            if (data.displaymenu && !_this.displayMenu) {
+                // Load the menu.
+                _this.loadMenu();
+            }
+            _this.displayMenu = !!data.displaymenu;
+            if (!_this.firstPageLoaded) {
+                _this.firstPageLoaded = true;
+            }
+            else {
+                _this.showRetake = false;
+            }
+        });
+    };
+    /**
+     * Process a page, sending some data.
+     *
+     * @param {any} data The data to send.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModLessonPlayerPage.prototype.processPage = function (data) {
+        var _this = this;
+        this.loaded = false;
+        var args = [this.lesson, this.courseId, this.pageData, data, this.password, this.review, this.offline, this.accessInfo,
+            this.jumps];
+        return this.callFunction(this.lessonProvider.processPage.bind(this.lessonProvider), args, 6, 8).then(function (result) {
+            if (!_this.offline && !_this.review && _this.lessonProvider.isLessonOffline(_this.lesson)) {
+                // Lesson allows offline and the user changed some data in server. Update cached data.
+                var retake = _this.accessInfo.attemptscount;
+                if (_this.lessonProvider.isQuestionPage(_this.pageData.page.type)) {
+                    _this.lessonProvider.getQuestionsAttemptsOnline(_this.lessonId, retake, false, undefined, false, true);
+                }
+                else {
+                    _this.lessonProvider.getContentPagesViewedOnline(_this.lessonId, retake, false, true);
+                }
+            }
+            if (result.nodefaultresponse || result.inmediatejump) {
+                // Don't display feedback or force a redirect to a new page. Load the new page.
+                return _this.jumpToPage(result.newpageid);
+            }
+            else {
+                // Not inmediate jump, show the feedback.
+                result.feedback = _this.lessonHelper.removeQuestionFromFeedback(result.feedback);
+                _this.messages = result.messages;
+                _this.processData = result;
+                _this.processData.buttons = [];
+                if (_this.lesson.review && !result.correctanswer && !result.noanswer && !result.isessayquestion &&
+                    !result.maxattemptsreached && !result.reviewmode) {
+                    // User can try again, show button to do so.
+                    _this.processData.buttons.push({
+                        label: 'addon.mod_lesson.reviewquestionback',
+                        pageId: _this.currentPage
+                    });
+                }
+                // Button to continue.
+                if (_this.lesson.review && !result.correctanswer && !result.noanswer && !result.isessayquestion &&
+                    !result.maxattemptsreached) {
+                    _this.processData.buttons.push({
+                        label: 'addon.mod_lesson.reviewquestioncontinue',
+                        pageId: result.newpageid
+                    });
+                }
+                else {
+                    _this.processData.buttons.push({
+                        label: 'addon.mod_lesson.continue',
+                        pageId: result.newpageid
+                    });
+                }
+            }
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error processing page');
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Review the lesson.
+     *
+     * @param {number} pageId Page to load.
+     */
+    AddonModLessonPlayerPage.prototype.reviewLesson = function (pageId) {
+        var _this = this;
+        this.loaded = false;
+        this.review = true;
+        this.offline = false; // Don't allow offline mode in review.
+        this.loadPage(pageId).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error loading page');
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Submit a question.
+     */
+    AddonModLessonPlayerPage.prototype.submitQuestion = function () {
+        var _this = this;
+        this.loaded = false;
+        // Use getRawValue to include disabled values.
+        var data = this.lessonHelper.prepareQuestionData(this.question, this.questionForm.getRawValue());
+        this.processPage(data).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Time up.
+     */
+    AddonModLessonPlayerPage.prototype.timeUp = function () {
+        var _this = this;
+        // Time up called, hide the timer.
+        this.endTime = undefined;
+        this.loaded = false;
+        this.finishRetake(true).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error finishing attempt');
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* Content */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["f" /* Content */])
+    ], AddonModLessonPlayerPage.prototype, "content", void 0);
+    AddonModLessonPlayerPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-mod-lesson-player',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/lesson/pages/player/player.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="title"></core-format-text></ion-title>\n\n        <ion-buttons end>\n            <button *ngIf="displayMenu || mediaFile" ion-button icon-only [attr.aria-label]="\'addon.mod_lesson.lessonmenu\' | translate" (click)="menuModal.present()">\n                <ion-icon name="bookmark"></ion-icon>\n            </button>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <core-loading [hideUntil]="loaded">\n        <!-- Info messages. Only show the first one. -->\n        <div class="core-info-card" icon-start *ngIf="lesson && messages && messages.length">\n            <ion-icon name="information-circle"></ion-icon>\n            <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="messages[0].message"></core-format-text>\n        </div>\n\n        <div *ngIf="lesson" [ngClass]=\'{"addon-mod_lesson-slideshow": lesson.slideshow}\' [ngStyle]="{\'width\': lessonWidth, \'height\': lessonHeight}">\n\n            <core-timer *ngIf="endTime" [endTime]="endTime" (finished)="timeUp()" [timerText]="\'addon.mod_lesson.timeremaining\' | translate"></core-timer>\n\n            <!-- Retake and ongoing score. -->\n            <ion-item text-wrap *ngIf="showRetake && !eolData && !processData">\n                <p>{{ \'addon.mod_lesson.attempt\' | translate:{$a: retake} }}</p>\n            </ion-item>\n            <ion-item text-wrap *ngIf="pageData && pageData.ongoingscore && !eolData && !processData" class="addon-mod_lesson-ongoingscore">\n                <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="pageData.ongoingscore"></core-format-text>\n            </ion-item>\n\n            <!-- Page content. -->\n            <ion-card *ngIf="!eolData && !processData">\n                <!-- Content page. -->\n                <ion-item text-wrap *ngIf="!question">\n                    <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="pageContent"></core-format-text>\n                </ion-item>\n\n                <!-- Question page. -->\n                <form *ngIf="question" ion-list [formGroup]="questionForm">\n                    <ion-item-divider text-wrap color="light">\n                        <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="pageContent"></core-format-text>\n                    </ion-item-divider>\n\n                    <input *ngFor="let input of question.hiddenInputs" type="hidden" [name]="input.name" [value]="input.value" />\n\n                    <!-- Render a different input depending on the type of the question. -->\n                    <ng-container [ngSwitch]="question.template">\n\n                        <!-- Short answer. -->\n                        <ng-container *ngSwitchCase="\'shortanswer\'">\n                            <ion-input padding-left [type]="question.input.type" placeholder="{{ \'addon.mod_lesson.youranswer\' | translate }}" [id]="question.input.id" [formControlName]="question.input.name" autocorrect="off" [maxlength]="question.input.maxlength">\n                            </ion-input>\n                        </ng-container>\n\n                        <!-- Essay. -->\n                        <ng-container *ngSwitchCase="\'essay\'">\n                            <ion-item *ngIf="question.textarea">\n                                <core-rich-text-editor item-content placeholder="{{ \'addon.mod_lesson.youranswer\' | translate }}" [control]="question.control" [component]="component" [componentId]="lesson.coursemodule"></core-rich-text-editor>\n                            </ion-item>\n                            <ion-item text-wrap *ngIf="!question.textarea && question.useranswer">\n                                <p class="item-heading">{{ \'addon.mod_lesson.youranswer\' | translate }}</p>\n                                <p><core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="question.useranswer"></core-format-text></p>\n                            </ion-item>\n                        </ng-container>\n\n                        <!-- Multichoice. -->\n                        <ng-container *ngSwitchCase="\'multichoice\'">\n                            <!-- Single choice. -->\n                            <div *ngIf="!question.multi" radio-group [formControlName]="question.controlName">\n                                <ion-item text-wrap *ngFor="let option of question.options">\n                                    <ion-label>\n                                        <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="option.text"></core-format-text>\n                                    </ion-label>\n                                    <ion-radio [id]="option.id" [value]="option.value" [disabled]="option.disabled"></ion-radio>\n                                </ion-item>\n                            </div>\n\n                            <!-- Multiple choice. -->\n                            <ng-container *ngIf="question.multi">\n                                <ion-item text-wrap *ngFor="let option of question.options">\n                                    <ion-label>\n                                        <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="option.text"></core-format-text>\n                                    </ion-label>\n                                    <ion-checkbox [id]="option.id" [formControlName]="option.name" item-end></ion-checkbox>\n                                </ion-item>\n                            </ng-container>\n                        </ng-container>\n\n                        <!-- Matching. -->\n                        <ng-container *ngSwitchCase="\'matching\'">\n                            <ion-item text-wrap *ngFor="let row of question.rows">\n                                <ion-grid item-content>\n                                    <ion-row>\n                                        <ion-col>\n                                            <p><core-format-text id="addon-mod_lesson-matching-{{row.id}}" [component]="component" [componentId]="lesson.coursemodule" [text]="row.text"></core-format-text></p>\n                                        </ion-col>\n                                        <ion-col>\n                                            <ion-select [id]="row.id" [formControlName]="row.name" [attr.aria-labelledby]="\'addon-mod_lesson-matching-\' + row.id" interface="popover">\n                                                <ion-option *ngFor="let option of row.options" [value]="option.value">{{option.label}}</ion-option>\n                                            </ion-select>\n                                        </ion-col>\n                                    </ion-row>\n                                </ion-grid>\n                            </ion-item>\n                        </ng-container>\n                    </ng-container>\n\n                    <ion-item>\n                        <button ion-button block (click)="submitQuestion()" class="button-no-uppercase">{{ question.submitLabel }}</button>\n                    </ion-item>\n                </form>\n            </ion-card>\n\n            <!-- Page buttons and progress. -->\n            <ion-list *ngIf="!eolData && !processData">\n                <ion-grid text-wrap *ngIf="pageButtons && pageButtons.length" class="addon-mod_lesson-pagebuttons">\n                    <ion-row align-items-center>\n                        <ion-col *ngFor="let button of pageButtons" col-12 col-md-6 col-lg-3 col-xl>\n                            <a ion-button block outline text-wrap [id]="button.id" (click)="buttonClicked(button.data)" class="button-no-uppercase">{{ button.content }}</a>\n                        </ion-col>\n                    </ion-row>\n                </ion-grid>\n                <ion-item text-wrap *ngIf="lesson && lesson.progressbar && !canManage && pageData">\n                    <p>{{ \'addon.mod_lesson.progresscompleted\' | translate:{$a: pageData.progress} }}</p>\n                    <core-progress-bar [progress]="pageData.progress"></core-progress-bar>\n                </ion-item>\n                <div class="core-info-card" icon-start *ngIf="lesson && lesson.progressbar && canManage">\n                    <ion-icon name="information-circle"></ion-icon>\n                    {{ \'addon.mod_lesson.progressbarteacherwarning2\' | translate }}\n                </div>\n            </ion-list>\n\n            <!-- End of lesson reached. -->\n            <ion-card *ngIf="eolData && !processData">\n                <div class="core-warning-card" icon-start *ngIf="eolData.offline && eolData.offline.value">\n                    <ion-icon name="warning"></ion-icon>\n                    {{ \'addon.mod_lesson.finishretakeoffline\' | translate }}\n                </div>\n\n                <h3 padding *ngIf="eolData.gradelesson">{{ \'addon.mod_lesson.congratulations\' | translate }}</h3>\n                <ion-item text-wrap *ngIf="eolData.notenoughtimespent">\n                    <core-format-text [text]="eolData.notenoughtimespent.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.numberofpagesviewed">\n                    <core-format-text [text]="eolData.numberofpagesviewed.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.youshouldview">\n                    <core-format-text [text]="eolData.youshouldview.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.numberofcorrectanswers">\n                    <core-format-text [text]="eolData.numberofcorrectanswers.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.displayscorewithessays">\n                    <core-format-text [text]="eolData.displayscorewithessays.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="!eolData.displayscorewithessays && eolData.displayscorewithoutessays">\n                    <core-format-text [text]="eolData.displayscorewithoutessays.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.yourcurrentgradeisoutof">\n                    <core-format-text [text]="eolData.yourcurrentgradeisoutof.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.eolstudentoutoftimenoanswers">\n                    <core-format-text [text]="eolData.eolstudentoutoftimenoanswers.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.welldone">\n                    <core-format-text [text]="eolData.welldone.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="lesson.progressbar && eolData.progresscompleted">\n                    <p>{{ \'addon.mod_lesson.progresscompleted\' | translate:{$a: eolData.progresscompleted.value} }}</p>\n                    <core-progress-bar [progress]="eolData.progresscompleted.value"></core-progress-bar>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.displayofgrade">\n                    <core-format-text [text]="eolData.displayofgrade.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.reviewlesson">\n                    <a ion-button block (click)="reviewLesson(eolData.reviewlesson.pageid)" class="button-no-uppercase">\n                        <core-format-text [text]="\'addon.mod_lesson.reviewlesson\' | translate"></core-format-text>\n                    </a>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.modattemptsnoteacher">\n                    <core-format-text [text]="eolData.modattemptsnoteacher.message"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="eolData.activitylink && eolData.activitylink.value">\n                    <ng-container *ngIf="eolData.activitylink.value.formatted">\n                        <!-- Activity link was successfully formatted, render the button. -->\n                        <a ion-button block color="light" [href]="eolData.activitylink.value.href" core-link [capture]="true" class="button-no-uppercase">\n                            <core-format-text [text]="eolData.activitylink.value.label"></core-format-text>\n                        </a>\n                    </ng-container>\n                    <ng-container *ngIf="!eolData.activitylink.value.formatted">\n                        <!-- Activity link wasn\'t formatted, render the original link. -->\n                        <core-format-text [text]="eolData.activitylink.value.label"></core-format-text>\n                    </ng-container>\n                </ion-item>\n            </ion-card>\n\n            <!-- Feedback returned when processing an action. -->\n            <ion-list *ngIf="processData">\n                <ion-item text-wrap *ngIf="processData.ongoingscore && !processData.reviewmode" >\n                    <core-format-text class="addon-mod_lesson-ongoingscore" [text]="processData.ongoingscore"></core-format-text>\n                </ion-item>\n                <ion-item text-wrap *ngIf="!processData.reviewmode || review">\n                    <p *ngIf="!processData.reviewmode">\n                        <core-format-text [component]="component" [componentId]="lesson.coursemodule" [text]="processData.feedback"></core-format-text>\n                    </p>\n                    <div *ngIf="review">\n                        <p>{{ \'addon.mod_lesson.gotoendoflesson\' | translate }}</p>\n                        <p>{{ \'addon.mod_lesson.or\' | translate }}</p>\n                        <p>{{ \'addon.mod_lesson.continuetonextpage\' | translate }}</p>\n                    </div>\n                </ion-item>\n                <ion-item text-wrap *ngIf="review || (processData.buttons && processData.buttons.length)">\n                    <a ion-button block color="light" *ngIf="review" (click)="changePage(LESSON_EOL)">{{ \'addon.mod_lesson.finish\' | translate }}</a>\n                    <a ion-button block color="light" *ngFor="let button of processData.buttons" (click)="changePage(button.pageId, true)">{{ button.label | translate }}</a>\n                </ion-item>\n            </ion-list>\n        </div>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/lesson/pages/player/player.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_6__providers_logger__["a" /* CoreLoggerProvider */], __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__["c" /* TranslateService */],
+            __WEBPACK_IMPORTED_MODULE_5__providers_events__["a" /* CoreEventsProvider */], __WEBPACK_IMPORTED_MODULE_7__providers_sites__["a" /* CoreSitesProvider */],
+            __WEBPACK_IMPORTED_MODULE_8__providers_sync__["a" /* CoreSyncProvider */], __WEBPACK_IMPORTED_MODULE_9__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["t" /* PopoverController */],
+            __WEBPACK_IMPORTED_MODULE_10__providers_utils_time__["a" /* CoreTimeUtilsProvider */], __WEBPACK_IMPORTED_MODULE_13__providers_lesson__["a" /* AddonModLessonProvider */],
+            __WEBPACK_IMPORTED_MODULE_16__providers_helper__["a" /* AddonModLessonHelperProvider */], __WEBPACK_IMPORTED_MODULE_15__providers_lesson_sync__["a" /* AddonModLessonSyncProvider */],
+            __WEBPACK_IMPORTED_MODULE_14__providers_lesson_offline__["a" /* AddonModLessonOfflineProvider */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectorRef */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["o" /* ModalController */], __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["q" /* NavController */], __WEBPACK_IMPORTED_MODULE_4__providers_app__["a" /* CoreAppProvider */],
+            __WEBPACK_IMPORTED_MODULE_12__providers_utils_utils__["a" /* CoreUtilsProvider */], __WEBPACK_IMPORTED_MODULE_11__providers_utils_url__["a" /* CoreUrlUtilsProvider */], __WEBPACK_IMPORTED_MODULE_1__angular_forms__["a" /* FormBuilder */]])
+    ], AddonModLessonPlayerPage);
+    return AddonModLessonPlayerPage;
+}());
+
+//# sourceMappingURL=player.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=74.js.map
