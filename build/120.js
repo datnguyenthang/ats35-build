@@ -1,1 +1,203 @@
-webpackJsonp([120],{1784:function(l,n,a){"use strict";function u(l){return o._42(0,[(l()(),o._16(0,0,null,null,3,"core-empty-box",[["icon","trophy"]],null,null,null,R.b,R.a)),o._15(1,49152,null,0,C.a,[],{message:[0,"message"],icon:[1,"icon"]},null),o._32(131072,D.a,[H.a,o.i]),(l()(),o._40(-1,0,["\n            "]))],function(l,n){l(n,1,0,o._41(n,1,0,o._29(n,2).transform("addon.badges.nobadges")),"trophy")},null)}function e(l){return o._42(0,[(l()(),o._16(0,0,null,null,3,"ion-badge",[["color","danger"],["item-end",""]],null,null,null,null,null)),o._15(1,16384,null,0,O.a,[W.a,o.p,o.K],{color:[0,"color"]},null),(l()(),o._40(2,null,["\n                        ","\n                    "])),o._32(131072,D.a,[H.a,o.i])],function(l,n){l(n,1,0,"danger")},function(l,n){l(n,2,0,o._41(n,2,0,o._29(n,3).transform("addon.badges.expired")))})}function t(l){return o._42(0,[(l()(),o._16(0,0,null,null,24,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(l,n,a){var u=!0;if("click"===n){u=!1!==l.component.loadIssuedBadge(l.context.$implicit.uniquehash)&&u}return u},q.b,q.a)),o._15(1,1097728,null,3,F.a,[M.a,W.a,o.p,o.K,[2,j.a]],null,null),o._37(335544320,3,{contentLabel:0}),o._37(603979776,4,{_buttons:1}),o._37(603979776,5,{_icons:1}),o._15(5,16384,null,0,A.a,[],null,null),(l()(),o._40(-1,2,["\n                    "])),(l()(),o._16(7,0,null,0,5,"ion-avatar",[["item-start",""]],null,null,null,null,null)),o._15(8,16384,null,0,E.a,[],null,null),(l()(),o._40(-1,null,["\n                        "])),(l()(),o._16(10,0,null,null,1,"img",[["core-external-content",""],["item-start",""]],[[8,"src",4],[8,"alt",0]],null,null,null,null)),o._15(11,4210688,null,0,J.a,[o.p,N.a,S.a,V.a,h.a,f.a,z.a,G.a],null,null),(l()(),o._40(-1,null,["\n                    "])),(l()(),o._40(-1,2,["\n                    "])),(l()(),o._16(14,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),o._16(15,0,null,null,1,"core-format-text",[],null,null,null,null,null)),o._15(16,540672,null,0,Q.a,[o.p,h.a,f.a,X.a,H.a,V.a,Y.a,z.a,N.a,S.a,G.a,Z.a,[2,ll.a],[2,nl.a]],{text:[0,"text"]},null),(l()(),o._40(-1,2,["\n                    "])),(l()(),o._16(18,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),o._40(19,null,["",""])),o._34(20,1),(l()(),o._40(-1,2,["\n                    "])),(l()(),o._11(16777216,null,4,1,null,e)),o._15(23,16384,null,0,al.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(l()(),o._40(-1,2,["\n                "]))],function(l,n){var a=n.component;l(n,16,0,n.context.$implicit.name);l(n,23,0,n.context.$implicit.dateexpire&&a.currentTime>=n.context.$implicit.dateexpire)},function(l,n){l(n,0,0,n.context.$implicit.name,n.context.$implicit.uniquehash==n.component.badgeHash);l(n,10,0,n.context.$implicit.badgeurl,n.context.$implicit.name);l(n,19,0,o._41(n,19,0,l(n,20,0,o._29(n.parent.parent,0),n.context.$implicit.dateissued)))})}function i(l){return o._42(0,[(l()(),o._16(0,0,null,null,5,"ion-list",[["no-margin",""]],null,null,null,null,null)),o._15(1,16384,null,0,ul.a,[W.a,o.p,o.K,V.a,el.l,tl.a],null,null),(l()(),o._40(-1,null,["\n                "])),(l()(),o._11(16777216,null,null,1,null,t)),o._15(4,802816,null,0,al.j,[o.W,o.T,o.v],{ngForOf:[0,"ngForOf"]},null),(l()(),o._40(-1,null,["\n            "]))],function(l,n){l(n,4,0,n.component.badges)},null)}function s(l){return o._42(0,[o._32(0,il.a,[N.a]),o._37(402653184,1,{content:0}),o._37(402653184,2,{splitviewCtrl:0}),(l()(),o._16(3,0,null,null,11,"ion-header",[],null,null,null,null,null)),o._15(4,16384,null,0,sl.a,[W.a,o.p,o.K,[2,ol.a]],null,null),(l()(),o._40(-1,null,["\n    "])),(l()(),o._16(6,0,null,null,7,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,rl.b,rl.a)),o._15(7,49152,null,0,_l.a,[dl.a,[2,ol.a],[2,ll.a],W.a,o.p,o.K],null,null),(l()(),o._40(-1,3,["\n        "])),(l()(),o._16(9,0,null,3,3,"ion-title",[],null,null,null,cl.b,cl.a)),o._15(10,49152,null,0,gl.a,[W.a,o.p,o.K,[2,bl.a],[2,_l.a]],null,null),(l()(),o._40(11,0,["",""])),o._32(131072,D.a,[H.a,o.i]),(l()(),o._40(-1,3,["\n    "])),(l()(),o._40(-1,null,["\n"])),(l()(),o._40(-1,null,["\n"])),(l()(),o._16(16,0,null,null,24,"core-split-view",[],null,null,null,fl.b,fl.a)),o._15(17,114688,[[2,4]],0,p.a,[[2,ll.a],o.p],null,null),(l()(),o._40(-1,0,["\n    "])),(l()(),o._16(19,0,null,0,20,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,hl.b,hl.a)),o._15(20,4374528,[[1,4]],0,nl.a,[W.a,V.a,tl.a,o.p,o.K,dl.a,pl.a,o.D,[2,ol.a],[2,ll.a]],null,null),(l()(),o._40(-1,1,["\n        "])),(l()(),o._16(22,0,null,2,6,"ion-refresher",[],[[2,"refresher-active",null],[4,"top",null]],[[null,"ionRefresh"]],function(l,n,a){var u=!0;if("ionRefresh"===n){u=!1!==l.component.refreshBadges(a)&&u}return u},null,null)),o._15(23,212992,null,0,ml.a,[V.a,nl.a,o.D,el.l],{enabled:[0,"enabled"]},{ionRefresh:"ionRefresh"}),(l()(),o._40(-1,null,["\n            "])),(l()(),o._16(25,0,null,null,2,"ion-refresher-content",[],[[1,"state",0]],null,null,vl.b,vl.a)),o._15(26,114688,null,0,xl.a,[ml.a,W.a],{pullingText:[0,"pullingText"]},null),o._32(131072,D.a,[H.a,o.i]),(l()(),o._40(-1,null,["\n        "])),(l()(),o._40(-1,1,["\n        "])),(l()(),o._16(30,0,null,1,8,"core-loading",[],null,null,null,Il.b,Il.a)),o._15(31,638976,null,0,Bl.a,[H.a,o.p],{hideUntil:[0,"hideUntil"]},null),(l()(),o._40(-1,0,["\n            "])),(l()(),o._11(16777216,null,0,1,null,u)),o._15(34,16384,null,0,al.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(l()(),o._40(-1,0,["\n\n            "])),(l()(),o._11(16777216,null,0,1,null,i)),o._15(37,16384,null,0,al.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(l()(),o._40(-1,0,["\n        "])),(l()(),o._40(-1,1,["\n    "])),(l()(),o._40(-1,0,["\n"]))],function(l,n){var a=n.component;l(n,17,0);l(n,23,0,a.badgesLoaded);l(n,26,0,o._19(1,"",o._41(n,26,0,o._29(n,27).transform("core.pulltorefresh")),""));l(n,31,0,a.badgesLoaded);l(n,34,0,!a.badges||0==a.badges.length);l(n,37,0,a.badges&&a.badges.length)},function(l,n){l(n,6,0,o._29(n,7)._hidden,o._29(n,7)._sbPadding);l(n,11,0,o._41(n,11,0,o._29(n,12).transform("addon.badges.badges")));l(n,19,0,o._29(n,20).statusbarPadding,o._29(n,20)._hasRefresher);l(n,22,0,"inactive"!==o._29(n,23).state,o._29(n,23)._top);l(n,25,0,o._29(n,26).r.state)})}Object.defineProperty(n,"__esModule",{value:!0});var o=a(1),r=(a(0),a(10),a(6)),_=a(32),d=a(31),c=a(107),g=a(276),b=a(42),f=a(5),h=a(2),p=a(133),m=function(){function l(l,n,a,u,e){this.badgesProvider=a,this.domUtils=u,this.timeUtils=e,this.badgesLoaded=!1,this.badges=[],this.currentTime=0,this.courseId=l.get("courseId")||0,this.userId=l.get("userId")||n.getCurrentSite().getUserId()}return l.prototype.ionViewDidLoad=function(){var l=this;this.fetchBadges().finally(function(){!l.badgeHash&&l.splitviewCtrl.isOn()&&l.badges.length>0&&l.loadIssuedBadge(l.badges[0].uniquehash),l.badgesLoaded=!0})},l.prototype.fetchBadges=function(){var l=this;return this.currentTime=this.timeUtils.timestamp(),this.badgesProvider.getUserBadges(this.courseId,this.userId).then(function(n){l.badges=n}).catch(function(n){l.domUtils.showErrorModalDefault(n,"Error getting badges data.")})},l.prototype.refreshBadges=function(l){var n=this;this.badgesProvider.invalidateUserBadges(this.courseId,this.userId).finally(function(){n.fetchBadges().finally(function(){l.complete()})})},l.prototype.loadIssuedBadge=function(l){this.badgeHash=l;this.splitviewCtrl.push("AddonBadgesIssuedBadgePage",{courseId:this.courseId,userId:this.userId,badgeHash:l})},l}(),v=function(){return function(){}}(),x=a(1290),I=a(1291),B=a(1292),y=a(1293),U=a(1294),T=a(1295),$=a(1296),w=a(1297),P=a(1298),k=a(1301),K=a(1302),L=a(1303),R=a(160),C=a(134),D=a(28),H=a(17),O=a(212),W=a(7),q=a(34),F=a(21),M=a(19),j=a(29),A=a(33),E=a(177),J=a(158),N=a(4),S=a(16),V=a(14),z=a(24),G=a(11),Q=a(38),X=a(12),Y=a(3),Z=a(23),ll=a(22),nl=a(25),al=a(9),ul=a(79),el=a(36),tl=a(26),il=a(645),sl=a(419),ol=a(35),rl=a(1299),_l=a(191),dl=a(27),cl=a(1300),gl=a(326),bl=a(237),fl=a(423),hl=a(176),pl=a(97),ml=a(132),vl=a(192),xl=a(146),Il=a(55),Bl=a(49),yl=a(58),Ul=o._14({encapsulation:2,styles:[],data:{}}),Tl=o._12("page-addon-badges-user-badges",m,function(l){return o._42(0,[(l()(),o._16(0,0,null,null,1,"page-addon-badges-user-badges",[],null,null,null,s,Ul)),o._15(1,49152,null,0,m,[yl.a,h.a,g.a,f.a,b.a],null,null)],null,null)},{},{},[]),$l=a(18),wl=a(322),Pl=a(323),kl=a(325),Kl=a(324),Ll=a(418),Rl=a(640),Cl=a(238);a.d(n,"AddonBadgesUserBadgesPageModuleNgFactory",function(){return Dl});var Dl=o._13(v,[],function(l){return o._25([o._26(512,o.n,o._6,[[8,[x.a,I.a,B.a,y.a,U.a,T.a,$.a,w.a,P.a,k.a,K.a,L.a,Tl]],[3,o.n],o.B]),o._26(4608,al.m,al.l,[o.x,[2,al.v]]),o._26(4608,$l.x,$l.x,[]),o._26(4608,$l.d,$l.d,[]),o._26(4608,wl.b,wl.a,[]),o._26(4608,Pl.a,Pl.b,[]),o._26(4608,kl.b,kl.a,[]),o._26(4608,Kl.b,Kl.a,[]),o._26(4608,H.a,H.a,[Ll.a,wl.b,Pl.a,kl.b,Kl.b,H.b,H.c]),o._26(512,al.b,al.b,[]),o._26(512,$l.v,$l.v,[]),o._26(512,$l.i,$l.i,[]),o._26(512,$l.s,$l.s,[]),o._26(512,Rl.a,Rl.a,[]),o._26(512,r.a,r.a,[]),o._26(512,d.a,d.a,[]),o._26(512,c.a,c.a,[]),o._26(512,_.a,_.a,[]),o._26(512,Rl.b,Rl.b,[]),o._26(512,v,v,[]),o._26(256,H.c,void 0,[]),o._26(256,H.b,void 0,[]),o._26(256,Cl.a,m,[])])})}});
+webpackJsonp([120],{
+
+/***/ 1786:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonBadgesIssuedBadgePageModule", function() { return AddonBadgesIssuedBadgePageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pipes_pipes_module__ = __webpack_require__(66);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__issued_badge__ = __webpack_require__(1911);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+var AddonBadgesIssuedBadgePageModule = /** @class */ (function () {
+    function AddonBadgesIssuedBadgePageModule() {
+    }
+    AddonBadgesIssuedBadgePageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_6__issued_badge__["a" /* AddonBadgesIssuedBadgePage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_5__pipes_pipes_module__["a" /* CorePipesModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_6__issued_badge__["a" /* AddonBadgesIssuedBadgePage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonBadgesIssuedBadgePageModule);
+    return AddonBadgesIssuedBadgePageModule;
+}());
+
+//# sourceMappingURL=issued-badge.module.js.map
+
+/***/ }),
+
+/***/ 1911:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonBadgesIssuedBadgePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_badges__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_utils_time__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__core_user_providers_user__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__core_courses_providers_courses__ = __webpack_require__(41);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+/**
+ * Page that displays the list of calendar events.
+ */
+var AddonBadgesIssuedBadgePage = /** @class */ (function () {
+    function AddonBadgesIssuedBadgePage(badgesProvider, navParams, sitesProvider, domUtils, timeUtils, userProvider, coursesProvider) {
+        this.badgesProvider = badgesProvider;
+        this.domUtils = domUtils;
+        this.timeUtils = timeUtils;
+        this.userProvider = userProvider;
+        this.coursesProvider = coursesProvider;
+        this.user = {};
+        this.course = {};
+        this.badge = {};
+        this.badgeLoaded = false;
+        this.currentTime = 0;
+        this.courseId = navParams.get('courseId') || 0; // Use 0 for site badges.
+        this.userId = navParams.get('userId') || sitesProvider.getCurrentSite().getUserId();
+        this.badgeHash = navParams.get('badgeHash');
+    }
+    /**
+     * View loaded.
+     */
+    AddonBadgesIssuedBadgePage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        this.fetchIssuedBadge().finally(function () {
+            _this.badgeLoaded = true;
+        });
+    };
+    /**
+     * Fetch the issued badge required for the view.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonBadgesIssuedBadgePage.prototype.fetchIssuedBadge = function () {
+        var _this = this;
+        var promises = [];
+        this.currentTime = this.timeUtils.timestamp();
+        var promise = this.userProvider.getProfile(this.userId, this.courseId, true).then(function (user) {
+            _this.user = user;
+        });
+        promises.push(promise);
+        promise = this.badgesProvider.getUserBadges(this.courseId, this.userId).then(function (badges) {
+            badges.forEach(function (badge) {
+                if (_this.badgeHash == badge.uniquehash) {
+                    _this.badge = badge;
+                    if (badge.courseid) {
+                        return _this.coursesProvider.getUserCourse(badge.courseid, true).then(function (course) {
+                            _this.course = course;
+                        }).catch(function () {
+                            // Maybe an old deleted course.
+                            _this.course = null;
+                        });
+                    }
+                }
+            });
+        }).catch(function (message) {
+            _this.domUtils.showErrorModalDefault(message, 'Error getting badge data.');
+        });
+        promises.push(promise);
+        return Promise.all(promises);
+    };
+    /**
+     * Refresh the badges.
+     *
+     * @param {any} refresher Refresher.
+     */
+    AddonBadgesIssuedBadgePage.prototype.refreshBadges = function (refresher) {
+        var _this = this;
+        this.badgesProvider.invalidateUserBadges(this.courseId, this.userId).finally(function () {
+            _this.fetchIssuedBadge().finally(function () {
+                refresher.complete();
+            });
+        });
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */])
+    ], AddonBadgesIssuedBadgePage.prototype, "content", void 0);
+    AddonBadgesIssuedBadgePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-badges-issued-badge',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/badges/pages/issued-badge/issued-badge.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{badge.name}}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="badgeLoaded" (ionRefresh)="refreshBadges($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-loading [hideUntil]="badgeLoaded">\n\n        <ion-item-group>\n            <ion-item text-wrap class="item-avatar-center">\n                <img *ngIf="badge.badgeurl" class="avatar" [src]="badge.badgeurl" core-external-content [alt]="badge.name">\n                <ion-badge color="danger" *ngIf="badge.dateexpire && currentTime >= badge.dateexpire">\n                    {{ \'addon.badges.expired\' | translate }}\n                </ion-badge>\n            </ion-item>\n        </ion-item-group>\n\n        <ion-item-group *ngIf="user.fullname">\n            <ion-item-divider color="light">\n                <h2>{{ \'addon.badges.recipientdetails\' | translate}}</h2>\n            </ion-item-divider>\n            <ion-item text-wrap>\n                <h2>{{ \'core.name\' | translate}}</h2>\n                <p>\n                    <core-format-text clean="true" [text]="user.fullname"></core-format-text>\n                </p>\n            </ion-item>\n        </ion-item-group>\n\n        <ion-item-group>\n            <ion-item-divider color="light">\n                <h2>{{ \'addon.badges.issuerdetails\' | translate}}</h2>\n            </ion-item-divider>\n            <ion-item text-wrap *ngIf="badge.issuername">\n                <h2>{{ \'addon.badges.issuername\' | translate}}</h2>\n                <p>\n                    <core-format-text clean="true" [text]="badge.issuername"></core-format-text>\n                </p>\n            </ion-item>\n            <ion-item text-wrap *ngIf="badge.issuercontact">\n                <h2>{{ \'addon.badges.contact\' | translate}}</h2>\n                <p>\n                    <core-format-text clean="true" [text]="badge.issuercontact"></core-format-text>\n                </p>\n            </ion-item>\n        </ion-item-group>\n\n        <ion-item-group>\n            <ion-item-divider color="light">\n                <h2>{{ \'addon.badges.badgedetails\' | translate}}</h2>\n            </ion-item-divider>\n            <ion-item text-wrap *ngIf="badge.name">\n                <h2>{{ \'core.name\' | translate}}</h2>\n                <p>{{badge.name}}</p>\n            </ion-item>\n            <ion-item text-wrap *ngIf="badge.description">\n                <h2>{{ \'core.description\' | translate}}</h2>\n                <p>\n                    <core-format-text clean="true" [text]="badge.description"></core-format-text>\n                </p>\n            </ion-item>\n            <ion-item text-wrap *ngIf="course.fullname">\n                <h2>{{ \'core.course\' | translate}}</h2>\n                <p>\n                    <core-format-text clean="true" [text]="course.fullname"></core-format-text>\n                </p>\n            </ion-item>\n        </ion-item-group>\n\n        <ion-item-group>\n            <ion-item-divider color="light">\n                <h2>{{ \'addon.badges.issuancedetails\' | translate}}</h2>\n            </ion-item-divider>\n            <ion-item text-wrap *ngIf="badge.dateissued">\n                <h2>{{ \'addon.badges.dateawarded\' | translate}}</h2>\n                <p>{{badge.dateissued | coreToLocaleString }}</p>\n            </ion-item>\n            <ion-item text-wrap *ngIf="badge.dateexpire">\n                <h2>{{ \'addon.badges.expirydate\' | translate}}</h2>\n                <p>{{badge.dateexpire | coreToLocaleString }}</p>\n            </ion-item>\n        </ion-item-group>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/badges/pages/issued-badge/issued-badge.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__providers_badges__["a" /* AddonBadgesProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_5__providers_sites__["a" /* CoreSitesProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_3__providers_utils_time__["a" /* CoreTimeUtilsProvider */],
+            __WEBPACK_IMPORTED_MODULE_6__core_user_providers_user__["a" /* CoreUserProvider */], __WEBPACK_IMPORTED_MODULE_7__core_courses_providers_courses__["a" /* CoreCoursesProvider */]])
+    ], AddonBadgesIssuedBadgePage);
+    return AddonBadgesIssuedBadgePage;
+}());
+
+//# sourceMappingURL=issued-badge.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=120.js.map

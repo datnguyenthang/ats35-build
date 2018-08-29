@@ -1,1 +1,238 @@
-webpackJsonp([87],{1829:function(l,n,u){"use strict";function a(l){return o._42(0,[(l()(),o._16(0,0,null,null,24,"ion-header",[],null,null,null,null,null)),o._15(1,16384,null,0,y.a,[C.a,o.p,o.K,[2,P.a]],null,null),(l()(),o._40(-1,null,["\n    "])),(l()(),o._16(3,0,null,null,20,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,k.b,k.a)),o._15(4,49152,null,0,M.a,[S.a,[2,P.a],[2,x.a],C.a,o.p,o.K],null,null),(l()(),o._40(-1,3,["\n        "])),(l()(),o._16(6,0,null,3,3,"ion-title",[],null,null,null,L.b,L.a)),o._15(7,49152,null,0,D.a,[C.a,o.p,o.K,[2,R.a],[2,M.a]],null,null),(l()(),o._40(8,0,["",""])),o._32(131072,j.a,[A.a,o.i]),(l()(),o._40(-1,3,["\n        "])),(l()(),o._16(11,0,null,2,11,"ion-buttons",[["end",""]],null,null,null,null,null)),o._15(12,16384,null,1,B.a,[C.a,o.p,o.K,[2,R.a],[2,M.a]],null,null),o._37(603979776,1,{_buttons:1}),(l()(),o._40(-1,null,["\n            "])),(l()(),o._16(15,0,null,null,6,"button",[["icon-only",""],["ion-button",""]],[[1,"aria-label",0]],[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.closeModal()&&a}return a},F.b,F.a)),o._15(16,1097728,[[1,4]],0,I.a,[[8,""],C.a,o.p,o.K],null,null),o._32(131072,j.a,[A.a,o.i]),(l()(),o._40(-1,0,["\n                "])),(l()(),o._16(19,0,null,0,1,"ion-icon",[["name","close"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o._15(20,147456,null,0,J.a,[C.a,o.p,o.K],{name:[0,"name"]},null),(l()(),o._40(-1,0,["\n            "])),(l()(),o._40(-1,null,["\n        "])),(l()(),o._40(-1,3,["\n    "])),(l()(),o._40(-1,null,["\n"])),(l()(),o._40(-1,null,["\n"])),(l()(),o._16(26,0,null,null,47,"ion-content",[["class","addon-mod_lesson-password-modal"],["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,N.b,N.a)),o._15(27,4374528,null,0,O.a,[C.a,T.a,U.a,o.p,o.K,S.a,V.a,o.D,[2,P.a],[2,x.a]],null,null),(l()(),o._40(-1,1,["\n    "])),(l()(),o._16(29,0,null,1,43,"form",[["ion-list",""],["novalidate",""]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngSubmit"],[null,"submit"],[null,"reset"]],function(l,n,u){var a=!0,_=l.component;if("submit"===n){a=!1!==o._29(l,31).onSubmit(u)&&a}if("reset"===n){a=!1!==o._29(l,31).onReset()&&a}if("ngSubmit"===n){a=!1!==_.submitPassword(o._29(l,52))&&a}return a},null,null)),o._15(30,16384,null,0,q.w,[],null,null),o._15(31,4210688,null,0,q.p,[[8,null],[8,null]],null,{ngSubmit:"ngSubmit"}),o._35(2048,null,q.b,null,[q.p]),o._15(33,16384,null,0,q.o,[q.b],null,null),(l()(),o._40(-1,null,["\n        "])),(l()(),o._16(35,0,null,null,20,"ion-item",[["class","item item-block"]],null,null,null,z.b,z.a)),o._15(36,1097728,null,3,E.a,[G.a,C.a,o.p,o.K,[2,H.a]],null,null),o._37(335544320,2,{contentLabel:0}),o._37(603979776,3,{_buttons:1}),o._37(603979776,4,{_icons:1}),o._15(40,16384,null,0,Q.a,[],null,null),(l()(),o._40(-1,2,["\n            "])),(l()(),o._16(42,0,null,3,12,"core-show-password",[["item-content",""]],null,null,null,W.b,W.a)),o._15(43,4308992,null,0,X.a,[o.p,Y.a],{name:[0,"name"]},null),(l()(),o._40(-1,0,["\n                "])),(l()(),o._16(45,0,null,0,3,"ion-label",[],null,null,null,null,null)),o._15(46,16384,[[2,4]],0,Z.a,[C.a,o.p,o.K,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),o._40(47,null,["",""])),o._32(131072,j.a,[A.a,o.i]),(l()(),o._40(-1,0,["\n                "])),(l()(),o._16(50,0,null,0,3,"ion-input",[["name","password"],["type","password"]],null,null,null,$.b,$.a)),o._15(51,81920,null,0,ll.a,[o.p,nl.a,Y.a,[2,x.a]],null,null),o._15(52,5423104,[["passwordinput",4]],0,ul.a,[C.a,T.a,G.a,S.a,o.p,o.K,[2,O.a],[2,E.a],[2,q.m],U.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),o._32(131072,j.a,[A.a,o.i]),(l()(),o._40(-1,0,["\n            "])),(l()(),o._40(-1,2,["\n        "])),(l()(),o._40(-1,null,["\n        "])),(l()(),o._16(57,0,null,null,14,"ion-item",[["class","item item-block"]],null,null,null,z.b,z.a)),o._15(58,1097728,null,3,E.a,[G.a,C.a,o.p,o.K,[2,H.a]],null,null),o._37(335544320,5,{contentLabel:0}),o._37(603979776,6,{_buttons:1}),o._37(603979776,7,{_icons:1}),o._15(62,16384,null,0,Q.a,[],null,null),(l()(),o._40(-1,2,["\n            "])),(l()(),o._16(64,0,null,2,6,"button",[["block",""],["icon-end",""],["ion-button",""],["type","submit"]],null,null,null,F.b,F.a)),o._15(65,1097728,[[6,4]],0,I.a,[[8,""],C.a,o.p,o.K],{block:[0,"block"]},null),(l()(),o._40(66,0,["\n                ","\n                "])),o._32(131072,j.a,[A.a,o.i]),(l()(),o._16(68,0,null,0,1,"ion-icon",[["md","ios-arrow-forward"],["name","arrow-forward"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o._15(69,147456,null,0,J.a,[C.a,o.p,o.K],{name:[0,"name"],md:[1,"md"]},null),(l()(),o._40(-1,0,["\n            "])),(l()(),o._40(-1,2,["\n        "])),(l()(),o._40(-1,null,["\n    "])),(l()(),o._40(-1,1,["\n"])),(l()(),o._40(-1,null,["\n"]))],function(l,n){l(n,20,0,"close");l(n,43,0,"password"),l(n,51,0);l(n,52,0,"password",o._19(1,"",o._41(n,52,1,o._29(n,53).transform("core.login.password")),""));l(n,65,0,"");l(n,69,0,"arrow-forward","ios-arrow-forward")},function(l,n){l(n,3,0,o._29(n,4)._hidden,o._29(n,4)._sbPadding);l(n,8,0,o._41(n,8,0,o._29(n,9).transform("core.login.password")));l(n,15,0,o._41(n,15,0,o._29(n,17).transform("core.close")));l(n,19,0,o._29(n,20)._hidden);l(n,26,0,o._29(n,27).statusbarPadding,o._29(n,27)._hasRefresher);l(n,29,0,o._29(n,33).ngClassUntouched,o._29(n,33).ngClassTouched,o._29(n,33).ngClassPristine,o._29(n,33).ngClassDirty,o._29(n,33).ngClassValid,o._29(n,33).ngClassInvalid,o._29(n,33).ngClassPending);l(n,47,0,o._41(n,47,0,o._29(n,48).transform("addon.mod_lesson.enterpassword")));l(n,66,0,o._41(n,66,0,o._29(n,67).transform("addon.mod_lesson.continue")));l(n,68,0,o._29(n,69)._hidden)})}Object.defineProperty(n,"__esModule",{value:!0});var o=u(1),_=(u(0),u(10),function(){function l(l){this.viewCtrl=l}return l.prototype.submitPassword=function(l){this.viewCtrl.dismiss(l.value)},l.prototype.closeModal=function(){this.viewCtrl.dismiss()},l}()),s=u(6),t=u(32),i=u(31),e=function(){return function(){}}(),r=u(1290),d=u(1291),c=u(1292),b=u(1293),p=u(1294),m=u(1295),g=u(1296),f=u(1297),w=u(1298),h=u(1301),v=u(1302),K=u(1303),y=u(419),C=u(7),P=u(35),k=u(1299),M=u(191),S=u(27),x=u(22),L=u(1300),D=u(326),R=u(237),j=u(28),A=u(17),B=u(420),F=u(45),I=u(39),J=u(40),N=u(176),O=u(25),T=u(14),U=u(26),V=u(97),q=u(18),z=u(34),E=u(21),G=u(19),H=u(29),Q=u(33),W=u(648),X=u(332),Y=u(3),Z=u(59),$=u(90),ll=u(329),nl=u(5),ul=u(73),al=o._14({encapsulation:2,styles:[],data:{}}),ol=o._12("page-addon-mod-lesson-password-modal",_,function(l){return o._42(0,[(l()(),o._16(0,0,null,null,1,"page-addon-mod-lesson-password-modal",[],null,null,null,a,al)),o._15(1,49152,null,0,_,[P.a],null,null)],null,null)},{},{},[]),_l=u(9),sl=u(322),tl=u(323),il=u(325),el=u(324),rl=u(418),dl=u(640),cl=u(107),bl=u(238);u.d(n,"AddonModLessonPasswordModalPageModuleNgFactory",function(){return pl});var pl=o._13(e,[],function(l){return o._25([o._26(512,o.n,o._6,[[8,[r.a,d.a,c.a,b.a,p.a,m.a,g.a,f.a,w.a,h.a,v.a,K.a,ol]],[3,o.n],o.B]),o._26(4608,_l.m,_l.l,[o.x,[2,_l.v]]),o._26(4608,q.x,q.x,[]),o._26(4608,q.d,q.d,[]),o._26(4608,sl.b,sl.a,[]),o._26(4608,tl.a,tl.b,[]),o._26(4608,il.b,il.a,[]),o._26(4608,el.b,el.a,[]),o._26(4608,A.a,A.a,[rl.a,sl.b,tl.a,il.b,el.b,A.b,A.c]),o._26(512,_l.b,_l.b,[]),o._26(512,q.v,q.v,[]),o._26(512,q.i,q.i,[]),o._26(512,q.s,q.s,[]),o._26(512,dl.a,dl.a,[]),o._26(512,s.a,s.a,[]),o._26(512,i.a,i.a,[]),o._26(512,cl.a,cl.a,[]),o._26(512,t.a,t.a,[]),o._26(512,dl.b,dl.b,[]),o._26(512,e,e,[]),o._26(256,A.c,void 0,[]),o._26(256,A.b,void 0,[]),o._26(256,bl.a,_,[])])})}});
+webpackJsonp([87],{
+
+/***/ 1820:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModFeedbackNonRespondentsPageModule", function() { return AddonModFeedbackNonRespondentsPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_components_module__ = __webpack_require__(932);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__nonrespondents__ = __webpack_require__(1945);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+var AddonModFeedbackNonRespondentsPageModule = /** @class */ (function () {
+    function AddonModFeedbackNonRespondentsPageModule() {
+    }
+    AddonModFeedbackNonRespondentsPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_6__nonrespondents__["a" /* AddonModFeedbackNonRespondentsPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_5__components_components_module__["a" /* AddonModFeedbackComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_6__nonrespondents__["a" /* AddonModFeedbackNonRespondentsPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModFeedbackNonRespondentsPageModule);
+    return AddonModFeedbackNonRespondentsPageModule;
+}());
+
+//# sourceMappingURL=nonrespondents.module.js.map
+
+/***/ }),
+
+/***/ 1945:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonModFeedbackNonRespondentsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_feedback__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_helper__ = __webpack_require__(248);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_groups__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__ = __webpack_require__(8);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+/**
+ * Page that displays feedback non respondents.
+ */
+var AddonModFeedbackNonRespondentsPage = /** @class */ (function () {
+    function AddonModFeedbackNonRespondentsPage(navParams, feedbackProvider, groupsProvider, domUtils, feedbackHelper, navCtrl) {
+        this.feedbackProvider = feedbackProvider;
+        this.groupsProvider = groupsProvider;
+        this.domUtils = domUtils;
+        this.feedbackHelper = feedbackHelper;
+        this.navCtrl = navCtrl;
+        this.page = 0;
+        this.groupInfo = {
+            groups: [],
+            separateGroups: false,
+            visibleGroups: false
+        };
+        this.users = [];
+        this.total = 0;
+        this.canLoadMore = false;
+        this.feedbackLoaded = false;
+        this.loadingMore = false;
+        var module = navParams.get('module');
+        this.moduleId = module.id;
+        this.feedbackId = module.instance;
+        this.courseId = navParams.get('courseId');
+        this.selectedGroup = navParams.get('group') || 0;
+    }
+    /**
+     * View loaded.
+     */
+    AddonModFeedbackNonRespondentsPage.prototype.ionViewDidLoad = function () {
+        this.fetchData();
+    };
+    /**
+     * Fetch all the data required for the view.
+     *
+     * @param {boolean} [refresh] Empty events array first.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModFeedbackNonRespondentsPage.prototype.fetchData = function (refresh) {
+        var _this = this;
+        if (refresh === void 0) { refresh = false; }
+        this.page = 0;
+        this.total = 0;
+        this.users = [];
+        return this.groupsProvider.getActivityGroupInfo(this.moduleId).then(function (groupInfo) {
+            _this.groupInfo = groupInfo;
+            return _this.loadGroupUsers(_this.selectedGroup);
+        }).catch(function (message) {
+            _this.domUtils.showErrorModalDefault(message, 'core.course.errorgetmodule', true);
+            if (!refresh) {
+                // Some call failed on first fetch, go back.
+                _this.navCtrl.pop();
+            }
+            return Promise.reject(null);
+        });
+    };
+    /**
+     * Load Group responses.
+     *
+     * @param  {number} [groupId]   If defined it will change group if not, it will load more users for the same group.
+     * @return {Promise<any>}       Resolved with the attempts loaded.
+     */
+    AddonModFeedbackNonRespondentsPage.prototype.loadGroupUsers = function (groupId) {
+        var _this = this;
+        if (typeof groupId == 'undefined') {
+            this.page++;
+            this.loadingMore = true;
+        }
+        else {
+            this.selectedGroup = groupId;
+            this.page = 0;
+            this.total = 0;
+            this.users = [];
+            this.feedbackLoaded = false;
+        }
+        return this.feedbackHelper.getNonRespondents(this.feedbackId, this.selectedGroup, this.page).then(function (response) {
+            _this.total = response.total;
+            if (_this.users.length < response.total) {
+                _this.users = _this.users.concat(response.users);
+            }
+            _this.canLoadMore = _this.users.length < response.total;
+            return response;
+        }).finally(function () {
+            _this.loadingMore = false;
+            _this.feedbackLoaded = true;
+        });
+    };
+    /**
+     * Change selected group or load more users.
+     *
+     * @param {number} [groupId] Group ID selected. If not defined, it will load more users.
+     */
+    AddonModFeedbackNonRespondentsPage.prototype.loadAttempts = function (groupId) {
+        var _this = this;
+        this.loadGroupUsers(groupId).catch(function (message) {
+            _this.domUtils.showErrorModalDefault(message, 'core.course.errorgetmodule', true);
+        });
+    };
+    /**
+     * Refresh the attempts.
+     *
+     * @param {any} refresher Refresher.
+     */
+    AddonModFeedbackNonRespondentsPage.prototype.refreshFeedback = function (refresher) {
+        var _this = this;
+        if (this.feedbackLoaded) {
+            var promises = [];
+            promises.push(this.feedbackProvider.invalidateNonRespondentsData(this.feedbackId));
+            promises.push(this.groupsProvider.invalidateActivityGroupInfo(this.moduleId));
+            Promise.all(promises).finally(function () {
+                return _this.fetchData(true);
+            }).finally(function () {
+                refresher.complete();
+            });
+        }
+    };
+    AddonModFeedbackNonRespondentsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-mod-feedback-nonrespondents',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/feedback/pages/nonrespondents/nonrespondents.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title>{{ \'addon.mod_feedback.responses\' |translate }}</ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="feedbackLoaded" (ionRefresh)="refreshFeedback($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-loading [hideUntil]="feedbackLoaded">\n        <ion-list no-margin>\n            <ion-item text-wrap *ngIf="groupInfo.separateGroups || groupInfo.visibleGroups">\n                <ion-label id="addon-feedback-groupslabel" *ngIf="groupInfo.separateGroups">{{ \'core.groupsseparate\' | translate }}</ion-label>\n                <ion-label id="addon-feedback-groupslabel" *ngIf="groupInfo.visibleGroups">{{ \'core.groupsvisible\' | translate }}</ion-label>\n                <ion-select [(ngModel)]="selectedGroup" (ionChange)="loadAttempts(selectedGroup)" aria-labelledby="addon-feedback-groupslabel" interface="popover">\n                    <ion-option *ngFor="let groupOpt of groupInfo.groups" [value]="groupOpt.id">{{groupOpt.name}}</ion-option>\n                </ion-select>\n            </ion-item>\n            <ion-item-divider color="light">\n                {{ \'addon.mod_feedback.non_respondents_students\' | translate : {$a: total } }}\n            </ion-item-divider>\n            <ng-container *ngIf="total > 0">\n                <ion-item *ngFor="let user of users" text-wrap>\n                    <ion-avatar item-start>\n                        <img [src]="user.profileimageurl" [alt]="\'core.pictureof\' | translate:{$a: user.fullname}" core-external-content onError="this.src=\'assets/img/user-avatar.png\'">\n                    </ion-avatar>\n                    <h2><core-format-text [text]="user.fullname"></core-format-text></h2>\n                    <p>\n                        <ion-badge color="success" *ngIf="user.started">\n                            {{ \'addon.mod_feedback.started\' | translate}}\n                        </ion-badge>\n                        <ion-badge color="danger" *ngIf="!user.started">\n                            {{ \'addon.mod_feedback.not_started\' | translate}}\n                        </ion-badge>\n                    </p>\n                </ion-item>\n            </ng-container>\n            <ion-item padding text-center *ngIf="canLoadMore">\n                <!-- Button and spinner to show more attempts. -->\n                <button ion-button block *ngIf="!loadingMore" (click)="loadAttempts()">{{ \'core.loadmore\' | translate }}</button>\n                <ion-spinner *ngIf="loadingMore"></ion-spinner>\n            </ion-item>\n        </ion-list>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/feedback/pages/nonrespondents/nonrespondents.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_feedback__["a" /* AddonModFeedbackProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_groups__["a" /* CoreGroupsProvider */], __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__["a" /* CoreDomUtilsProvider */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_helper__["a" /* AddonModFeedbackHelperProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */]])
+    ], AddonModFeedbackNonRespondentsPage);
+    return AddonModFeedbackNonRespondentsPage;
+}());
+
+//# sourceMappingURL=nonrespondents.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=87.js.map

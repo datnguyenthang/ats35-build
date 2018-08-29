@@ -1,1 +1,373 @@
-webpackJsonp([93],{1822:function(l,n,a){"use strict";function u(l){return t._42(0,[t._37(402653184,1,{forumComponent:0}),(l()(),t._16(1,0,null,null,17,"ion-header",[],null,null,null,null,null)),t._15(2,16384,null,0,M.a,[P.a,t.p,t.K,[2,D.a]],null,null),(l()(),t._40(-1,null,["\n    "])),(l()(),t._16(4,0,null,null,13,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,F.b,F.a)),t._15(5,49152,null,0,j.a,[k.a,[2,D.a],[2,w.a],P.a,t.p,t.K],null,null),(l()(),t._40(-1,3,["\n        "])),(l()(),t._16(7,0,null,3,3,"ion-title",[],null,null,null,A.b,A.a)),t._15(8,49152,null,0,B.a,[P.a,t.p,t.K,[2,C.a],[2,j.a]],null,null),(l()(),t._16(9,0,null,0,1,"core-format-text",[],null,null,null,null,null)),t._15(10,540672,null,0,J.a,[t.p,N.a,O.a,q.a,z.a,E.a,G.a,H.a,L.a,Q.a,S.a,T.a,[2,w.a],[2,U.a]],{text:[0,"text"]},null),(l()(),t._40(-1,3,["\n\n        "])),(l()(),t._16(12,0,null,2,4,"ion-buttons",[["end",""]],null,null,null,null,null)),t._15(13,16384,null,1,V.a,[P.a,t.p,t.K,[2,C.a],[2,j.a]],null,null),t._37(603979776,2,{_buttons:1}),(l()(),t._40(-1,null,["\n            "])),(l()(),t._40(-1,null,["\n        "])),(l()(),t._40(-1,3,["\n    "])),(l()(),t._40(-1,null,["\n"])),(l()(),t._40(-1,null,["\n\n"])),(l()(),t._16(20,0,null,null,1,"addon-mod-forum-index",[],null,[[null,"dataRetrieved"]],function(l,n,a){var u=!0;if("dataRetrieved"===n){u=!1!==l.component.updateData(a)&&u}return u},R.c,R.b)),t._15(21,245760,[[1,4]],0,d.a,[t.u,[2,U.a],w.a,W.a,X.a,Y.a,Z.a,$.a,ll.a,nl.a,al.a],{module:[0,"module"],courseId:[1,"courseId"]},{dataRetrieved:"dataRetrieved"}),(l()(),t._40(-1,null,["\n"]))],function(l,n){var a=n.component;l(n,10,0,a.title);l(n,21,0,a.module,a.courseId)},function(l,n){l(n,4,0,t._29(n,5)._hidden,t._29(n,5)._sbPadding)})}Object.defineProperty(n,"__esModule",{value:!0});var t=a(1),e=(a(0),a(10),a(6)),_=a(31),o=a(653),d=a(444),i=function(){function l(l){this.module=l.get("module")||{},this.courseId=l.get("courseId"),this.title=this.module.name}return l.prototype.updateData=function(l){this.title=l.name||this.title},l}(),r=function(){return function(){}}(),c=a(1290),s=a(1291),b=a(1292),m=a(1293),f=a(1294),p=a(1295),v=a(1296),x=a(1297),h=a(1298),g=a(1301),I=a(1302),y=a(1303),K=a(1304),R=a(1332),M=a(419),P=a(7),D=a(35),F=a(1299),j=a(191),k=a(27),w=a(22),A=a(1300),B=a(326),C=a(237),J=a(38),N=a(2),O=a(5),q=a(12),z=a(17),E=a(14),G=a(3),H=a(24),L=a(4),Q=a(16),S=a(11),T=a(23),U=a(25),V=a(420),W=a(61),X=a(44),Y=a(169),Z=a(242),$=a(200),ll=a(243),nl=a(50),al=a(352),ul=a(58),tl=t._14({encapsulation:2,styles:[],data:{}}),el=t._12("page-addon-mod-forum-index",i,function(l){return t._42(0,[(l()(),t._16(0,0,null,null,1,"page-addon-mod-forum-index",[],null,null,null,u,tl)),t._15(1,49152,null,0,i,[ul.a],null,null)],null,null)},{},{},[]),_l=a(9),ol=a(18),dl=a(322),il=a(323),rl=a(325),cl=a(324),sl=a(418),bl=a(640),ml=a(107),fl=a(32),pl=a(72),vl=a(238);a.d(n,"AddonModForumIndexPageModuleNgFactory",function(){return xl});var xl=t._13(r,[],function(l){return t._25([t._26(512,t.n,t._6,[[8,[c.a,s.a,b.a,m.a,f.a,p.a,v.a,x.a,h.a,g.a,I.a,y.a,K.a,R.a,el]],[3,t.n],t.B]),t._26(4608,_l.m,_l.l,[t.x,[2,_l.v]]),t._26(4608,ol.x,ol.x,[]),t._26(4608,ol.d,ol.d,[]),t._26(4608,dl.b,dl.a,[]),t._26(4608,il.a,il.b,[]),t._26(4608,rl.b,rl.a,[]),t._26(4608,cl.b,cl.a,[]),t._26(4608,z.a,z.a,[sl.a,dl.b,il.a,rl.b,cl.b,z.b,z.c]),t._26(512,_.a,_.a,[]),t._26(512,_l.b,_l.b,[]),t._26(512,ol.v,ol.v,[]),t._26(512,ol.i,ol.i,[]),t._26(512,ol.s,ol.s,[]),t._26(512,bl.a,bl.a,[]),t._26(512,e.a,e.a,[]),t._26(512,ml.a,ml.a,[]),t._26(512,fl.a,fl.a,[]),t._26(512,pl.a,pl.a,[]),t._26(512,o.a,o.a,[]),t._26(512,bl.b,bl.b,[]),t._26(512,r,r,[]),t._26(256,z.c,void 0,[]),t._26(256,z.b,void 0,[]),t._26(256,vl.a,i,[])])})}});
+webpackJsonp([93],{
+
+/***/ 1815:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModDataEntryPageModule", function() { return AddonModDataEntryPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__core_comments_components_components_module__ = __webpack_require__(393);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__core_compile_components_compile_html_compile_html_module__ = __webpack_require__(391);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_components_module__ = __webpack_require__(390);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__entry__ = __webpack_require__(1940);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+var AddonModDataEntryPageModule = /** @class */ (function () {
+    function AddonModDataEntryPageModule() {
+    }
+    AddonModDataEntryPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_8__entry__["a" /* AddonModDataEntryPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_7__components_components_module__["a" /* AddonModDataComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_6__core_compile_components_compile_html_compile_html_module__["a" /* CoreCompileHtmlComponentModule */],
+                __WEBPACK_IMPORTED_MODULE_5__core_comments_components_components_module__["a" /* CoreCommentsComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_8__entry__["a" /* AddonModDataEntryPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModDataEntryPageModule);
+    return AddonModDataEntryPageModule;
+}());
+
+//# sourceMappingURL=entry.module.js.map
+
+/***/ }),
+
+/***/ 1940:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonModDataEntryPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_utils_utils__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_groups__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_events__ = __webpack_require__(12);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__core_course_providers_course__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_data__ = __webpack_require__(59);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_helper__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__providers_offline__ = __webpack_require__(150);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_sync__ = __webpack_require__(256);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_fields_delegate__ = __webpack_require__(62);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_components_module__ = __webpack_require__(390);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that displays the view entry page.
+ */
+var AddonModDataEntryPage = /** @class */ (function () {
+    function AddonModDataEntryPage(params, utils, groupsProvider, domUtils, fieldsDelegate, courseProvider, dataProvider, dataOffline, dataHelper, sitesProvider, navCtrl, eventsProvider) {
+        this.utils = utils;
+        this.groupsProvider = groupsProvider;
+        this.domUtils = domUtils;
+        this.fieldsDelegate = fieldsDelegate;
+        this.courseProvider = courseProvider;
+        this.dataProvider = dataProvider;
+        this.dataOffline = dataOffline;
+        this.dataHelper = dataHelper;
+        this.navCtrl = navCtrl;
+        this.eventsProvider = eventsProvider;
+        this.fields = {};
+        this.title = '';
+        this.moduleName = 'data';
+        this.component = __WEBPACK_IMPORTED_MODULE_8__providers_data__["a" /* AddonModDataProvider */].COMPONENT;
+        this.entryLoaded = false;
+        this.selectedGroup = 0;
+        this.offlineActions = [];
+        this.hasOffline = false;
+        this.cssTemplate = '';
+        this.entryRendered = '';
+        this.cssClass = '';
+        this.extraImports = [__WEBPACK_IMPORTED_MODULE_13__components_components_module__["a" /* AddonModDataComponentsModule */]];
+        this.module = params.get('module') || {};
+        this.entryId = params.get('entryId') || null;
+        this.courseId = params.get('courseId');
+        this.selectedGroup = params.get('group') || 0;
+        this.page = params.get('page') || null;
+        this.siteId = sitesProvider.getCurrentSiteId();
+        this.title = this.module.name;
+        this.moduleName = this.courseProvider.translateModuleName('data');
+    }
+    /**
+     * View loaded.
+     */
+    AddonModDataEntryPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        this.fetchEntryData();
+        // Refresh data if this discussion is synchronized automatically.
+        this.syncObserver = this.eventsProvider.on(__WEBPACK_IMPORTED_MODULE_11__providers_sync__["a" /* AddonModDataSyncProvider */].AUTO_SYNCED, function (data) {
+            if ((data.entryId == _this.entryId || data.offlineEntryId == _this.entryId) && _this.data.id == data.dataId) {
+                if (data.deleted) {
+                    // If deleted, go back.
+                    _this.navCtrl.pop();
+                }
+                else {
+                    _this.entryId = data.entryid;
+                    _this.entryLoaded = false;
+                    _this.fetchEntryData(true);
+                }
+            }
+        }, this.siteId);
+        // Refresh entry on change.
+        this.entryChangedObserver = this.eventsProvider.on(__WEBPACK_IMPORTED_MODULE_8__providers_data__["a" /* AddonModDataProvider */].ENTRY_CHANGED, function (data) {
+            if (data.entryId == _this.entryId && _this.data.id == data.dataId) {
+                if (data.deleted) {
+                    // If deleted, go back.
+                    _this.navCtrl.pop();
+                }
+                else {
+                    _this.entryLoaded = false;
+                    _this.fetchEntryData(true);
+                }
+            }
+        }, this.siteId);
+    };
+    /**
+     * Fetch the entry data.
+     *
+     * @param  {boolean}      refresh If refresh the current data or not.
+     * @return {Promise<any>}         Resolved when done.
+     */
+    AddonModDataEntryPage.prototype.fetchEntryData = function (refresh) {
+        var _this = this;
+        var fieldsArray;
+        return this.dataProvider.getDatabase(this.courseId, this.module.id).then(function (data) {
+            _this.title = data.name || _this.title;
+            _this.data = data;
+            _this.cssClass = 'addon-data-entries-' + data.id;
+            return _this.setEntryIdFromPage(data.id, _this.page, _this.selectedGroup).then(function () {
+                return _this.dataProvider.getDatabaseAccessInformation(data.id);
+            });
+        }).then(function (accessData) {
+            _this.access = accessData;
+            return _this.groupsProvider.getActivityGroupInfo(_this.data.coursemodule, accessData.canmanageentries)
+                .then(function (groupInfo) {
+                _this.groupInfo = groupInfo;
+                // Check selected group is accessible.
+                if (groupInfo && groupInfo.groups && groupInfo.groups.length > 0) {
+                    if (!groupInfo.groups.some(function (group) { return _this.selectedGroup == group.id; })) {
+                        _this.selectedGroup = groupInfo.groups[0].id;
+                    }
+                }
+                return _this.dataOffline.getEntryActions(_this.data.id, _this.entryId);
+            });
+        }).then(function (actions) {
+            _this.offlineActions = actions;
+            _this.hasOffline = !!actions.length;
+            return _this.dataProvider.getFields(_this.data.id).then(function (fieldsData) {
+                _this.fields = _this.utils.arrayToObject(fieldsData, 'id');
+                return _this.dataHelper.getEntry(_this.data, _this.entryId, _this.offlineActions);
+            });
+        }).then(function (entry) {
+            entry = entry.entry;
+            _this.cssTemplate = _this.dataHelper.prefixCSS(_this.data.csstemplate, '.' + _this.cssClass);
+            // Index contents by fieldid.
+            entry.contents = _this.utils.arrayToObject(entry.contents, 'fieldid');
+            fieldsArray = _this.utils.objectToArray(_this.fields);
+            return _this.dataHelper.applyOfflineActions(entry, _this.offlineActions, fieldsArray);
+        }).then(function (entryData) {
+            _this.entry = entryData;
+            var actions = _this.dataHelper.getActions(_this.data, _this.access, _this.entry);
+            _this.entryRendered = _this.dataHelper.displayShowFields(_this.data.singletemplate, fieldsArray, _this.entry, 'show', actions);
+            _this.showComments = actions.comments;
+            var entries = {};
+            entries[_this.entryId] = _this.entry;
+            // Pass the input data to the component.
+            _this.jsData = {
+                fields: _this.fields,
+                entries: entries,
+                data: _this.data
+            };
+            return _this.dataHelper.getPageInfoByEntry(_this.data.id, _this.entryId, _this.selectedGroup).then(function (result) {
+                _this.previousId = result.previousId;
+                _this.nextId = result.nextId;
+            });
+        }).catch(function (message) {
+            if (!refresh) {
+                // Some call failed, retry without using cache since it might be a new activity.
+                return _this.refreshAllData();
+            }
+            _this.domUtils.showErrorModalDefault(message, 'core.course.errorgetmodule', true);
+        }).finally(function () {
+            _this.content && _this.content.scrollToTop();
+            _this.entryLoaded = true;
+        });
+    };
+    /**
+     * Go to selected entry without changing state.
+     *
+     * @param  {number}       entry Entry Id where to go.
+     * @return {Promise<any>}       Resolved when done.
+     */
+    AddonModDataEntryPage.prototype.gotoEntry = function (entry) {
+        this.entryId = entry;
+        this.page = null;
+        this.entryLoaded = false;
+        return this.fetchEntryData();
+    };
+    /**
+     * Refresh all the data.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModDataEntryPage.prototype.refreshAllData = function () {
+        var _this = this;
+        var promises = [];
+        promises.push(this.dataProvider.invalidateDatabaseData(this.courseId));
+        if (this.data) {
+            promises.push(this.dataProvider.invalidateEntryData(this.data.id, this.entryId));
+            promises.push(this.groupsProvider.invalidateActivityGroupInfo(this.data.coursemodule));
+            promises.push(this.dataProvider.invalidateEntriesData(this.data.id));
+        }
+        return Promise.all(promises).finally(function () {
+            return _this.fetchEntryData(true);
+        });
+    };
+    /**
+     * Refresh the data.
+     *
+     * @param {any} [refresher] Refresher.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModDataEntryPage.prototype.refreshDatabase = function (refresher) {
+        if (this.entryLoaded) {
+            return this.refreshAllData().finally(function () {
+                refresher && refresher.complete();
+            });
+        }
+    };
+    /**
+     * Set group to see the database.
+     *
+     * @param  {number}       groupId Group identifier to set.
+     * @return {Promise<any>}         Resolved when done.
+     */
+    AddonModDataEntryPage.prototype.setGroup = function (groupId) {
+        var _this = this;
+        this.selectedGroup = groupId;
+        this.entryLoaded = false;
+        return this.setEntryIdFromPage(this.data.id, 0, this.selectedGroup).then(function () {
+            return _this.fetchEntryData();
+        });
+    };
+    /**
+     * Convenience function to translate page number to entry identifier.
+     *
+     * @param  {number}       dataId       Data Id.
+     * @param  {number}       [pageNumber] Page number where to go
+     * @param  {number}       group        Group Id to get the entry.
+     * @return {Promise<any>}              Resolved when done.
+     */
+    AddonModDataEntryPage.prototype.setEntryIdFromPage = function (dataId, pageNumber, group) {
+        var _this = this;
+        if (typeof pageNumber == 'number') {
+            return this.dataHelper.getPageInfoByPage(dataId, pageNumber, group).then(function (result) {
+                _this.entryId = result.entryId;
+                _this.page = null;
+            });
+        }
+        return Promise.resolve();
+    };
+    /**
+     * Component being destroyed.
+     */
+    AddonModDataEntryPage.prototype.ngOnDestroy = function () {
+        this.syncObserver && this.syncObserver.off();
+        this.entryChangedObserver && this.entryChangedObserver.off();
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */])
+    ], AddonModDataEntryPage.prototype, "content", void 0);
+    AddonModDataEntryPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-mod-data-entry',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/data/pages/entry/entry.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="title"></core-format-text></ion-title>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <ion-refresher [enabled]="entryLoaded" (ionRefresh)="refreshDatabase($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n    <core-loading [hideUntil]="entryLoaded">\n        <!-- Database entries found to be synchronized -->\n        <div class="core-warning-card" icon-start *ngIf="hasOffline">\n            <ion-icon name="warning"></ion-icon>\n            {{ \'core.hasdatatosync\' | translate: {$a: moduleName} }}\n        </div>\n\n        <ion-item text-wrap *ngIf="groupInfo && (groupInfo.separateGroups || groupInfo.visibleGroups)">\n            <ion-label id="addon-data-groupslabel" *ngIf="groupInfo.separateGroups">{{ \'core.groupsseparate\' | translate }}</ion-label>\n            <ion-label id="addon-data-groupslabel" *ngIf="groupInfo.visibleGroups">{{ \'core.groupsvisible\' | translate }}</ion-label>\n            <ion-select [(ngModel)]="selectedGroup" (ionChange)="setGroup(selectedGroup)" aria-labelledby="addon-data-groupslabel" interface="popover">\n                <ion-option *ngFor="let groupOpt of groupInfo.groups" [value]="groupOpt.id">{{groupOpt.name}}</ion-option>\n            </ion-select>\n        </ion-item>\n\n        <div class="addon-data-contents {{cssClass}}">\n            <style *ngIf="cssTemplate">\n                {{ cssTemplate }}\n            </style>\n\n            <core-compile-html [text]="entryRendered" [jsData]="jsData" [extraImports]="extraImports"></core-compile-html>\n        </div>\n\n        <ion-item *ngIf="data && entry">\n            <core-comments contextLevel="module" [instanceId]="data.coursemodule" component="mod_data" [itemId]="entry.id" area="database_entry"></core-comments>\n        </ion-item>\n\n        <ion-grid *ngIf="previousId || nextId">\n            <ion-row align-items-center>\n                <ion-col *ngIf="previousId">\n                    <button ion-button block outline icon-start (click)="gotoEntry(previousId)">\n                        <ion-icon name="arrow-back"></ion-icon>\n                        {{ \'core.previous\' | translate }}\n                    </button>\n                </ion-col>\n                <ion-col *ngIf="nextId">\n                    <button ion-button block icon-end (click)="gotoEntry(nextId)">\n                        {{ \'core.next\' | translate }}\n                        <ion-icon name="arrow-forward"></ion-icon>\n                    </button>\n                </ion-col>\n            </ion-row>\n        </ion-grid>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/data/pages/entry/entry.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_utils_utils__["a" /* CoreUtilsProvider */], __WEBPACK_IMPORTED_MODULE_5__providers_groups__["a" /* CoreGroupsProvider */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_12__providers_fields_delegate__["a" /* AddonModDataFieldsDelegate */],
+            __WEBPACK_IMPORTED_MODULE_7__core_course_providers_course__["a" /* CoreCourseProvider */], __WEBPACK_IMPORTED_MODULE_8__providers_data__["a" /* AddonModDataProvider */],
+            __WEBPACK_IMPORTED_MODULE_10__providers_offline__["a" /* AddonModDataOfflineProvider */], __WEBPACK_IMPORTED_MODULE_9__providers_helper__["a" /* AddonModDataHelperProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_6__providers_events__["a" /* CoreEventsProvider */]])
+    ], AddonModDataEntryPage);
+    return AddonModDataEntryPage;
+}());
+
+//# sourceMappingURL=entry.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=93.js.map

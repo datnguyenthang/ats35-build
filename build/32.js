@@ -1,1 +1,194 @@
-webpackJsonp([32],{1903:function(n,l,u){"use strict";function a(n){return o._42(0,[(n()(),o._16(0,0,null,null,1,"core-file",[],null,null,null,k.b,k.a)),o._15(1,245760,null,0,M.a,[P.a,C.a,F.a,O.a,T.a,j.a,W.a,B.a],{file:[0,"file"],component:[1,"component"],componentId:[2,"componentId"]},null)],function(n,l){var u=l.component;n(l,1,0,l.context.$implicit,u.component,u.componentId)},null)}function t(n){return o._42(0,[(n()(),o._16(0,0,null,null,5,"ion-card",[],null,null,null,null,null)),o._15(1,16384,null,0,D.a,[J.a,o.p,o.K],null,null),(n()(),o._40(-1,null,["\n        "])),(n()(),o._11(16777216,null,null,1,null,a)),o._15(4,802816,null,0,N.j,[o.W,o.T,o.v],{ngForOf:[0,"ngForOf"]},null),(n()(),o._40(-1,null,["\n    "]))],function(n,l){n(l,4,0,l.component.files)},null)}function e(n){return o._42(0,[(n()(),o._16(0,0,null,null,23,"ion-header",[],null,null,null,null,null)),o._15(1,16384,null,0,R.a,[J.a,o.p,o.K,[2,V.a]],null,null),(n()(),o._40(-1,null,["\n    "])),(n()(),o._16(3,0,null,null,19,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,$.b,$.a)),o._15(4,49152,null,0,q.a,[z.a,[2,V.a],[2,A.a],J.a,o.p,o.K],null,null),(n()(),o._40(-1,3,["\n        "])),(n()(),o._16(6,0,null,3,2,"ion-title",[],null,null,null,E.b,E.a)),o._15(7,49152,null,0,G.a,[J.a,o.p,o.K,[2,H.a],[2,q.a]],null,null),(n()(),o._40(8,0,["",""])),(n()(),o._40(-1,3,["\n\n        "])),(n()(),o._16(10,0,null,2,11,"ion-buttons",[["end",""]],null,null,null,null,null)),o._15(11,16384,null,1,L.a,[J.a,o.p,o.K,[2,H.a],[2,q.a]],null,null),o._37(603979776,1,{_buttons:1}),(n()(),o._40(-1,null,["\n            "])),(n()(),o._16(14,0,null,null,6,"button",[["icon-only",""],["ion-button",""]],[[1,"aria-label",0]],[[null,"click"]],function(n,l,u){var a=!0;if("click"===l){a=!1!==n.component.closeModal()&&a}return a},Q.b,Q.a)),o._15(15,1097728,[[1,4]],0,S.a,[[8,""],J.a,o.p,o.K],null,null),o._32(131072,U.a,[X.a,o.i]),(n()(),o._40(-1,0,["\n                "])),(n()(),o._16(18,0,null,0,1,"ion-icon",[["name","close"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o._15(19,147456,null,0,Y.a,[J.a,o.p,o.K],{name:[0,"name"]},null),(n()(),o._40(-1,0,["\n            "])),(n()(),o._40(-1,null,["\n        "])),(n()(),o._40(-1,3,["\n    "])),(n()(),o._40(-1,null,["\n"])),(n()(),o._40(-1,null,["\n"])),(n()(),o._16(25,0,null,null,8,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Z.b,Z.a)),o._15(26,4374528,null,0,nn.a,[J.a,ln.a,un.a,o.p,o.K,z.a,an.a,o.D,[2,V.a],[2,A.a]],null,null),(n()(),o._40(-1,1,["\n    "])),(n()(),o._16(28,0,null,1,1,"core-format-text",[],null,null,null,null,null)),o._15(29,540672,null,0,tn.a,[o.p,P.a,F.a,i.a,X.a,ln.a,C.a,en.a,on.a,O.a,T.a,_n.a,[2,A.a],[2,nn.a]],{text:[0,"text"],component:[1,"component"],componentId:[2,"componentId"]},null),(n()(),o._40(-1,1,["\n\n    "])),(n()(),o._11(16777216,null,1,1,null,t)),o._15(32,16384,null,0,N.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(n()(),o._40(-1,1,["\n"])),(n()(),o._40(-1,null,["\n"]))],function(n,l){var u=l.component;n(l,19,0,"close");n(l,29,0,u.content,u.component,u.componentId);n(l,32,0,u.files&&u.files.length)},function(n,l){var u=l.component;n(l,3,0,o._29(l,4)._hidden,o._29(l,4)._sbPadding);n(l,8,0,u.title);n(l,14,0,o._41(l,14,0,o._29(l,16).transform("core.close")));n(l,18,0,o._29(l,19)._hidden);n(l,25,0,o._29(l,26).statusbarPadding,o._29(l,26)._hasRefresher)})}Object.defineProperty(l,"__esModule",{value:!0});var o=u(1),_=(u(0),u(10),u(6)),i=u(12),c=function(){function n(n,l,u){this.viewCtrl=n,this.title=l.get("title"),this.content=l.get("content"),this.component=l.get("component"),this.componentId=l.get("componentId"),this.files=l.get("files")}return n.prototype.closeModal=function(){this.viewCtrl.dismiss()},n}(),r=u(32),s=u(31),p=function(){return function(){}}(),d=u(1290),f=u(1291),b=u(1292),m=u(1293),g=u(1294),v=u(1295),h=u(1296),x=u(1297),I=u(1298),K=u(1301),w=u(1302),y=u(1303),k=u(194),M=u(161),P=u(2),C=u(3),F=u(5),O=u(16),T=u(11),j=u(121),W=u(69),B=u(20),D=u(89),J=u(7),N=u(9),R=u(419),V=u(35),$=u(1299),q=u(191),z=u(27),A=u(22),E=u(1300),G=u(326),H=u(237),L=u(420),Q=u(45),S=u(39),U=u(28),X=u(17),Y=u(40),Z=u(176),nn=u(25),ln=u(14),un=u(26),an=u(97),tn=u(38),en=u(24),on=u(4),_n=u(23),cn=u(58),rn=o._14({encapsulation:2,styles:[],data:{}}),sn=o._12("page-core-viewer-text",c,function(n){return o._42(0,[(n()(),o._16(0,0,null,null,1,"page-core-viewer-text",[],null,null,null,e,rn)),o._15(1,49152,null,0,c,[V.a,cn.a,i.a],null,null)],null,null)},{},{},[]),pn=u(18),dn=u(322),fn=u(323),bn=u(325),mn=u(324),gn=u(418),vn=u(640),hn=u(107),xn=u(238);u.d(l,"CoreViewerTextPageModuleNgFactory",function(){return In});var In=o._13(p,[],function(n){return o._25([o._26(512,o.n,o._6,[[8,[d.a,f.a,b.a,m.a,g.a,v.a,h.a,x.a,I.a,K.a,w.a,y.a,sn]],[3,o.n],o.B]),o._26(4608,N.m,N.l,[o.x,[2,N.v]]),o._26(4608,pn.x,pn.x,[]),o._26(4608,pn.d,pn.d,[]),o._26(4608,dn.b,dn.a,[]),o._26(4608,fn.a,fn.b,[]),o._26(4608,bn.b,bn.a,[]),o._26(4608,mn.b,mn.a,[]),o._26(4608,X.a,X.a,[gn.a,dn.b,fn.a,bn.b,mn.b,X.b,X.c]),o._26(512,N.b,N.b,[]),o._26(512,pn.v,pn.v,[]),o._26(512,pn.i,pn.i,[]),o._26(512,pn.s,pn.s,[]),o._26(512,vn.a,vn.a,[]),o._26(512,_.a,_.a,[]),o._26(512,s.a,s.a,[]),o._26(512,hn.a,hn.a,[]),o._26(512,r.a,r.a,[]),o._26(512,vn.b,vn.b,[]),o._26(512,p,p,[]),o._26(256,X.c,void 0,[]),o._26(256,X.b,void 0,[]),o._26(256,xn.a,c,[])])})}});
+webpackJsonp([32],{
+
+/***/ 1880:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CoreLoginInitPageModule", function() { return CoreLoginInitPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__init__ = __webpack_require__(2009);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var CoreLoginInitPageModule = /** @class */ (function () {
+    function CoreLoginInitPageModule() {
+    }
+    CoreLoginInitPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__init__["a" /* CoreLoginInitPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__init__["a" /* CoreLoginInitPage */]),
+            ],
+        })
+    ], CoreLoginInitPageModule);
+    return CoreLoginInitPageModule;
+}());
+
+//# sourceMappingURL=init.module.js.map
+
+/***/ }),
+
+/***/ 2009:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CoreLoginInitPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_splash_screen__ = __webpack_require__(954);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_app__ = __webpack_require__(9);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_init__ = __webpack_require__(79);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__constants__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_helper__ = __webpack_require__(71);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+/**
+ * Page that displays a "splash screen" while the app is being initialized.
+ */
+var CoreLoginInitPage = /** @class */ (function () {
+    function CoreLoginInitPage(navCtrl, appProvider, initDelegate, sitesProvider, loginHelper, splashScreen) {
+        this.navCtrl = navCtrl;
+        this.appProvider = appProvider;
+        this.initDelegate = initDelegate;
+        this.sitesProvider = sitesProvider;
+        this.loginHelper = loginHelper;
+        this.splashScreen = splashScreen;
+    }
+    /**
+     * View loaded.
+     */
+    CoreLoginInitPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        // Wait for the app to be ready.
+        this.initDelegate.ready().then(function () {
+            // Check if there was a pending redirect.
+            var redirectData = _this.appProvider.getRedirect();
+            if (redirectData.siteId && redirectData.page) {
+                // Unset redirect data.
+                _this.appProvider.storeRedirect('', '', '');
+                // Only accept the redirect if it was stored less than 20 seconds ago.
+                if (Date.now() - redirectData.timemodified < 20000) {
+                    if (redirectData.siteId != __WEBPACK_IMPORTED_MODULE_6__constants__["a" /* CoreConstants */].NO_SITE_ID) {
+                        // The redirect is pointing to a site, load it.
+                        return _this.sitesProvider.loadSite(redirectData.siteId).then(function () {
+                            if (!_this.loginHelper.isSiteLoggedOut(redirectData.page, redirectData.params)) {
+                                return _this.navCtrl.setRoot(redirectData.page, redirectData.params, { animate: false });
+                            }
+                        }).catch(function () {
+                            // Site doesn't exist.
+                            return _this.loadPage();
+                        });
+                    }
+                    else {
+                        // No site to load, just open the state.
+                        return _this.navCtrl.setRoot(redirectData.page, redirectData.params, { animate: false });
+                    }
+                }
+            }
+            return _this.loadPage();
+        }).then(function () {
+            // If we hide the splash screen now, the init view is still seen for an instant. Wait a bit to make sure it isn't seen.
+            setTimeout(function () {
+                _this.splashScreen.hide();
+            }, 100);
+        });
+    };
+    /**
+     * Load the right page.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreLoginInitPage.prototype.loadPage = function () {
+        var _this = this;
+        if (this.sitesProvider.isLoggedIn()) {
+            if (!this.loginHelper.isSiteLoggedOut()) {
+                // User is logged in, go to site initial page.
+                return this.loginHelper.goToSiteInitialPage();
+            }
+            else {
+                // The site is marked as logged out. Logout and try again.
+                return this.sitesProvider.logout().then(function () {
+                    return _this.loadPage();
+                });
+            }
+        }
+        else {
+            return this.sitesProvider.hasSites().then(function (hasSites) {
+                if (hasSites) {
+                    return _this.navCtrl.setRoot('CoreLoginSitesPage');
+                }
+                else {
+                    return _this.loginHelper.goToAddSite(true);
+                }
+            });
+        }
+    };
+    CoreLoginInitPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-core-login-init',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/login/pages/init/init.html"*/'<ion-content>\n    <div class="core-bglogo">\n        <div class="core-logo">\n            <img src="assets/img/splash_logo.png"/>\n            <ion-spinner></ion-spinner>\n        </div>\n    </div>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/login/pages/init/init.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */], __WEBPACK_IMPORTED_MODULE_3__providers_app__["a" /* CoreAppProvider */], __WEBPACK_IMPORTED_MODULE_4__providers_init__["a" /* CoreInitDelegate */],
+            __WEBPACK_IMPORTED_MODULE_5__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_7__providers_helper__["a" /* CoreLoginHelperProvider */],
+            __WEBPACK_IMPORTED_MODULE_2__ionic_native_splash_screen__["a" /* SplashScreen */]])
+    ], CoreLoginInitPage);
+    return CoreLoginInitPage;
+}());
+
+//# sourceMappingURL=init.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=32.js.map

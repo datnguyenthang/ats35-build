@@ -1,1 +1,588 @@
-webpackJsonp([43],{1888:function(l,n,u){"use strict";function _(l){return x._42(0,[(l()(),x._16(0,0,null,null,24,"ion-item-group",[],null,null,null,null,null)),x._15(1,16384,null,0,Z.a,[],null,null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._16(3,0,null,null,7,"ion-item-divider",[["class","item item-divider"],["color","light"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(4,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],{color:[0,"color"]},null),x._37(335544320,10,{contentLabel:0}),x._37(603979776,11,{_buttons:1}),x._37(603979776,12,{_icons:1}),x._15(8,16384,null,0,al.a,[ul.a,x.p,x.K],{color:[0,"color"]},null),(l()(),x._40(9,2,["\n            ","\n        "])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,null,["\n        "])),(l()(),x._16(12,0,null,null,11,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(13,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,13,{contentLabel:0}),x._37(603979776,14,{_buttons:1}),x._37(603979776,15,{_icons:1}),x._15(17,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(19,0,null,2,3,"p",[],null,null,null,null,null)),(l()(),x._16(20,0,null,null,2,"a",[["auto-login","no"],["core-link",""]],[[8,"href",4]],null,null,null,null)),x._15(21,81920,null,0,il.a,[x.p,rl.a,cl.a,P.a,sl.a,fl.a,[2,pl.a],[2,ml.a]],null,null),(l()(),x._40(22,null,["",""])),(l()(),x._40(-1,2,["\n        "])),(l()(),x._40(-1,null,["\n    "]))],function(l,n){l(n,4,0,"light");l(n,8,0,"light"),l(n,21,0)},function(l,n){var u=n.component;l(n,9,0,x._41(n,9,0,x._29(n,10).transform("core.settings.privacypolicy")));l(n,20,0,u.privacyPolicy);l(n,22,0,u.privacyPolicy)})}function a(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,19,{contentLabel:0}),x._37(603979776,20,{_buttons:1}),x._37(603979776,21,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.versionname")));l(n,12,0,u.versionName)})}function t(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,22,{contentLabel:0}),x._37(603979776,23,{_buttons:1}),x._37(603979776,24,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.versioncode")));l(n,12,0,u.versionCode)})}function e(l){return x._42(0,[(l()(),x._16(0,0,null,null,2,"a",[["auto-login","no"],["core-link",""]],[[8,"href",4]],null,null,null,null)),x._15(1,81920,null,0,il.a,[x.p,rl.a,cl.a,P.a,sl.a,fl.a,[2,pl.a],[2,ml.a]],null,null),(l()(),x._40(2,null,["",""]))],function(l,n){l(n,1,0)},function(l,n){var u=n.component;l(n,0,0,u.fileSystemRoot);l(n,2,0,u.fileSystemRoot)})}function o(l){return x._42(0,[(l()(),x._16(0,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),x._40(1,null,["",""]))],null,function(l,n){l(n,1,0,n.component.fileSystemRoot)})}function i(l){return x._42(0,[(l()(),x._16(0,0,null,null,17,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,25,{contentLabel:0}),x._37(603979776,26,{_buttons:1}),x._37(603979776,27,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._11(16777216,null,null,1,null,e)),x._15(13,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._11(16777216,null,2,1,null,o)),x._15(16,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,2,["\n        "]))],function(l,n){var u=n.component;l(n,13,0,u.fsClickable);l(n,16,0,!u.fsClickable)},function(l,n){l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.filesystemroot")))})}function r(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,28,{contentLabel:0}),x._37(603979776,29,{_buttons:1}),x._37(603979776,30,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.navigatoruseragent")));l(n,12,0,u.navigator.userAgent)})}function c(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,31,{contentLabel:0}),x._37(603979776,32,{_buttons:1}),x._37(603979776,33,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.navigatorlanguage")));l(n,12,0,u.navigator.language)})}function s(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,34,{contentLabel:0}),x._37(603979776,35,{_buttons:1}),x._37(603979776,36,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.locationhref")));l(n,12,0,u.locationHref)})}function f(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,37,{contentLabel:0}),x._37(603979776,38,{_buttons:1}),x._37(603979776,39,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.appready")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.appReady)))})}function p(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,40,{contentLabel:0}),x._37(603979776,41,{_buttons:1}),x._37(603979776,42,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.displayformat")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.deviceType)))})}function m(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,43,{contentLabel:0}),x._37(603979776,44,{_buttons:1}),x._37(603979776,45,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.deviceos")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.deviceOs)))})}function b(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,46,{contentLabel:0}),x._37(603979776,47,{_buttons:1}),x._37(603979776,48,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.currentlanguage")));l(n,12,0,u.currentLanguage)})}function g(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,49,{contentLabel:0}),x._37(603979776,50,{_buttons:1}),x._37(603979776,51,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.networkstatus")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.networkStatus)))})}function v(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,52,{contentLabel:0}),x._37(603979776,53,{_buttons:1}),x._37(603979776,54,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.wificonnection")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.wifiConnection)))})}function d(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,55,{contentLabel:0}),x._37(603979776,56,{_buttons:1}),x._37(603979776,57,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.devicewebworkers")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.deviceWebWorkers)))})}function h(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,58,{contentLabel:0}),x._37(603979776,59,{_buttons:1}),x._37(603979776,60,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.cordovaversion")));l(n,12,0,u.device.cordova)})}function k(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,61,{contentLabel:0}),x._37(603979776,62,{_buttons:1}),x._37(603979776,63,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.cordovadeviceplatform")));l(n,12,0,u.device.platform)})}function w(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,64,{contentLabel:0}),x._37(603979776,65,{_buttons:1}),x._37(603979776,66,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.cordovadeviceosversion")));l(n,12,0,u.device.version)})}function I(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,67,{contentLabel:0}),x._37(603979776,68,{_buttons:1}),x._37(603979776,69,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.cordovadevicemodel")));l(n,12,0,u.device.model)})}function y(l){return x._42(0,[(l()(),x._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,70,{contentLabel:0}),x._37(603979776,71,{_buttons:1}),x._37(603979776,72,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.cordovadeviceuuid")));l(n,12,0,u.device.uuid)})}function L(l){return x._42(0,[(l()(),x._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(1,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,73,{contentLabel:0}),x._37(603979776,74,{_buttons:1}),x._37(603979776,75,{_icons:1}),x._15(5,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),x._40(8,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),x._40(12,null,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,2,["\n        "]))],null,function(l,n){var u=n.component;l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.localnotifavailable")));l(n,12,0,x._41(n,12,0,x._29(n,13).transform(u.localNotifAvailable)))})}function K(l){return x._42(0,[(l()(),x._16(0,0,null,null,11,"ion-header",[],null,null,null,null,null)),x._15(1,16384,null,0,gl.a,[ul.a,x.p,x.K,[2,vl.a]],null,null),(l()(),x._40(-1,null,["\n    "])),(l()(),x._16(3,0,null,null,7,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,dl.b,dl.a)),x._15(4,49152,null,0,hl.a,[kl.a,[2,vl.a],[2,pl.a],ul.a,x.p,x.K],null,null),(l()(),x._40(-1,3,["\n        "])),(l()(),x._16(6,0,null,3,3,"ion-title",[],null,null,null,wl.b,wl.a)),x._15(7,49152,null,0,Il.a,[ul.a,x.p,x.K,[2,yl.a],[2,hl.a]],null,null),(l()(),x._40(8,0,["",""])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,3,["\n    "])),(l()(),x._40(-1,null,["\n"])),(l()(),x._40(-1,null,["\n"])),(l()(),x._16(13,0,null,null,115,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Ll.b,Ll.a)),x._15(14,4374528,null,0,ml.a,[ul.a,Kl.a,xl.a,x.p,x.K,kl.a,Wl.a,x.D,[2,vl.a],[2,pl.a]],null,null),(l()(),x._40(-1,1,["\n    "])),(l()(),x._16(16,0,null,1,9,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(17,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,1,{contentLabel:0}),x._37(603979776,2,{_buttons:1}),x._37(603979776,3,{_icons:1}),x._15(21,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n        "])),(l()(),x._16(23,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),x._40(24,null,[""," ",""])),(l()(),x._40(-1,2,["\n    "])),(l()(),x._40(-1,1,["\n    "])),(l()(),x._16(27,0,null,1,27,"ion-item-group",[],null,null,null,null,null)),x._15(28,16384,null,0,Z.a,[],null,null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._16(30,0,null,null,7,"ion-item-divider",[["class","item item-divider"],["color","light"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(31,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],{color:[0,"color"]},null),x._37(335544320,4,{contentLabel:0}),x._37(603979776,5,{_buttons:1}),x._37(603979776,6,{_icons:1}),x._15(35,16384,null,0,al.a,[ul.a,x.p,x.K],{color:[0,"color"]},null),(l()(),x._40(36,2,["\n            ","\n        "])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,null,["\n        "])),(l()(),x._16(39,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(40,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],null,null),x._37(335544320,7,{contentLabel:0}),x._37(603979776,8,{_buttons:1}),x._37(603979776,9,{_icons:1}),x._15(44,16384,null,0,ol.a,[],null,null),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(46,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),x._40(-1,null,["Apache 2.0"])),(l()(),x._40(-1,2,["\n            "])),(l()(),x._16(49,0,null,2,3,"p",[],null,null,null,null,null)),(l()(),x._16(50,0,null,null,2,"a",[["auto-login","no"],["core-link",""],["href","http://www.apache.org/licenses/LICENSE-2.0"]],null,null,null,null,null)),x._15(51,81920,null,0,il.a,[x.p,rl.a,cl.a,P.a,sl.a,fl.a,[2,pl.a],[2,ml.a]],null,null),(l()(),x._40(-1,null,["http://www.apache.org/licenses/LICENSE-2.0"])),(l()(),x._40(-1,2,["\n        "])),(l()(),x._40(-1,null,["\n    "])),(l()(),x._40(-1,1,["\n    "])),(l()(),x._11(16777216,null,1,1,null,_)),x._15(57,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,1,["\n    "])),(l()(),x._16(59,0,null,1,68,"ion-item-group",[],null,null,null,null,null)),x._15(60,16384,null,0,Z.a,[],null,null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._16(62,0,null,null,7,"ion-item-divider",[["class","item item-divider"],["color","light"],["text-wrap",""]],null,null,null,$.b,$.a)),x._15(63,1097728,null,3,ll.a,[nl.a,ul.a,x.p,x.K,[2,_l.a]],{color:[0,"color"]},null),x._37(335544320,16,{contentLabel:0}),x._37(603979776,17,{_buttons:1}),x._37(603979776,18,{_icons:1}),x._15(67,16384,null,0,al.a,[ul.a,x.p,x.K],{color:[0,"color"]},null),(l()(),x._40(68,2,["\n            ","\n        "])),x._32(131072,tl.a,[el.a,x.i]),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,a)),x._15(72,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,t)),x._15(75,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,i)),x._15(78,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,r)),x._15(81,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,c)),x._15(84,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,s)),x._15(87,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,f)),x._15(90,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,p)),x._15(93,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,m)),x._15(96,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,b)),x._15(99,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,g)),x._15(102,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,v)),x._15(105,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,d)),x._15(108,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,h)),x._15(111,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,k)),x._15(114,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,w)),x._15(117,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,I)),x._15(120,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,y)),x._15(123,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n        "])),(l()(),x._11(16777216,null,null,1,null,L)),x._15(126,16384,null,0,bl.k,[x.W,x.T],{ngIf:[0,"ngIf"]},null),(l()(),x._40(-1,null,["\n    "])),(l()(),x._40(-1,1,["\n"])),(l()(),x._40(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,31,0,"light");l(n,35,0,"light"),l(n,51,0);l(n,57,0,u.privacyPolicy);l(n,63,0,"light");l(n,67,0,"light");l(n,72,0,u.versionName);l(n,75,0,u.versionCode);l(n,78,0,u.fileSystemRoot);l(n,81,0,u.navigator&&u.navigator.userAgent);l(n,84,0,u.navigator&&u.navigator.language);l(n,87,0,u.locationHref);l(n,90,0,u.appReady);l(n,93,0,u.deviceType);l(n,96,0,u.deviceOs);l(n,99,0,u.currentLanguage);l(n,102,0,u.networkStatus);l(n,105,0,u.wifiConnection);l(n,108,0,u.deviceWebWorkers);l(n,111,0,u.device&&u.device.cordova);l(n,114,0,u.device&&u.device.platform);l(n,117,0,u.device&&u.device.version);l(n,120,0,u.device&&u.device.model);l(n,123,0,u.device&&u.device.uuid);l(n,126,0,u.localNotifAvailable)},function(l,n){var u=n.component;l(n,3,0,x._29(n,4)._hidden,x._29(n,4)._sbPadding);l(n,8,0,x._41(n,8,0,x._29(n,9).transform("core.settings.about")));l(n,13,0,x._29(n,14).statusbarPadding,x._29(n,14)._hasRefresher);l(n,24,0,u.appName,u.versionName);l(n,36,0,x._41(n,36,0,x._29(n,37).transform("core.settings.license")));l(n,68,0,x._41(n,68,0,x._29(n,69).transform("core.settings.deviceinfo")))})}Object.defineProperty(n,"__esModule",{value:!0});var x=u(1),W=(u(0),u(10),u(6)),T=u(433),C=u(11),S=u(41),N=u(130),A=u(135),R=u(128),P=u(2),O=u(124),E=function(){return function(l,n,u,_,a,t,e,o){var i=this,r=e.getCurrentSite();if(this.appName=u.isDesktop()?O.a.desktopappname:O.a.appname,this.versionName=O.a.versionname,this.versionCode=O.a.versioncode,this.privacyPolicy=r.getStoredConfig("tool_mobile_apppolicy")||r.getStoredConfig("sitepolicy")||O.a.privacypolicy,this.navigator=window.navigator,window.location&&window.location.href){var c=window.location.href;this.locationHref=c.substr(0,c.indexOf("#"))}if(this.appReady=a.isReady()?"core.yes":"core.no",this.deviceType=l.is("tablet")?"core.tablet":"core.phone",l.is("android"))this.deviceOs="core.android";else if(l.is("ios"))this.deviceOs="core.ios";else if(l.is("windows"))this.deviceOs="core.windowsphone";else{var s=navigator.userAgent.match(/\(([^\)]*)\)/);this.deviceOs=s&&s.length>1?s[1]:"core.unknown"}t.getCurrentLanguage().then(function(l){i.currentLanguage=l}),this.networkStatus=u.isOnline()?"core.online":"core.offline",this.wifiConnection=u.isNetworkAccessLimited()?"core.no":"core.yes",this.deviceWebWorkers=window.Worker&&window.URL?"core.yes":"core.no",this.device=n,_.isAvailable()&&_.getBasePath().then(function(l){i.fileSystemRoot=l,i.fsClickable=_.usesHTMLAPI()}),this.localNotifAvailable=o.isAvailable()?"core.yes":"core.no"}}(),H=u(32),M=u(31),B=function(){return function(){}}(),D=u(1290),j=u(1291),F=u(1292),J=u(1293),U=u(1294),q=u(1295),z=u(1296),G=u(1297),Q=u(1298),V=u(1301),X=u(1302),Y=u(1303),Z=u(657),$=u(34),ll=u(21),nl=u(19),ul=u(7),_l=u(29),al=u(159),tl=u(28),el=u(17),ol=u(33),il=u(197),rl=u(5),cl=u(3),sl=u(24),fl=u(23),pl=u(22),ml=u(25),bl=u(9),gl=u(419),vl=u(35),dl=u(1299),hl=u(191),kl=u(27),wl=u(1300),Il=u(326),yl=u(237),Ll=u(176),Kl=u(14),xl=u(26),Wl=u(97),Tl=x._14({encapsulation:2,styles:[],data:{}}),Cl=x._12("page-core-settings-about",E,function(l){return x._42(0,[(l()(),x._16(0,0,null,null,1,"page-core-settings-about",[],null,null,null,K,Tl)),x._15(1,49152,null,0,E,[Kl.a,T.a,C.a,S.a,N.a,A.a,P.a,R.a],null,null)],null,null)},{},{},[]),Sl=u(18),Nl=u(322),Al=u(323),Rl=u(325),Pl=u(324),Ol=u(418),El=u(640),Hl=u(107),Ml=u(238);u.d(n,"CoreSettingsAboutPageModuleNgFactory",function(){return Bl});var Bl=x._13(B,[],function(l){return x._25([x._26(512,x.n,x._6,[[8,[D.a,j.a,F.a,J.a,U.a,q.a,z.a,G.a,Q.a,V.a,X.a,Y.a,Cl]],[3,x.n],x.B]),x._26(4608,bl.m,bl.l,[x.x,[2,bl.v]]),x._26(4608,Sl.x,Sl.x,[]),x._26(4608,Sl.d,Sl.d,[]),x._26(4608,Nl.b,Nl.a,[]),x._26(4608,Al.a,Al.b,[]),x._26(4608,Rl.b,Rl.a,[]),x._26(4608,Pl.b,Pl.a,[]),x._26(4608,el.a,el.a,[Ol.a,Nl.b,Al.a,Rl.b,Pl.b,el.b,el.c]),x._26(512,bl.b,bl.b,[]),x._26(512,Sl.v,Sl.v,[]),x._26(512,Sl.i,Sl.i,[]),x._26(512,Sl.s,Sl.s,[]),x._26(512,El.a,El.a,[]),x._26(512,W.a,W.a,[]),x._26(512,M.a,M.a,[]),x._26(512,Hl.a,Hl.a,[]),x._26(512,H.a,H.a,[]),x._26(512,El.b,El.b,[]),x._26(512,B,B,[]),x._26(256,el.c,void 0,[]),x._26(256,el.b,void 0,[]),x._26(256,Ml.a,E,[])])})}});
+webpackJsonp([43],{
+
+/***/ 1872:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CoreCoursesMyOverviewPageModule", function() { return CoreCoursesMyOverviewPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__my_overview__ = __webpack_require__(2001);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_components_module__ = __webpack_require__(931);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__core_sitehome_components_components_module__ = __webpack_require__(938);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+var CoreCoursesMyOverviewPageModule = /** @class */ (function () {
+    function CoreCoursesMyOverviewPageModule() {
+    }
+    CoreCoursesMyOverviewPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_3__my_overview__["a" /* CoreCoursesMyOverviewPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_6__components_components_module__["a" /* CoreCoursesComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_7__core_sitehome_components_components_module__["a" /* CoreSiteHomeComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_3__my_overview__["a" /* CoreCoursesMyOverviewPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], CoreCoursesMyOverviewPageModule);
+    return CoreCoursesMyOverviewPageModule;
+}());
+
+//# sourceMappingURL=my-overview.module.js.map
+
+/***/ }),
+
+/***/ 2001:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CoreCoursesMyOverviewPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_events__ = __webpack_require__(12);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_utils__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_courses__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_my_overview__ = __webpack_require__(250);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__core_course_providers_helper__ = __webpack_require__(21);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__core_course_providers_options_delegate__ = __webpack_require__(104);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_moment__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_moment___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10_moment__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_tabs_tabs__ = __webpack_require__(135);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that displays My Overview.
+ */
+var CoreCoursesMyOverviewPage = /** @class */ (function () {
+    function CoreCoursesMyOverviewPage(navCtrl, coursesProvider, domUtils, myOverviewProvider, courseHelper, sitesProvider, courseOptionsDelegate, eventsProvider, utils) {
+        this.navCtrl = navCtrl;
+        this.coursesProvider = coursesProvider;
+        this.domUtils = domUtils;
+        this.myOverviewProvider = myOverviewProvider;
+        this.courseHelper = courseHelper;
+        this.sitesProvider = sitesProvider;
+        this.courseOptionsDelegate = courseOptionsDelegate;
+        this.eventsProvider = eventsProvider;
+        this.utils = utils;
+        this.tabsReady = false;
+        this.tabShown = 'courses';
+        this.timeline = {
+            sort: 'sortbydates',
+            events: [],
+            loaded: false,
+            canLoadMore: undefined
+        };
+        this.timelineCourses = {
+            courses: [],
+            loaded: false,
+            canLoadMore: false
+        };
+        this.courses = {
+            selected: 'inprogress',
+            loaded: false,
+            filter: '',
+            past: [],
+            inprogress: [],
+            future: []
+        };
+        this.categories = {
+            id: undefined,
+            name: undefined,
+        };
+        this.showFilter = false;
+        this.tabs = [];
+        this.prefetchCoursesData = {
+            inprogress: {},
+            past: {},
+            future: {}
+        };
+        this.categoryType = 0;
+        this.prefetchIconsInitialized = false;
+        this.courseIds = '';
+        this.loadSiteName();
+    }
+    /**
+     * View loaded.
+     */
+    CoreCoursesMyOverviewPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        this.searchEnabled = !this.coursesProvider.isSearchCoursesDisabledInSite();
+        this.downloadAllCoursesEnabled = !this.coursesProvider.isDownloadCoursesDisabledInSite();
+        // Refresh the enabled flags if site is updated.
+        this.updateSiteObserver = this.eventsProvider.on(__WEBPACK_IMPORTED_MODULE_2__providers_events__["a" /* CoreEventsProvider */].SITE_UPDATED, function () {
+            var wasEnabled = _this.downloadAllCoursesEnabled;
+            _this.searchEnabled = !_this.coursesProvider.isSearchCoursesDisabledInSite();
+            _this.downloadAllCoursesEnabled = !_this.coursesProvider.isDownloadCoursesDisabledInSite();
+            if (!wasEnabled && _this.downloadAllCoursesEnabled && _this.courses.loaded) {
+                // Download all courses is enabled now, initialize it.
+                _this.initPrefetchCoursesIcons();
+            }
+            _this.loadSiteName();
+        });
+        // Decide which tab to load first.
+        /*this.siteHomeProvider.isAvailable().then((enabled) => {
+            const site = this.sitesProvider.getCurrentSite(),
+                displaySiteHome = site.getInfo() && site.getInfo().userhomepage === 0;
+
+            this.siteHomeEnabled = enabled;
+            this.firstSelectedTab = displaySiteHome ? 0 : 2;
+            this.tabsReady = true;
+        });*/
+        if (!this.courses.loaded) {
+            this.fetchMyOverviewCourses().finally(function () {
+                _this.courses.loaded = true;
+            });
+        }
+    };
+    /**
+     * User entered the page.
+     */
+    CoreCoursesMyOverviewPage.prototype.ionViewDidEnter = function () {
+        this.tabsComponent && this.tabsComponent.ionViewDidEnter();
+    };
+    /**
+     * User left the page.
+     */
+    CoreCoursesMyOverviewPage.prototype.ionViewDidLeave = function () {
+        this.tabsComponent && this.tabsComponent.ionViewDidLeave();
+    };
+    /**
+     * Fetch the timeline.
+     *
+     * @param {number} [afterEventId] The last event id.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.fetchMyOverviewTimeline = function (afterEventId) {
+        var _this = this;
+        return this.myOverviewProvider.getActionEventsByTimesort(afterEventId).then(function (events) {
+            _this.timeline.events = events.events;
+            _this.timeline.canLoadMore = events.canLoadMore;
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error getting my overview data.');
+        });
+    };
+    /**
+     * Fetch the timeline by courses.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.fetchMyOverviewTimelineByCourses = function () {
+        var _this = this;
+        return this.fetchUserCourses().then(function (courses) {
+            var today = __WEBPACK_IMPORTED_MODULE_10_moment__().unix();
+            var courseIds;
+            courses = courses.filter(function (course) {
+                return course.startdate <= today && (!course.enddate || course.enddate >= today);
+            });
+            _this.timelineCourses.courses = courses;
+            if (courses.length > 0) {
+                courseIds = courses.map(function (course) {
+                    return course.id;
+                });
+                return _this.myOverviewProvider.getActionEventsByCourses(courseIds).then(function (courseEvents) {
+                    _this.timelineCourses.courses.forEach(function (course) {
+                        course.events = courseEvents[course.id].events;
+                        course.canLoadMore = courseEvents[course.id].canLoadMore;
+                    });
+                });
+            }
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error getting my overview data.');
+        });
+    };
+    /**
+     * Fetch the courses for my overview.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.fetchMyOverviewCourses = function () {
+        var _this = this;
+        return this.fetchUserCourses().then(function (courses) {
+            var today = __WEBPACK_IMPORTED_MODULE_10_moment__().unix(), categoryList = [];
+            _this.courses.past = [];
+            _this.courses.inprogress = [];
+            _this.courses.future = [];
+            courses.forEach(function (course) {
+                if (course.startdate > today) {
+                    // Courses that have not started yet.
+                    _this.courses.future.push(course);
+                }
+                else if (course.enddate && course.enddate < today) {
+                    // Courses that have already ended.
+                    _this.courses.past.push(course);
+                }
+                else {
+                    // Courses still in progress.
+                    _this.courses.inprogress.push(course);
+                }
+                if (!categoryList.find(function (el) { return el.id == course.category; })) {
+                    categoryList.push({ id: course.category, name: course.categoryname, courses: [] });
+                }
+            });
+            categoryList.forEach(function (category) {
+                courses.forEach(function (course) {
+                    if (category.id == course.category) {
+                        category.courses.push(course);
+                    }
+                });
+            });
+            categoryList.sort(function (a, b) {
+                return a.id - b.id;
+            });
+            _this.filteredCategory = categoryList;
+            _this.courses.filter = '';
+            _this.showFilter = false;
+            _this.filteredCourses = _this.courses[_this.courses.selected];
+            _this.initPrefetchCoursesIcons();
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error getting my overview data.');
+        });
+    };
+    /**
+     * Fetch user courses.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.fetchUserCourses = function () {
+        var _this = this;
+        return this.coursesProvider.getUserCourses(null, null, this.categoryType).then(function (courses) {
+            var promises = [], courseIds = courses.map(function (course) {
+                return course.id;
+            });
+            if (_this.coursesProvider.canGetAdminAndNavOptions()) {
+                // Load course options of the course.
+                promises.push(_this.coursesProvider.getCoursesAdminAndNavOptions(courseIds).then(function (options) {
+                    courses.forEach(function (course) {
+                        course.navOptions = options.navOptions[course.id];
+                        course.admOptions = options.admOptions[course.id];
+                    });
+                }));
+            }
+            _this.courseIds = courseIds.join(',');
+            if (_this.courseIds && _this.coursesProvider.isGetCoursesByFieldAvailable()) {
+                // Load course image of all the courses.
+                promises.push(_this.coursesProvider.getCoursesByField('ids', _this.courseIds).then(function (coursesInfo) {
+                    coursesInfo = _this.utils.arrayToObject(coursesInfo, 'id');
+                    courses.forEach(function (course) {
+                        if (coursesInfo[course.id] && coursesInfo[course.id].overviewfiles &&
+                            coursesInfo[course.id].overviewfiles[0]) {
+                            course.imageThumb = coursesInfo[course.id].overviewfiles[0].fileurl;
+                        }
+                        else {
+                            course.imageThumb = false;
+                        }
+                    });
+                }));
+            }
+            return Promise.all(promises).then(function () {
+                return courses.sort(function (a, b) {
+                    var compareA = a.fullname.toLowerCase(), compareB = b.fullname.toLowerCase();
+                    return compareA.localeCompare(compareB);
+                });
+            });
+        });
+    };
+    /**
+     * Show or hide the filter.
+     */
+    CoreCoursesMyOverviewPage.prototype.switchFilter = function () {
+        var _this = this;
+        this.showFilter = !this.showFilter;
+        this.courses.filter = '';
+        this.filteredCourses = this.courses[this.courses.selected];
+        if (this.showFilter) {
+            setTimeout(function () {
+                _this.searchbar.setFocus();
+            });
+        }
+    };
+    /**
+     * The filter has changed.
+     *
+     * @param {any} Received Event.
+     */
+    CoreCoursesMyOverviewPage.prototype.filterChanged = function (event) {
+        var newValue = event.target.value && event.target.value.trim().toLowerCase();
+        if (!newValue || !this.courses[this.courses.selected]) {
+            this.filteredCourses = this.courses[this.courses.selected];
+        }
+        else {
+            this.filteredCourses = this.courses[this.courses.selected].filter(function (course) {
+                return course.fullname.toLowerCase().indexOf(newValue) > -1;
+            });
+        }
+    };
+    /**
+     * Refresh the data.
+     *
+     * @param {any} refresher Refresher.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.refreshMyOverview = function (refresher) {
+        var _this = this;
+        var promises = [];
+        if (this.tabShown == 'timeline') {
+            promises.push(this.myOverviewProvider.invalidateActionEventsByTimesort());
+            promises.push(this.myOverviewProvider.invalidateActionEventsByCourses());
+        }
+        promises.push(this.coursesProvider.invalidateUserCourses());
+        promises.push(this.courseOptionsDelegate.clearAndInvalidateCoursesOptions());
+        if (this.courseIds) {
+            promises.push(this.coursesProvider.invalidateCoursesByField('ids', this.courseIds));
+        }
+        return Promise.all(promises).finally(function () {
+            switch (_this.tabShown) {
+                case 'timeline':
+                    switch (_this.timeline.sort) {
+                        case 'sortbydates':
+                            return _this.fetchMyOverviewTimeline();
+                        case 'sortbycourses':
+                            return _this.fetchMyOverviewTimelineByCourses();
+                        default:
+                    }
+                    break;
+                case 'courses':
+                    _this.prefetchIconsInitialized = false;
+                    return _this.fetchMyOverviewCourses();
+                default:
+            }
+        }).finally(function () {
+            refresher.complete();
+        });
+    };
+    /**
+     * Change timeline sort being viewed.
+     */
+    CoreCoursesMyOverviewPage.prototype.switchSort = function () {
+        var _this = this;
+        switch (this.timeline.sort) {
+            case 'sortbydates':
+                if (!this.timeline.loaded) {
+                    this.fetchMyOverviewTimeline().finally(function () {
+                        _this.timeline.loaded = true;
+                    });
+                }
+                break;
+            case 'sortbycourses':
+                if (!this.timelineCourses.loaded) {
+                    this.fetchMyOverviewTimelineByCourses().finally(function () {
+                        _this.timelineCourses.loaded = true;
+                    });
+                }
+                break;
+            default:
+        }
+    };
+    /**
+     * The tab has changed.
+     *
+     * @param {string} tab Name of the new tab.
+     */
+    CoreCoursesMyOverviewPage.prototype.tabChanged = function (tab) {
+        var _this = this;
+        this.tabShown = tab;
+        switch (this.tabShown) {
+            case 'timeline':
+                if (!this.timeline.loaded) {
+                    this.fetchMyOverviewTimeline().finally(function () {
+                        _this.timeline.loaded = true;
+                    });
+                }
+                break;
+            case 'courses':
+                if (!this.courses.loaded) {
+                    this.fetchMyOverviewCourses().finally(function () {
+                        _this.courses.loaded = true;
+                    });
+                }
+                break;
+            default:
+        }
+    };
+    /**
+     * Load more events.
+     */
+    CoreCoursesMyOverviewPage.prototype.loadMoreTimeline = function () {
+        return this.fetchMyOverviewTimeline(this.timeline.canLoadMore);
+    };
+    /**
+     * Load more events.
+     *
+     * @param {any} course Course.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.loadMoreCourse = function (course) {
+        return this.myOverviewProvider.getActionEventsByCourse(course.id, course.canLoadMore).then(function (courseEvents) {
+            course.events = course.events.concat(courseEvents.events);
+            course.canLoadMore = courseEvents.canLoadMore;
+        });
+    };
+    /**
+     * Go to search courses.
+     */
+    CoreCoursesMyOverviewPage.prototype.openSearch = function () {
+        this.navCtrl.push('CoreCoursesSearchPage');
+    };
+    /**
+     * The selected courses have changed.
+     */
+    CoreCoursesMyOverviewPage.prototype.selectedChanged = function () {
+        this.filteredCourses = this.courses[this.courses.selected];
+    };
+    /**
+     * Prefetch all the shown courses.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    CoreCoursesMyOverviewPage.prototype.prefetchCourses = function () {
+        var _this = this;
+        var selected = this.courses.selected, selectedData = this.prefetchCoursesData[selected], initialIcon = selectedData.icon;
+        selectedData.icon = 'spinner';
+        selectedData.badge = '';
+        return this.courseHelper.confirmAndPrefetchCourses(this.courses[selected], function (progress) {
+            selectedData.badge = progress.count + ' / ' + progress.total;
+        }).then(function () {
+            selectedData.icon = 'refresh';
+        }).catch(function (error) {
+            if (!_this.isDestroyed) {
+                _this.domUtils.showErrorModalDefault(error, 'core.course.errordownloadingcourse', true);
+                selectedData.icon = initialIcon;
+            }
+        }).finally(function () {
+            selectedData.badge = '';
+        });
+    };
+    /**
+     * Initialize the prefetch icon for selected courses.
+     */
+    CoreCoursesMyOverviewPage.prototype.initPrefetchCoursesIcons = function () {
+        var _this = this;
+        if (this.prefetchIconsInitialized || !this.downloadAllCoursesEnabled) {
+            // Already initialized.
+            return;
+        }
+        this.prefetchIconsInitialized = true;
+        Object.keys(this.prefetchCoursesData).forEach(function (filter) {
+            if (!_this.courses[filter] || _this.courses[filter].length < 2) {
+                // Not enough courses.
+                _this.prefetchCoursesData[filter].icon = '';
+                return;
+            }
+            _this.courseHelper.determineCoursesStatus(_this.courses[filter]).then(function (status) {
+                var icon = _this.courseHelper.getCourseStatusIconAndTitleFromStatus(status).icon;
+                if (icon == 'spinner') {
+                    // It seems all courses are being downloaded, show a download button instead.
+                    icon = 'cloud-download';
+                }
+                _this.prefetchCoursesData[filter].icon = icon;
+            });
+        });
+    };
+    /**
+     * Load the site name.
+     */
+    CoreCoursesMyOverviewPage.prototype.loadSiteName = function () {
+        this.siteName = this.sitesProvider.getCurrentSite().getInfo().sitename;
+    };
+    /**
+     * Component being destroyed.
+     */
+    CoreCoursesMyOverviewPage.prototype.ngOnDestroy = function () {
+        this.isDestroyed = true;
+        this.updateSiteObserver && this.updateSiteObserver.off();
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_11__components_tabs_tabs__["a" /* CoreTabsComponent */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_11__components_tabs_tabs__["a" /* CoreTabsComponent */])
+    ], CoreCoursesMyOverviewPage.prototype, "tabsComponent", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])('searchbar'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["v" /* Searchbar */])
+    ], CoreCoursesMyOverviewPage.prototype, "searchbar", void 0);
+    CoreCoursesMyOverviewPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-core-courses-my-overview',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/core/courses/pages/my-overview/my-overview.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="siteName"></core-format-text></ion-title>\n\n        <ion-buttons end>\n            <button *ngIf="searchEnabled" ion-button icon-only (click)="openSearch()" [attr.aria-label]="\'core.courses.searchcourses\' | translate">\n                <ion-icon name="search"></ion-icon>\n            </button>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n   \n    <ion-refresher [enabled]="timeline.loaded || timelineCourses.loaded || courses.loaded" (ionRefresh)="refreshMyOverview($event)">\n        <ion-refresher-content pullingText="{{ \'core.pulltorefresh\' | translate }}"></ion-refresher-content>\n    </ion-refresher>\n\n    <core-loading [hideUntil]="courses.loaded" class="core-loading-center">\n        <core-empty-box *ngIf="courses[courses.selected].length == 0 && courses.selected == \'inprogress\'" image="assets/img/icons/courses.svg" [message]="\'core.courses.nocoursesinprogress\' | translate"></core-empty-box>\n        <core-empty-box *ngIf="courses[courses.selected].length == 0 && courses.selected == \'future\'" image="assets/img/icons/courses.svg" [message]="\'core.courses.nocoursesfuture\' | translate"></core-empty-box>\n        <core-empty-box *ngIf="courses[courses.selected].length == 0 && courses.selected == \'past\'" image="assets/img/icons/courses.svg" [message]="\'core.courses.nocoursespast\' | translate"></core-empty-box>\n        <div>\n            <core-courses-course-list-slide [categories]="filteredCategory">\n            </core-courses-course-list-slide>\n        </div>\n    </core-loading>\n\n</ion-content>'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/core/courses/pages/my-overview/my-overview.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */], __WEBPACK_IMPORTED_MODULE_6__providers_courses__["a" /* CoreCoursesProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_7__providers_my_overview__["a" /* CoreCoursesMyOverviewProvider */],
+            __WEBPACK_IMPORTED_MODULE_8__core_course_providers_helper__["a" /* CoreCourseHelperProvider */], __WEBPACK_IMPORTED_MODULE_3__providers_sites__["a" /* CoreSitesProvider */],
+            __WEBPACK_IMPORTED_MODULE_9__core_course_providers_options_delegate__["a" /* CoreCourseOptionsDelegate */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_events__["a" /* CoreEventsProvider */], __WEBPACK_IMPORTED_MODULE_5__providers_utils_utils__["a" /* CoreUtilsProvider */]])
+    ], CoreCoursesMyOverviewPage);
+    return CoreCoursesMyOverviewPage;
+}());
+
+//# sourceMappingURL=my-overview.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=43.js.map

@@ -1,1 +1,327 @@
-webpackJsonp([81],{1837:function(l,n,u){"use strict";function a(l){return m._42(0,[(l()(),m._16(0,0,null,null,7,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.loadPage(-1)&&a}return a},P.b,P.a)),m._15(1,1097728,null,3,T.a,[W.a,y.a,m.p,m.K,[2,$.a]],null,null),m._37(335544320,2,{contentLabel:0}),m._37(603979776,3,{_buttons:1}),m._37(603979776,4,{_icons:1}),m._15(5,16384,null,0,R.a,[],null,null),(l()(),m._40(6,2,["\n                ","\n            "])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,6,0,m._41(n,6,0,m._29(n,7).transform("addon.mod_quiz.finishattemptdots")))})}function t(l){return m._42(0,[(l()(),m._16(0,0,null,null,2,"span",[],null,null,null,null,null)),(l()(),m._40(1,null,["",""])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,1,0,m._41(n,1,0,m._29(n,2).transform("addon.mod_quiz.showall")))})}function _(l){return m._42(0,[(l()(),m._16(0,0,null,null,2,"span",[],null,null,null,null,null)),(l()(),m._40(1,null,["",""])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,1,0,m._41(n,1,0,m._29(n,2).transform("addon.mod_quiz.showeachpage")))})}function o(l){return m._42(0,[(l()(),m._16(0,0,null,null,12,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.switchMode()&&a}return a},P.b,P.a)),m._15(1,1097728,null,3,T.a,[W.a,y.a,m.p,m.K,[2,$.a]],null,null),m._37(335544320,5,{contentLabel:0}),m._37(603979776,6,{_buttons:1}),m._37(603979776,7,{_icons:1}),m._15(5,16384,null,0,R.a,[],null,null),(l()(),m._40(-1,2,["\n                "])),(l()(),m._11(16777216,null,2,1,null,t)),m._15(8,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,2,["\n                "])),(l()(),m._11(16777216,null,2,1,null,_)),m._15(11,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,2,["\n            "]))],function(l,n){var u=n.component;l(n,8,0,!u.pageInstance.showAll);l(n,11,0,u.pageInstance.showAll)},null)}function i(l){return m._42(0,[(l()(),m._16(0,0,null,null,3,"span",[],null,null,null,null,null)),(l()(),m._40(1,null,["",""])),m._33(2,{$a:0}),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,1,0,m._41(n,1,0,m._29(n,3).transform("core.question.questionno",l(n,2,0,n.parent.context.$implicit.number))))})}function e(l){return m._42(0,[(l()(),m._16(0,0,null,null,2,"span",[],null,null,null,null,null)),(l()(),m._40(1,null,["",""])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,1,0,m._41(n,1,0,m._29(n,2).transform("core.question.information")))})}function c(l){return m._42(0,[(l()(),m._16(0,0,null,null,14,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.loadPage(l.context.$implicit.page,l.context.$implicit.slot)&&a}return a},P.b,P.a)),m._15(1,278528,null,0,C.i,[m.v,m.w,m.p,m.L],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),m._33(2,{"addon-mod_quiz-selected":0}),m._15(3,1097728,null,3,T.a,[W.a,y.a,m.p,m.K,[2,$.a]],null,null),m._37(335544320,8,{contentLabel:0}),m._37(603979776,9,{_buttons:1}),m._37(603979776,10,{_icons:1}),m._15(7,16384,null,0,R.a,[],null,null),(l()(),m._40(-1,2,["\n                "])),(l()(),m._11(16777216,null,2,1,null,i)),m._15(10,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,2,["\n                "])),(l()(),m._11(16777216,null,2,1,null,e)),m._15(13,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,2,["\n            "]))],function(l,n){var u=n.component;l(n,1,0,m._19(1,"",n.context.$implicit.stateClass,""),l(n,2,0,!u.pageInstance.showSummary&&u.pageInstance.attempt.currentpage==n.context.$implicit.page));l(n,10,0,n.context.$implicit.number);l(n,13,0,!n.context.$implicit.number)},null)}function s(l){return m._42(0,[(l()(),m._16(0,0,null,null,7,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.loadPage(-1)&&a}return a},P.b,P.a)),m._15(1,1097728,null,3,T.a,[W.a,y.a,m.p,m.K,[2,$.a]],null,null),m._37(335544320,11,{contentLabel:0}),m._37(603979776,12,{_buttons:1}),m._37(603979776,13,{_icons:1}),m._15(5,16384,null,0,R.a,[],null,null),(l()(),m._40(6,2,["\n                ","\n            "])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,6,0,m._41(n,6,0,m._29(n,7).transform("addon.mod_quiz.finishattemptdots")))})}function r(l){return m._42(0,[(l()(),m._16(0,0,null,null,2,"span",[],null,null,null,null,null)),(l()(),m._40(1,null,["",""])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,1,0,m._41(n,1,0,m._29(n,2).transform("addon.mod_quiz.showall")))})}function f(l){return m._42(0,[(l()(),m._16(0,0,null,null,2,"span",[],null,null,null,null,null)),(l()(),m._40(1,null,["",""])),m._32(131072,L.a,[A.a,m.i])],null,function(l,n){l(n,1,0,m._41(n,1,0,m._29(n,2).transform("addon.mod_quiz.showeachpage")))})}function d(l){return m._42(0,[(l()(),m._16(0,0,null,null,12,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.switchMode()&&a}return a},P.b,P.a)),m._15(1,1097728,null,3,T.a,[W.a,y.a,m.p,m.K,[2,$.a]],null,null),m._37(335544320,14,{contentLabel:0}),m._37(603979776,15,{_buttons:1}),m._37(603979776,16,{_icons:1}),m._15(5,16384,null,0,R.a,[],null,null),(l()(),m._40(-1,2,["\n                "])),(l()(),m._11(16777216,null,2,1,null,r)),m._15(8,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,2,["\n                "])),(l()(),m._11(16777216,null,2,1,null,f)),m._15(11,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,2,["\n            "]))],function(l,n){var u=n.component;l(n,8,0,!u.pageInstance.showAll);l(n,11,0,u.pageInstance.showAll)},null)}function p(l){return m._42(0,[(l()(),m._16(0,0,null,null,24,"ion-header",[],null,null,null,null,null)),m._15(1,16384,null,0,F.a,[y.a,m.p,m.K,[2,O.a]],null,null),(l()(),m._40(-1,null,["\n    "])),(l()(),m._16(3,0,null,null,20,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,j.b,j.a)),m._15(4,49152,null,0,N.a,[B.a,[2,O.a],[2,D.a],y.a,m.p,m.K],null,null),(l()(),m._40(-1,3,["\n        "])),(l()(),m._16(6,0,null,3,3,"ion-title",[],null,null,null,J.b,J.a)),m._15(7,49152,null,0,Q.a,[y.a,m.p,m.K,[2,S.a],[2,N.a]],null,null),(l()(),m._40(8,0,["",""])),m._32(131072,L.a,[A.a,m.i]),(l()(),m._40(-1,3,["\n        "])),(l()(),m._16(11,0,null,2,11,"ion-buttons",[["end",""]],null,null,null,null,null)),m._15(12,16384,null,1,E.a,[y.a,m.p,m.K,[2,S.a],[2,N.a]],null,null),m._37(603979776,1,{_buttons:1}),(l()(),m._40(-1,null,["\n            "])),(l()(),m._16(15,0,null,null,6,"button",[["icon-only",""],["ion-button",""]],[[1,"aria-label",0]],[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.closeModal()&&a}return a},G.b,G.a)),m._15(16,1097728,[[1,4]],0,H.a,[[8,""],y.a,m.p,m.K],null,null),m._32(131072,L.a,[A.a,m.i]),(l()(),m._40(-1,0,["\n                "])),(l()(),m._16(19,0,null,0,1,"ion-icon",[["name","close"],["role","img"]],[[2,"hide",null]],null,null,null,null)),m._15(20,147456,null,0,U.a,[y.a,m.p,m.K],{name:[0,"name"]},null),(l()(),m._40(-1,0,["\n            "])),(l()(),m._40(-1,null,["\n        "])),(l()(),m._40(-1,3,["\n    "])),(l()(),m._40(-1,null,["\n"])),(l()(),m._40(-1,null,["\n"])),(l()(),m._16(26,0,null,null,28,"ion-content",[["class","addon-mod_quiz-navigation-modal"]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,V.b,V.a)),m._15(27,4374528,null,0,X.a,[y.a,Y.a,Z.a,m.p,m.K,B.a,ll.a,m.D,[2,O.a],[2,D.a]],null,null),(l()(),m._40(-1,1,["\n    "])),(l()(),m._16(29,0,null,1,24,"nav",[],null,null,null,null,null)),(l()(),m._40(-1,null,["\n        "])),(l()(),m._16(31,0,null,null,21,"ion-list",[],null,null,null,null,null)),m._15(32,16384,null,0,nl.a,[y.a,m.p,m.K,Y.a,ul.l,Z.a],null,null),(l()(),m._40(-1,null,["\n            "])),(l()(),m._40(-1,null,["\n            "])),(l()(),m._11(16777216,null,null,1,null,a)),m._15(36,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,null,["\n\n            "])),(l()(),m._40(-1,null,["\n            "])),(l()(),m._11(16777216,null,null,1,null,o)),m._15(40,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,null,["\n            "])),(l()(),m._11(16777216,null,null,1,null,c)),m._15(43,802816,null,0,C.j,[m.W,m.T,m.v],{ngForOf:[0,"ngForOf"]},null),(l()(),m._40(-1,null,["\n\n            "])),(l()(),m._40(-1,null,["\n            "])),(l()(),m._11(16777216,null,null,1,null,s)),m._15(47,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,null,["\n\n            "])),(l()(),m._40(-1,null,["\n            "])),(l()(),m._11(16777216,null,null,1,null,d)),m._15(51,16384,null,0,C.k,[m.W,m.T],{ngIf:[0,"ngIf"]},null),(l()(),m._40(-1,null,["\n        "])),(l()(),m._40(-1,null,["\n    "])),(l()(),m._40(-1,1,["\n"])),(l()(),m._40(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,20,0,"close");l(n,36,0,!u.isReview);l(n,40,0,u.isReview&&u.pageInstance.numPages>1);l(n,43,0,u.pageInstance.navigation);l(n,47,0,!u.isReview);l(n,51,0,u.isReview&&u.pageInstance.numPages>1)},function(l,n){l(n,3,0,m._29(n,4)._hidden,m._29(n,4)._sbPadding);l(n,8,0,m._41(n,8,0,m._29(n,9).transform("addon.mod_quiz.quiznavigation")));l(n,15,0,m._41(n,15,0,m._29(n,17).transform("core.close")));l(n,19,0,m._29(n,20)._hidden);l(n,26,0,m._29(n,27).statusbarPadding,m._29(n,27)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var m=u(1),g=(u(0),u(10),function(){function l(l,n){this.viewCtrl=n,this.isReview=!!l.get("isReview"),this.pageInstance=l.get("page")}return l.prototype.closeModal=function(){this.viewCtrl.dismiss()},l.prototype.loadPage=function(l,n){this.pageInstance.changePage&&this.pageInstance.changePage(l,!0,n),this.closeModal()},l.prototype.switchMode=function(){this.pageInstance.switchMode&&this.pageInstance.switchMode(),this.closeModal()},l}()),b=u(6),h=function(){return function(){}}(),v=u(1290),I=u(1291),k=u(1292),w=u(1293),q=u(1294),x=u(1295),z=u(1296),K=u(1297),M=u(1298),P=u(34),T=u(21),W=u(19),y=u(7),$=u(29),R=u(33),L=u(28),A=u(17),C=u(9),F=u(419),O=u(35),j=u(1299),N=u(191),B=u(27),D=u(22),J=u(1300),Q=u(326),S=u(237),E=u(420),G=u(45),H=u(39),U=u(40),V=u(176),X=u(25),Y=u(14),Z=u(26),ll=u(97),nl=u(79),ul=u(36),al=u(58),tl=m._14({encapsulation:2,styles:[],data:{}}),_l=m._12("page-addon-mod-quiz-navigation-modal",g,function(l){return m._42(0,[(l()(),m._16(0,0,null,null,1,"page-addon-mod-quiz-navigation-modal",[],null,null,null,p,tl)),m._15(1,49152,null,0,g,[al.a,O.a],null,null)],null,null)},{},{},[]),ol=u(18),il=u(322),el=u(323),cl=u(325),sl=u(324),rl=u(418),fl=u(640),dl=u(238);u.d(n,"AddonModQuizNavigationModalPageModuleNgFactory",function(){return pl});var pl=m._13(h,[],function(l){return m._25([m._26(512,m.n,m._6,[[8,[v.a,I.a,k.a,w.a,q.a,x.a,z.a,K.a,M.a,_l]],[3,m.n],m.B]),m._26(4608,C.m,C.l,[m.x,[2,C.v]]),m._26(4608,ol.x,ol.x,[]),m._26(4608,ol.d,ol.d,[]),m._26(4608,il.b,il.a,[]),m._26(4608,el.a,el.b,[]),m._26(4608,cl.b,cl.a,[]),m._26(4608,sl.b,sl.a,[]),m._26(4608,A.a,A.a,[rl.a,il.b,el.a,cl.b,sl.b,A.b,A.c]),m._26(512,C.b,C.b,[]),m._26(512,ol.v,ol.v,[]),m._26(512,ol.i,ol.i,[]),m._26(512,ol.s,ol.s,[]),m._26(512,fl.a,fl.a,[]),m._26(512,fl.b,fl.b,[]),m._26(512,b.a,b.a,[]),m._26(512,h,h,[]),m._26(256,dl.a,g,[]),m._26(256,A.c,void 0,[]),m._26(256,A.b,void 0,[])])})}});
+webpackJsonp([81],{
+
+/***/ 1829:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModGlossaryNewDiscussionPageModule", function() { return AddonModGlossaryNewDiscussionPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__edit__ = __webpack_require__(1954);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+var AddonModGlossaryNewDiscussionPageModule = /** @class */ (function () {
+    function AddonModGlossaryNewDiscussionPageModule() {
+    }
+    AddonModGlossaryNewDiscussionPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_5__edit__["a" /* AddonModGlossaryEditPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_5__edit__["a" /* AddonModGlossaryEditPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModGlossaryNewDiscussionPageModule);
+    return AddonModGlossaryNewDiscussionPageModule;
+}());
+
+//# sourceMappingURL=edit.module.js.map
+
+/***/ }),
+
+/***/ 1954:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonModGlossaryEditPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_events__ = __webpack_require__(12);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_utils_text__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__core_fileuploader_providers_fileuploader__ = __webpack_require__(56);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_glossary__ = __webpack_require__(137);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__providers_offline__ = __webpack_require__(163);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_helper__ = __webpack_require__(411);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that displays the edit form.
+ */
+var AddonModGlossaryEditPage = /** @class */ (function () {
+    function AddonModGlossaryEditPage(navParams, navCtrl, translate, domUtils, eventsProvider, sitesProvider, uploaderProvider, textUtils, glossaryProvider, glossaryOffline, glossaryHelper) {
+        this.navParams = navParams;
+        this.navCtrl = navCtrl;
+        this.translate = translate;
+        this.domUtils = domUtils;
+        this.eventsProvider = eventsProvider;
+        this.sitesProvider = sitesProvider;
+        this.uploaderProvider = uploaderProvider;
+        this.textUtils = textUtils;
+        this.glossaryProvider = glossaryProvider;
+        this.glossaryOffline = glossaryOffline;
+        this.glossaryHelper = glossaryHelper;
+        this.component = __WEBPACK_IMPORTED_MODULE_9__providers_glossary__["a" /* AddonModGlossaryProvider */].COMPONENT;
+        this.loaded = false;
+        this.entry = {
+            concept: '',
+            definition: '',
+            timecreated: 0,
+        };
+        this.options = {
+            categories: [],
+            aliases: '',
+            usedynalink: false,
+            casesensitive: false,
+            fullmatch: false
+        };
+        this.attachments = [];
+        this.definitionControl = new __WEBPACK_IMPORTED_MODULE_1__angular_forms__["b" /* FormControl */]();
+        this.categories = [];
+        this.isDestroyed = false;
+        this.saved = false;
+        this.courseId = navParams.get('courseId');
+        this.module = navParams.get('module');
+        this.glossary = navParams.get('glossary');
+    }
+    /**
+     * Component being initialized.
+     */
+    AddonModGlossaryEditPage.prototype.ngOnInit = function () {
+        var _this = this;
+        var entry = this.navParams.get('entry');
+        var promise;
+        if (entry) {
+            this.entry.concept = entry.concept || '';
+            this.entry.definition = entry.definition || '';
+            this.originalData = {
+                concept: this.entry.concept,
+                definition: this.entry.definition,
+                files: [],
+            };
+            if (entry.options) {
+                this.options.categories = entry.options.categories || [];
+                this.options.aliases = entry.options.aliases || '';
+                this.options.usedynalink = !!entry.options.usedynalink;
+                if (this.options.usedynalink) {
+                    this.options.casesensitive = !!entry.options.casesensitive;
+                    this.options.fullmatch = !!entry.options.fullmatch;
+                }
+            }
+            // Treat offline attachments if any.
+            if (entry.attachments && entry.attachments.offline) {
+                promise = this.glossaryHelper.getStoredFiles(this.glossary.id, entry.concept, entry.timecreated).then(function (files) {
+                    _this.attachments = files;
+                    _this.originalData.files = files.slice();
+                });
+            }
+        }
+        this.definitionControl.setValue(this.entry.definition);
+        Promise.resolve(promise).then(function () {
+            _this.glossaryProvider.getAllCategories(_this.glossary.id).then(function (categories) {
+                _this.categories = categories;
+            }).finally(function () {
+                _this.loaded = true;
+            });
+        });
+    };
+    /**
+     * Definition changed.
+     *
+     * @param {string} text The new text.
+     */
+    AddonModGlossaryEditPage.prototype.onDefinitionChange = function (text) {
+        this.entry.definition = text;
+    };
+    /**
+     * Check if we can leave the page or not.
+     *
+     * @return {boolean|Promise<void>} Resolved if we can leave it, rejected if not.
+     */
+    AddonModGlossaryEditPage.prototype.ionViewCanLeave = function () {
+        var _this = this;
+        var promise;
+        if (!this.saved && this.glossaryHelper.hasEntryDataChanged(this.entry, this.attachments, this.originalData)) {
+            // Show confirmation if some data has been modified.
+            promise = this.domUtils.showConfirm(this.translate.instant('core.confirmcanceledit'));
+        }
+        else {
+            promise = Promise.resolve();
+        }
+        return promise.then(function () {
+            // Delete the local files from the tmp folder.
+            _this.uploaderProvider.clearTmpFiles(_this.attachments);
+        });
+    };
+    /**
+     * Save the entry.
+     */
+    AddonModGlossaryEditPage.prototype.save = function () {
+        var _this = this;
+        var definition = this.entry.definition, saveOffline = false, promise;
+        var timecreated = this.entry.timecreated || Date.now();
+        if (!this.entry.concept || !definition) {
+            this.domUtils.showErrorModal('addon.mod_glossary.fillfields', true);
+            return;
+        }
+        var modal = this.domUtils.showModalLoading('core.sending', true);
+        // Add some HTML to the definition if needed.
+        definition = this.textUtils.formatHtmlLines(definition);
+        // Upload attachments first if any.
+        if (this.attachments.length > 0) {
+            promise = this.glossaryHelper.uploadOrStoreFiles(this.glossary.id, this.entry.concept, timecreated, this.attachments, false).catch(function () {
+                // Cannot upload them in online, save them in offline.
+                saveOffline = true;
+                return _this.glossaryHelper.uploadOrStoreFiles(_this.glossary.id, _this.entry.concept, timecreated, _this.attachments, true);
+            });
+        }
+        else {
+            promise = Promise.resolve();
+        }
+        promise.then(function (attach) {
+            var options = {
+                aliases: _this.options.aliases,
+                categories: _this.options.categories.join(',')
+            };
+            if (_this.glossary.usedynalink) {
+                options.usedynalink = _this.options.usedynalink ? 1 : 0;
+                if (_this.options.usedynalink) {
+                    options.casesensitive = _this.options.casesensitive ? 1 : 0;
+                    options.fullmatch = _this.options.fullmatch ? 1 : 0;
+                }
+            }
+            if (saveOffline) {
+                var promise_1;
+                if (_this.entry && !_this.glossary.allowduplicatedentries) {
+                    // Check if the entry is duplicated in online or offline mode.
+                    promise_1 = _this.glossaryProvider.isConceptUsed(_this.glossary.id, _this.entry.concept, _this.entry.timecreated)
+                        .then(function (used) {
+                        if (used) {
+                            // There's a entry with same name, reject with error message.
+                            return Promise.reject(_this.translate.instant('addon.mod_glossary.errconceptalreadyexists'));
+                        }
+                    });
+                }
+                else {
+                    promise_1 = Promise.resolve();
+                }
+                return promise_1.then(function () {
+                    // Save entry in offline.
+                    return _this.glossaryOffline.addNewEntry(_this.glossary.id, _this.entry.concept, definition, _this.courseId, options, attach, timecreated, undefined, undefined, _this.entry).then(function () {
+                        // Don't return anything.
+                    });
+                });
+            }
+            else {
+                // Try to send it to server.
+                // Don't allow offline if there are attachments since they were uploaded fine.
+                return _this.glossaryProvider.addEntry(_this.glossary.id, _this.entry.concept, definition, _this.courseId, options, attach, timecreated, undefined, _this.entry, !_this.attachments.length, !_this.glossary.allowduplicatedentries);
+            }
+        }).then(function (entryId) {
+            if (entryId) {
+                // Data sent to server, delete stored files (if any).
+                _this.glossaryHelper.deleteStoredFiles(_this.glossary.id, _this.entry.concept, timecreated);
+            }
+            var data = {
+                glossaryId: _this.glossary.id,
+            };
+            _this.eventsProvider.trigger(__WEBPACK_IMPORTED_MODULE_9__providers_glossary__["a" /* AddonModGlossaryProvider */].ADD_ENTRY_EVENT, data, _this.sitesProvider.getCurrentSiteId());
+            _this.saved = true;
+            _this.navCtrl.pop();
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'addon.mod_glossary.cannoteditentry', true);
+        }).finally(function () {
+            modal.dismiss();
+        });
+    };
+    AddonModGlossaryEditPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-mod-glossary-edit',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/glossary/pages/edit/edit.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="module.name"></core-format-text></ion-title>\n        <ion-buttons end>\n            <button ion-button (click)="save()"> {{ \'core.save\' | translate }}</button>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <core-loading [hideUntil]="loaded">\n        <ion-list>\n            <ion-item>\n                <ion-label stacked>{{ \'addon.mod_glossary.concept\' | translate }}</ion-label>\n                <ion-input type="text" [placeholder]="\'addon.mod_glossary.concept\' | translate" [(ngModel)]="entry.concept"></ion-input>\n            </ion-item>\n            <ion-item>\n                <ion-label stacked>{{ \'addon.mod_glossary.definition\' | translate }}</ion-label>\n                <core-rich-text-editor item-content [control]="definitionControl" (contentChanged)="onDefinitionChange($event)" [placeholder]="\'addon.mod_glossary.definition\' | translate" name="addon_mod_glossary_edit" [component]="component" [componentId]="glossary.cmid"></core-rich-text-editor>\n            </ion-item>\n            <ion-item *ngIf="categories.length > 0">\n                <ion-label stacked id="addon-mod-glossary-categories-label">{{ \'addon.mod_glossary.categories\' | translate }}</ion-label>\n                <ion-select [(ngModel)]="options.categories" multiple="true" aria-labelledby="addon-mod-glossary-categories-label" interface="popover">\n                    <ion-option *ngFor="let category of categories" [value]="category.id">{{ category.name }}</ion-option>\n                </ion-select>\n            </ion-item>\n            <ion-item>\n                <ion-label stacked id="addon-mod-glossary-aliases-label">{{ \'addon.mod_glossary.aliases\' | translate }}</ion-label>\n                <ion-textarea [(ngModel)]="options.aliases" rows="1" core-auto-rows aria-labelledby="addon-mod-glossary-aliases-label"></ion-textarea>\n            </ion-item>\n            <ion-item-divider color="light">{{ \'addon.mod_glossary.attachment\' | translate }}</ion-item-divider>\n            <core-attachments [files]="attachments" [component]="component" [componentId]="glossary.cmid" [allowOffline]="true"></core-attachments>\n            <ng-container *ngIf="glossary.usedynalink">\n                <ion-item-divider color="light">{{ \'addon.mod_glossary.linking\' | translate }}</ion-item-divider>\n                <ion-item text-wrap>\n                    <ion-label>{{ \'addon.mod_glossary.entryusedynalink\' | translate }}</ion-label>\n                    <ion-toggle [(ngModel)]="options.usedynalink"></ion-toggle>\n                </ion-item>\n                <ion-item text-wrap>\n                    <ion-label>{{ \'addon.mod_glossary.casesensitive\' | translate }}</ion-label>\n                    <ion-toggle [disabled]="!options.usedynalink" [(ngModel)]="options.casesensitive"></ion-toggle>\n                </ion-item>\n                <ion-item text-wrap>\n                    <ion-label>{{ \'addon.mod_glossary.fullmatch\' | translate }}</ion-label>\n                    <ion-toggle [disabled]="!options.usedynalink" [(ngModel)]="options.fullmatch"></ion-toggle>\n                </ion-item>\n            </ng-container>\n        </ion-list>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/glossary/pages/edit/edit.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["r" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["q" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__["c" /* TranslateService */],
+            __WEBPACK_IMPORTED_MODULE_6__providers_utils_dom__["a" /* CoreDomUtilsProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_events__["a" /* CoreEventsProvider */],
+            __WEBPACK_IMPORTED_MODULE_5__providers_sites__["a" /* CoreSitesProvider */],
+            __WEBPACK_IMPORTED_MODULE_8__core_fileuploader_providers_fileuploader__["a" /* CoreFileUploaderProvider */],
+            __WEBPACK_IMPORTED_MODULE_7__providers_utils_text__["a" /* CoreTextUtilsProvider */],
+            __WEBPACK_IMPORTED_MODULE_9__providers_glossary__["a" /* AddonModGlossaryProvider */],
+            __WEBPACK_IMPORTED_MODULE_10__providers_offline__["a" /* AddonModGlossaryOfflineProvider */],
+            __WEBPACK_IMPORTED_MODULE_11__providers_helper__["a" /* AddonModGlossaryHelperProvider */]])
+    ], AddonModGlossaryEditPage);
+    return AddonModGlossaryEditPage;
+}());
+
+//# sourceMappingURL=edit.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=81.js.map

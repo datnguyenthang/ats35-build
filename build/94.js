@@ -1,1 +1,422 @@
-webpackJsonp([94],{1821:function(n,l,u){"use strict";function t(n){return j._42(0,[(n()(),j._16(0,0,null,null,5,"ion-note",[["float-right",""],["padding-left",""]],null,null,null,null,null)),j._15(1,16384,null,0,Wn.a,[pn.a,j.p,j.K],null,null),(n()(),j._16(2,0,null,null,1,"ion-icon",[["name","time"],["role","img"]],[[2,"hide",null]],null,null,null,null)),j._15(3,147456,null,0,Ln.a,[pn.a,j.p,j.K],{name:[0,"name"]},null),(n()(),j._40(4,null,[" ",""])),j._32(131072,Kn.a,[vn.a,j.i])],function(n,l){n(l,3,0,"time")},function(n,l){n(l,2,0,j._29(l,3)._hidden);n(l,4,0,j._41(l,4,0,j._29(l,5).transform("core.notsent")))})}function o(n){return j._42(0,[(n()(),j._16(0,0,null,null,4,"div",[],null,null,null,null,null)),(n()(),j._16(1,0,null,null,1,"ion-icon",[["name","record"],["role","img"]],[[2,"hide",null]],null,null,null,null)),j._15(2,147456,null,0,Ln.a,[pn.a,j.p,j.K],{name:[0,"name"]},null),(n()(),j._40(3,null,[" ",""])),j._32(131072,Kn.a,[vn.a,j.i])],function(n,l){n(l,2,0,"record")},function(n,l){n(l,1,0,j._29(l,2)._hidden);n(l,3,0,j._41(l,3,0,j._29(l,4).transform("addon.mod_forum.unread")))})}function e(n){return j._42(0,[(n()(),j._16(0,0,null,null,6,"ion-note",[["float-right",""],["padding-left",""]],null,null,null,null,null)),j._15(1,16384,null,0,Wn.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(2,null,["\n            ","\n            "])),j._34(3,1),(n()(),j._11(16777216,null,null,1,null,o)),j._15(5,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n        "]))],function(n,l){n(l,5,0,l.component.unread)},function(n,l){var u=l.component;n(l,2,0,j._41(l,2,0,n(l,3,0,j._29(l.parent,0),u.post.modified)))})}function a(n){return j._42(0,[(n()(),j._16(0,0,null,null,1,"core-file",[],null,null,null,An.b,An.a)),j._15(1,245760,null,0,Un.a,[N.a,$.a,V.a,Cn.a,F.a,Mn.a,Fn.a,R.a],{file:[0,"file"],component:[1,"component"],componentId:[2,"componentId"]},null)],function(n,l){var u=l.component;n(l,1,0,l.parent.context.$implicit,u.component,u.componentId)},null)}function i(n){return j._42(0,[(n()(),j._16(0,0,null,null,1,"core-local-file",[],null,null,null,Rn.b,Rn.a)),j._15(1,114688,null,0,Nn.a,[Fn.a,$.a,vn.a,bn.a,Vn.a,V.a],{file:[0,"file"]},null)],function(n,l){n(l,1,0,l.parent.context.$implicit)},null)}function r(n){return j._42(0,[(n()(),j._16(0,0,null,null,9,"div",[],null,null,null,null,null)),(n()(),j._40(-1,null,["\n        "])),(n()(),j._40(-1,null,["\n        "])),(n()(),j._11(16777216,null,null,1,null,a)),j._15(4,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n        "])),(n()(),j._40(-1,null,["\n        "])),(n()(),j._11(16777216,null,null,1,null,i)),j._15(8,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n    "]))],function(n,l){n(l,4,0,!l.context.$implicit.name);n(l,8,0,l.context.$implicit.name)},null)}function s(n){return j._42(0,[(n()(),j._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-right",""]],null,null,null,$n.b,$n.a)),j._15(1,1097728,null,3,Hn.a,[qn.a,pn.a,j.p,j.K,[2,Yn.a]],null,null),j._37(335544320,4,{contentLabel:0}),j._37(603979776,5,{_buttons:1}),j._37(603979776,6,{_icons:1}),j._15(5,16384,null,0,zn.a,[],null,null),(n()(),j._40(-1,2,["\n    "])),(n()(),j._16(7,0,null,2,6,"button",[["clear",""],["icon-left",""],["ion-button",""],["small",""]],[[1,"aria-controls",0],[1,"aria-expanded",0]],[[null,"click"]],function(n,l,u){var t=!0;if("click"===l){t=!1!==n.component.showReply()&&t}return t},Bn.b,Bn.a)),j._15(8,1097728,[[5,4]],0,Jn.a,[[8,""],pn.a,j.p,j.K],{small:[0,"small"],clear:[1,"clear"]},null),(n()(),j._40(-1,0,["\n        "])),(n()(),j._16(10,0,null,0,1,"ion-icon",[["name","undo"],["role","img"]],[[2,"hide",null]],null,null,null,null)),j._15(11,147456,null,0,Ln.a,[pn.a,j.p,j.K],{name:[0,"name"]},null),(n()(),j._40(12,0,[" ","\n    "])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,2,["\n"]))],function(n,l){n(l,8,0,"","");n(l,11,0,"undo")},function(n,l){var u=l.component;n(l,7,0,"addon-forum-reply-edit-form-"+u.uniqueId,u.replyData.replyingTo===u.post.id);n(l,10,0,j._29(l,11)._hidden);n(l,12,0,j._41(l,12,0,j._29(l,13).transform("addon.mod_forum.reply")))})}function c(n){return j._42(0,[(n()(),j._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-right",""]],null,null,null,$n.b,$n.a)),j._15(1,1097728,null,3,Hn.a,[qn.a,pn.a,j.p,j.K,[2,Yn.a]],null,null),j._37(335544320,7,{contentLabel:0}),j._37(603979776,8,{_buttons:1}),j._37(603979776,9,{_icons:1}),j._15(5,16384,null,0,zn.a,[],null,null),(n()(),j._40(-1,2,["\n    "])),(n()(),j._16(7,0,null,2,6,"button",[["clear",""],["icon-left",""],["ion-button",""],["small",""]],[[1,"aria-controls",0],[1,"aria-expanded",0]],[[null,"click"]],function(n,l,u){var t=!0;if("click"===l){t=!1!==n.component.editReply()&&t}return t},Bn.b,Bn.a)),j._15(8,1097728,[[8,4]],0,Jn.a,[[8,""],pn.a,j.p,j.K],{small:[0,"small"],clear:[1,"clear"]},null),(n()(),j._40(-1,0,["\n        "])),(n()(),j._16(10,0,null,0,1,"ion-icon",[["name","create"],["role","img"]],[[2,"hide",null]],null,null,null,null)),j._15(11,147456,null,0,Ln.a,[pn.a,j.p,j.K],{name:[0,"name"]},null),(n()(),j._40(12,0,[" ","\n    "])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,2,["\n"]))],function(n,l){n(l,8,0,"","");n(l,11,0,"create")},function(n,l){var u=l.component;n(l,7,0,"addon-forum-reply-edit-form-"+u.uniqueId,u.replyData.replyingTo===u.post.parent);n(l,10,0,j._29(l,11)._hidden);n(l,12,0,j._41(l,12,0,j._29(l,13).transform("addon.mod_forum.edit")))})}function _(n){return j._42(0,[(n()(),j._16(0,0,null,null,1,"core-attachments",[],null,null,null,Gn.b,Gn.a)),j._15(1,114688,null,0,Qn.a,[F.a,V.a,bn.a,H.a,vn.a,Xn.a],{files:[0,"files"],maxSize:[1,"maxSize"],maxSubmissions:[2,"maxSubmissions"],component:[3,"component"],componentId:[4,"componentId"],allowOffline:[5,"allowOffline"]},null)],function(n,l){var u=l.component;n(l,1,0,u.replyData.files,u.forum.maxbytes,u.forum.maxattachments,u.component,u.forum.cmid,!0)},null)}function d(n){return j._42(0,[(n()(),j._16(0,0,null,null,11,"ion-row",[["class","row"]],null,null,null,null,null)),j._15(1,16384,null,0,Zn.a,[],null,null),(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(3,0,null,null,7,"ion-col",[["class","col"]],null,null,null,null,null)),j._15(4,16384,null,0,nl.a,[],null,null),(n()(),j._40(-1,null,["\n                "])),(n()(),j._16(6,0,null,null,3,"button",[["block",""],["color","light"],["ion-button",""]],null,[[null,"click"]],function(n,l,u){var t=!0;if("click"===l){t=!1!==n.component.discard()&&t}return t},Bn.b,Bn.a)),j._15(7,1097728,null,0,Jn.a,[[8,""],pn.a,j.p,j.K],{color:[0,"color"],block:[1,"block"]},null),(n()(),j._40(8,0,["",""])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,null,["\n            "])),(n()(),j._40(-1,null,["\n        "]))],function(n,l){n(l,7,0,"light","")},function(n,l){n(l,8,0,j._41(l,8,0,j._29(l,9).transform("core.discard")))})}function f(n){return j._42(0,[(n()(),j._16(0,0,null,null,71,"ion-list",[],[[8,"id",0]],null,null,null,null)),j._15(1,16384,null,0,ll.a,[pn.a,j.p,j.K,yn.a,ul.l,tl.a],null,null),(n()(),j._40(-1,null,["\n    "])),(n()(),j._16(3,0,null,null,18,"ion-item",[["class","item item-block"]],null,null,null,$n.b,$n.a)),j._15(4,1097728,null,3,Hn.a,[qn.a,pn.a,j.p,j.K,[2,Yn.a]],null,null),j._37(335544320,10,{contentLabel:0}),j._37(603979776,11,{_buttons:1}),j._37(603979776,12,{_icons:1}),j._15(8,16384,null,0,zn.a,[],null,null),(n()(),j._40(-1,2,["\n        "])),(n()(),j._16(10,0,null,1,3,"ion-label",[["stacked",""]],null,null,null,null,null)),j._15(11,16384,[[10,4]],0,ol.a,[pn.a,j.p,j.K,[8,null],[8,""],[8,null],[8,null]],null,null),(n()(),j._40(12,null,["",""])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,2,["\n        "])),(n()(),j._16(15,0,null,3,5,"ion-input",[["type","text"]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngModelChange"]],function(n,l,u){var t=!0;if("ngModelChange"===l){t=!1!==(n.component.replyData.subject=u)&&t}return t},el.b,el.a)),j._15(16,671744,null,0,al.q,[[8,null],[8,null],[8,null],[8,null]],{model:[0,"model"]},{update:"ngModelChange"}),j._35(2048,null,al.m,null,[al.q]),j._15(18,16384,null,0,al.n,[al.m],null,null),j._15(19,5423104,null,0,il.a,[pn.a,yn.a,qn.a,rl.a,j.p,j.K,[2,Tn.a],[2,Hn.a],[2,al.m],tl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,2,["\n    "])),(n()(),j._40(-1,null,["\n    "])),(n()(),j._16(23,0,null,null,15,"ion-item",[["class","item item-block"]],null,null,null,$n.b,$n.a)),j._15(24,1097728,null,3,Hn.a,[qn.a,pn.a,j.p,j.K,[2,Yn.a]],null,null),j._37(335544320,13,{contentLabel:0}),j._37(603979776,14,{_buttons:1}),j._37(603979776,15,{_icons:1}),j._15(28,16384,null,0,zn.a,[],null,null),(n()(),j._40(-1,2,["\n        "])),(n()(),j._16(30,0,null,1,3,"ion-label",[["stacked",""]],null,null,null,null,null)),j._15(31,16384,[[13,4]],0,ol.a,[pn.a,j.p,j.K,[8,null],[8,""],[8,null],[8,null]],null,null),(n()(),j._40(32,null,["",""])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,2,["\n        "])),(n()(),j._16(35,0,null,3,2,"core-rich-text-editor",[["item-content",""]],null,[[null,"contentChanged"]],function(n,l,u){var t=!0;if("contentChanged"===l){t=!1!==n.component.onMessageChange(u)&&t}return t},sl.b,sl.a)),j._15(36,1228800,null,0,cl.a,[V.a,_l.a,Pn.a,N.a,Cn.a,[2,Tn.a],j.p,R.a,$.a],{placeholder:[0,"placeholder"],control:[1,"control"],name:[2,"name"],component:[3,"component"],componentId:[4,"componentId"]},{contentChanged:"contentChanged"}),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,2,["\n    "])),(n()(),j._40(-1,null,["\n    "])),(n()(),j._11(16777216,null,null,1,null,_)),j._15(41,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n    "])),(n()(),j._16(43,0,null,null,27,"ion-grid",[["class","grid"]],null,null,null,null,null)),j._15(44,16384,null,0,dl.a,[],null,null),(n()(),j._40(-1,null,["\n        "])),(n()(),j._16(46,0,null,null,20,"ion-row",[["class","row"]],null,null,null,null,null)),j._15(47,16384,null,0,Zn.a,[],null,null),(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(49,0,null,null,7,"ion-col",[["class","col"]],null,null,null,null,null)),j._15(50,16384,null,0,nl.a,[],null,null),(n()(),j._40(-1,null,["\n                "])),(n()(),j._16(52,0,null,null,3,"button",[["block",""],["ion-button",""]],[[8,"disabled",0]],[[null,"click"]],function(n,l,u){var t=!0;if("click"===l){t=!1!==n.component.reply()&&t}return t},Bn.b,Bn.a)),j._15(53,1097728,null,0,Jn.a,[[8,""],pn.a,j.p,j.K],{block:[0,"block"]},null),(n()(),j._40(54,0,["",""])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,null,["\n            "])),(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(58,0,null,null,7,"ion-col",[["class","col"]],null,null,null,null,null)),j._15(59,16384,null,0,nl.a,[],null,null),(n()(),j._40(-1,null,["\n                "])),(n()(),j._16(61,0,null,null,3,"button",[["block",""],["color","light"],["ion-button",""]],null,[[null,"click"]],function(n,l,u){var t=!0;if("click"===l){t=!1!==n.component.cancel()&&t}return t},Bn.b,Bn.a)),j._15(62,1097728,null,0,Jn.a,[[8,""],pn.a,j.p,j.K],{color:[0,"color"],block:[1,"block"]},null),(n()(),j._40(63,0,["",""])),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,null,["\n            "])),(n()(),j._40(-1,null,["\n        "])),(n()(),j._40(-1,null,["\n        "])),(n()(),j._11(16777216,null,null,1,null,d)),j._15(69,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n    "])),(n()(),j._40(-1,null,["\n"]))],function(n,l){var u=l.component;n(l,16,0,u.replyData.subject);n(l,19,0,"text",j._41(l,19,1,j._29(l,20).transform("addon.mod_forum.subject")));n(l,36,0,j._41(l,36,0,j._29(l,37).transform("addon.mod_forum.message")),u.messageControl,"mod_forum_reply_"+u.post.id,u.component,u.componentId);n(l,41,0,u.forum.id&&u.forum.maxattachments>0);n(l,53,0,"");n(l,62,0,"light","");n(l,69,0,u.replyData.isEditing)},function(n,l){var u=l.component;n(l,0,0,"addon-forum-reply-edit-form-"+u.uniqueId);n(l,12,0,j._41(l,12,0,j._29(l,13).transform("addon.mod_forum.subject")));n(l,15,0,j._29(l,18).ngClassUntouched,j._29(l,18).ngClassTouched,j._29(l,18).ngClassPristine,j._29(l,18).ngClassDirty,j._29(l,18).ngClassValid,j._29(l,18).ngClassInvalid,j._29(l,18).ngClassPending);n(l,32,0,j._41(l,32,0,j._29(l,33).transform("addon.mod_forum.message")));n(l,52,0,""==u.replyData.subject||null==u.replyData.message);n(l,54,0,j._41(l,54,0,j._29(l,55).transform("addon.mod_forum.posttoforum")));n(l,63,0,j._41(l,63,0,j._29(l,64).transform("core.cancel")))})}function m(n){return j._42(0,[j._32(0,fl.a,[kn.a,vn.a]),(n()(),j._16(1,0,null,null,28,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,$n.b,$n.a)),j._15(2,1097728,null,3,Hn.a,[qn.a,pn.a,j.p,j.K,[2,Yn.a]],null,null),j._37(335544320,1,{contentLabel:0}),j._37(603979776,2,{_buttons:1}),j._37(603979776,3,{_icons:1}),j._15(6,16384,null,0,zn.a,[],null,null),(n()(),j._40(-1,2,["\n    "])),(n()(),j._16(8,0,null,0,7,"ion-avatar",[["item-start",""]],null,[[null,"click"]],function(n,l,u){var t=!0,o=n.component;if("click"===l){t=!1!==o.openUserProfile(o.post.userid)&&t}return t},null,null)),j._15(9,16384,null,0,ml.a,[],null,null),(n()(),j._40(-1,null,["\n        "])),(n()(),j._16(11,0,null,null,3,"img",[["core-external-content",""],["onError","this.src='assets/img/user-avatar.png'"],["role","presentation"]],[[8,"src",4],[8,"alt",0]],null,null,null,null)),j._15(12,4210688,null,0,pl.a,[j.p,kn.a,Cn.a,yn.a,N.a,V.a,Pn.a,F.a],null,null),j._33(13,{$a:0}),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,null,["\n    "])),(n()(),j._40(-1,2,["\n    "])),(n()(),j._16(17,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),j._16(18,0,null,null,1,"span",[],[[2,"core-bold",null]],null,null,null,null)),(n()(),j._40(19,null,["",""])),(n()(),j._40(-1,2,["\n    "])),(n()(),j._16(21,0,null,2,7,"p",[],null,null,null,null,null)),(n()(),j._40(-1,null,["\n        "])),(n()(),j._11(16777216,null,null,1,null,t)),j._15(24,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n        "])),(n()(),j._11(16777216,null,null,1,null,e)),j._15(27,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(28,null,["\n        ","\n    "])),(n()(),j._40(-1,2,["\n"])),(n()(),j._40(-1,null,["\n"])),(n()(),j._16(31,0,null,null,8,"ion-card-content",[],null,null,null,null,null)),j._15(32,16384,null,0,hl.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(-1,null,["\n    "])),(n()(),j._16(34,0,null,null,1,"core-format-text",[],null,null,null,null,null)),j._15(35,540672,null,0,In.a,[j.p,N.a,V.a,bn.a,vn.a,yn.a,$.a,Pn.a,kn.a,Cn.a,F.a,Dn.a,[2,On.a],[2,Tn.a]],{text:[0,"text"],component:[1,"component"],componentId:[2,"componentId"]},null),(n()(),j._40(-1,null,["\n    "])),(n()(),j._11(16777216,null,null,1,null,r)),j._15(38,802816,null,0,En.j,[j.W,j.T,j.v],{ngForOf:[0,"ngForOf"]},null),(n()(),j._40(-1,null,["\n"])),(n()(),j._40(-1,null,["\n"])),(n()(),j._11(16777216,null,null,1,null,s)),j._15(42,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n"])),(n()(),j._11(16777216,null,null,1,null,c)),j._15(45,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n"])),(n()(),j._11(16777216,null,null,1,null,f)),j._15(48,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n"]))],function(n,l){var u=l.component;n(l,24,0,!u.post.modified);n(l,27,0,u.post.modified);n(l,35,0,u.post.message,u.component,u.componentId);n(l,38,0,u.post.attachments);n(l,42,0,u.post.id&&u.post.canreply);n(l,45,0,!(u.post.id||u.replyData.isEditing&&u.replyData.replyingTo==u.post.parent));n(l,48,0,u.post.id&&!u.replyData.isEditing&&u.replyData.replyingTo==u.post.id||!u.post.id&&u.replyData.isEditing&&u.replyData.replyingTo==u.post.parent)},function(n,l){var u=l.component;n(l,11,0,u.post.userpictureurl,j._41(l,11,1,j._29(l,14).transform("core.pictureof",n(l,13,0,u.post.userfullname))));n(l,18,0,0==u.post.parent);n(l,19,0,u.post.subject);n(l,28,0,u.post.userfullname)})}function p(n){return j._42(0,[(n()(),j._16(0,0,null,null,3,"ion-title",[],null,null,null,fn.b,fn.a)),j._15(1,49152,null,0,mn.a,[pn.a,j.p,j.K,[2,hn.a],[2,gn.a]],null,null),(n()(),j._16(2,0,null,0,1,"core-format-text",[],null,null,null,null,null)),j._15(3,540672,null,0,In.a,[j.p,N.a,V.a,bn.a,vn.a,yn.a,$.a,Pn.a,kn.a,Cn.a,F.a,Dn.a,[2,On.a],[2,Tn.a]],{text:[0,"text"]},null)],function(n,l){n(l,3,0,l.component.discussion.subject)},null)}function h(n){return j._42(0,[(n()(),j._16(0,0,null,null,2,"core-context-menu-item",[],null,[[null,"action"]],function(n,l,u){var t=!0;if("action"===l){t=!1!==n.component.doRefresh(null,u)&&t}return t},xn.b,xn.a)),j._15(1,770048,null,0,Sn.a,[wn.a],{content:[0,"content"],iconAction:[1,"iconAction"],closeOnClick:[2,"closeOnClick"],priority:[3,"priority"]},{action:"action"}),j._32(131072,Kn.a,[vn.a,j.i])],function(n,l){var u=l.component;n(l,1,0,j._41(l,1,0,j._29(l,2).transform("addon.mod_forum.refreshposts")),u.refreshIcon,!1,650)},null)}function g(n){return j._42(0,[(n()(),j._16(0,0,null,null,2,"core-context-menu-item",[],null,[[null,"action"]],function(n,l,u){var t=!0;if("action"===l){t=!1!==n.component.doRefresh(null,u,!0)&&t}return t},xn.b,xn.a)),j._15(1,770048,null,0,Sn.a,[wn.a],{content:[0,"content"],iconAction:[1,"iconAction"],closeOnClick:[2,"closeOnClick"],priority:[3,"priority"]},{action:"action"}),j._32(131072,Kn.a,[vn.a,j.i])],function(n,l){var u=l.component;n(l,1,0,j._41(l,1,0,j._29(l,2).transform("core.settings.synchronizenow")),u.syncIcon,!1,550)},null)}function I(n){return j._42(0,[(n()(),j._16(0,0,null,null,7,"ion-card",[["class","core-warning-card"]],null,null,null,null,null)),j._15(1,16384,null,0,jn.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(3,0,null,null,1,"ion-icon",[["name","warning"],["role","img"]],[[2,"hide",null]],null,null,null,null)),j._15(4,147456,null,0,Ln.a,[pn.a,j.p,j.K],{name:[0,"name"]},null),(n()(),j._40(5,null,[" ","\n        "])),j._33(6,{$a:0}),j._32(131072,Kn.a,[vn.a,j.i])],function(n,l){n(l,4,0,"warning")},function(n,l){var u=l.component;n(l,3,0,j._29(l,4)._hidden);n(l,5,0,j._41(l,5,0,j._29(l,7).transform("core.hasdatatosync",n(l,6,0,u.discussionStr))))})}function b(n){return j._42(0,[(n()(),j._16(0,0,null,null,6,"ion-card",[["class","core-warning-card"]],null,null,null,null,null)),j._15(1,16384,null,0,jn.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(3,0,null,null,1,"ion-icon",[["name","warning"],["role","img"]],[[2,"hide",null]],null,null,null,null)),j._15(4,147456,null,0,Ln.a,[pn.a,j.p,j.K],{name:[0,"name"]},null),(n()(),j._40(5,null,[" ","\n        "])),j._32(131072,Kn.a,[vn.a,j.i])],function(n,l){n(l,4,0,"warning")},function(n,l){n(l,3,0,j._29(l,4)._hidden);n(l,5,0,j._41(l,5,0,j._29(l,6).transform("addon.mod_forum.discussionlocked")))})}function v(n){return j._42(0,[(n()(),j._16(0,0,null,null,5,"ion-card",[["margin-bottom",""]],null,null,null,null,null)),j._15(1,16384,null,0,jn.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(3,0,null,null,1,"addon-mod-forum-post",[],null,[[null,"onPostChange"]],function(n,l,u){var t=!0;if("onPostChange"===l){t=!1!==n.component.postListChanged()&&t}return t},m,bl)),j._15(4,245760,null,0,gl.a,[On.a,H.a,Il.a,V.a,bn.a,vn.a,Y.a,B.a,z.a,J.a,[2,q.a]],{post:[0,"post"],courseId:[1,"courseId"],discussionId:[2,"discussionId"],component:[3,"component"],componentId:[4,"componentId"],replyData:[5,"replyData"],originalData:[6,"originalData"],trackPosts:[7,"trackPosts"],forum:[8,"forum"],defaultSubject:[9,"defaultSubject"]},{onPostChange:"onPostChange"}),(n()(),j._40(-1,null,["\n        "]))],function(n,l){var u=l.component;n(l,4,0,u.discussion,u.courseId,u.discussionId,u.component,u.cmId,u.replyData,u.originalData,u.trackPosts,u.forum,u.defaultSubject)},null)}function y(n){return j._42(0,[(n()(),j._16(0,0,null,null,5,"ion-item-divider",[["class","item item-divider"],["color","light"]],null,null,null,$n.b,$n.a)),j._15(1,1097728,null,3,Hn.a,[qn.a,pn.a,j.p,j.K,[2,Yn.a]],{color:[0,"color"]},null),j._37(335544320,4,{contentLabel:0}),j._37(603979776,5,{_buttons:1}),j._37(603979776,6,{_icons:1}),j._15(5,16384,null,0,vl.a,[pn.a,j.p,j.K],{color:[0,"color"]},null)],function(n,l){n(l,1,0,"light");n(l,5,0,"light")},null)}function P(n){return j._42(0,[(n()(),j._16(0,0,null,null,7,null,null,null,null,null,null,null)),(n()(),j._40(-1,null,["\n                "])),(n()(),j._11(16777216,null,null,1,null,y)),j._15(3,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n                "])),(n()(),j._16(5,0,null,null,1,"addon-mod-forum-post",[],null,[[null,"onPostChange"]],function(n,l,u){var t=!0;if("onPostChange"===l){t=!1!==n.component.postListChanged()&&t}return t},m,bl)),j._15(6,245760,null,0,gl.a,[On.a,H.a,Il.a,V.a,bn.a,vn.a,Y.a,B.a,z.a,J.a,[2,q.a]],{post:[0,"post"],courseId:[1,"courseId"],discussionId:[2,"discussionId"],component:[3,"component"],componentId:[4,"componentId"],replyData:[5,"replyData"],originalData:[6,"originalData"],trackPosts:[7,"trackPosts"],forum:[8,"forum"],defaultSubject:[9,"defaultSubject"]},{onPostChange:"onPostChange"}),(n()(),j._40(-1,null,["\n            "]))],function(n,l){var u=l.component;n(l,3,0,!l.context.first);n(l,6,0,l.context.$implicit,u.courseId,u.discussionId,u.component,u.cmId,u.replyData,u.originalData,u.trackPosts,u.forum,u.defaultSubject)},null)}function k(n){return j._42(0,[(n()(),j._16(0,0,null,null,5,"ion-card",[],null,null,null,null,null)),j._15(1,16384,null,0,jn.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(-1,null,["\n            "])),(n()(),j._11(16777216,null,null,1,null,P)),j._15(4,802816,null,0,En.j,[j.W,j.T,j.v],{ngForOf:[0,"ngForOf"]},null),(n()(),j._40(-1,null,["\n        "]))],function(n,l){n(l,4,0,l.component.posts)},null)}function C(n){return j._42(0,[(n()(),j._16(0,0,null,null,0,null,null,null,null,null,null,null))],null,null)}function D(n){return j._42(0,[(n()(),j._16(0,0,null,null,5,null,null,null,null,null,null,null)),(n()(),j._40(-1,null,["\n                "])),(n()(),j._11(16777216,null,null,2,null,C)),j._15(3,540672,null,0,En.r,[j.W],{ngTemplateOutletContext:[0,"ngTemplateOutletContext"],ngTemplateOutlet:[1,"ngTemplateOutlet"]},null),j._33(4,{post:0}),(n()(),j._40(-1,null,["\n            "]))],function(n,l){n(l,3,0,n(l,4,0,l.context.$implicit),j._29(l.parent.parent,75))},null)}function O(n){return j._42(0,[(n()(),j._16(0,0,null,null,4,null,null,null,null,null,null,null)),(n()(),j._40(-1,null,["\n            "])),(n()(),j._11(16777216,null,null,1,null,D)),j._15(3,802816,null,0,En.j,[j.W,j.T,j.v],{ngForOf:[0,"ngForOf"]},null),(n()(),j._40(-1,null,["\n        "]))],function(n,l){n(l,3,0,l.component.posts)},null)}function T(n){return j._42(0,[(n()(),j._16(0,0,null,null,0,null,null,null,null,null,null,null))],null,null)}function x(n){return j._42(0,[(n()(),j._16(0,0,null,null,5,null,null,null,null,null,null,null)),(n()(),j._40(-1,null,["\n                    "])),(n()(),j._11(16777216,null,null,2,null,T)),j._15(3,540672,null,0,En.r,[j.W],{ngTemplateOutletContext:[0,"ngTemplateOutletContext"],ngTemplateOutlet:[1,"ngTemplateOutlet"]},null),j._33(4,{post:0}),(n()(),j._40(-1,null,["\n                "]))],function(n,l){n(l,3,0,n(l,4,0,l.context.$implicit),j._29(l.parent.parent.parent,75))},null)}function S(n){return j._42(0,[(n()(),j._16(0,0,null,null,4,"div",[["padding-left",""]],null,null,null,null,null)),(n()(),j._40(-1,null,["\n                "])),(n()(),j._11(16777216,null,null,1,null,x)),j._15(3,802816,null,0,En.j,[j.W,j.T,j.v],{ngForOf:[0,"ngForOf"]},null),(n()(),j._40(-1,null,["\n            "]))],function(n,l){n(l,3,0,l.parent.context.post.children)},null)}function w(n){return j._42(0,[(n()(),j._40(-1,null,["\n            "])),(n()(),j._16(1,0,null,null,5,"ion-card",[],null,null,null,null,null)),j._15(2,16384,null,0,jn.a,[pn.a,j.p,j.K],null,null),(n()(),j._40(-1,null,["\n                "])),(n()(),j._16(4,0,null,null,1,"addon-mod-forum-post",[],null,[[null,"onPostChange"]],function(n,l,u){var t=!0;if("onPostChange"===l){t=!1!==n.component.postListChanged()&&t}return t},m,bl)),j._15(5,245760,null,0,gl.a,[On.a,H.a,Il.a,V.a,bn.a,vn.a,Y.a,B.a,z.a,J.a,[2,q.a]],{post:[0,"post"],courseId:[1,"courseId"],discussionId:[2,"discussionId"],component:[3,"component"],componentId:[4,"componentId"],replyData:[5,"replyData"],originalData:[6,"originalData"],trackPosts:[7,"trackPosts"],forum:[8,"forum"],defaultSubject:[9,"defaultSubject"]},{onPostChange:"onPostChange"}),(n()(),j._40(-1,null,["\n            "])),(n()(),j._40(-1,null,["\n            "])),(n()(),j._11(16777216,null,null,1,null,S)),j._15(9,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,null,["\n        "]))],function(n,l){var u=l.component;n(l,5,0,l.context.post,u.courseId,u.discussionId,u.component,u.cmId,u.replyData,u.originalData,u.trackPosts,u.forum,u.defaultSubject);n(l,9,0,l.context.post.children.length&&l.context.post.children[0].subject)},null)}function K(n){return j._42(0,[j._37(402653184,1,{content:0}),(n()(),j._16(1,0,null,null,15,"ion-header",[],null,null,null,null,null)),j._15(2,16384,null,0,yl.a,[pn.a,j.p,j.K,[2,Pl.a]],null,null),(n()(),j._40(-1,null,["\n    "])),(n()(),j._16(4,0,null,null,11,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,kl.b,kl.a)),j._15(5,49152,null,0,gn.a,[rl.a,[2,Pl.a],[2,On.a],pn.a,j.p,j.K],null,null),(n()(),j._40(-1,3,["\n        "])),(n()(),j._11(16777216,null,3,1,null,p)),j._15(8,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,3,["\n        "])),(n()(),j._16(10,0,null,2,4,"ion-buttons",[["end",""]],null,null,null,null,null)),j._15(11,16384,null,1,Cl.a,[pn.a,j.p,j.K,[2,hn.a],[2,gn.a]],null,null),j._37(603979776,2,{_buttons:1}),(n()(),j._40(-1,null,["\n            "])),(n()(),j._40(-1,null,["\n        "])),(n()(),j._40(-1,3,["\n    "])),(n()(),j._40(-1,null,["\n"])),(n()(),j._40(-1,null,["\n"])),(n()(),j._16(18,0,null,null,25,"core-navbar-buttons",[["end",""]],null,null,null,Dl.b,Dl.a)),j._15(19,245760,null,1,Ol.a,[j.p,kn.a,V.a],null,null),j._37(603979776,3,{buttons:1}),(n()(),j._40(-1,0,["\n    "])),(n()(),j._16(22,0,null,0,20,"core-context-menu",[],null,null,null,Tl.b,Tl.a)),j._15(23,245760,null,0,wn.a,[vn.a,xl.a,j.p,V.a,[2,Sl.a]],null,null),(n()(),j._40(-1,0,["\n        "])),(n()(),j._11(16777216,null,0,1,null,h)),j._15(26,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n        "])),(n()(),j._11(16777216,null,0,1,null,g)),j._15(29,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n        "])),(n()(),j._16(31,0,null,0,2,"core-context-menu-item",[["iconAction","arrow-round-down"]],null,[[null,"action"]],function(n,l,u){var t=!0;if("action"===l){t=!1!==n.component.changeSort("flat-oldest")&&t}return t},xn.b,xn.a)),j._15(32,770048,null,0,Sn.a,[wn.a],{content:[0,"content"],iconAction:[1,"iconAction"],priority:[2,"priority"],hidden:[3,"hidden"]},{action:"action"}),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,0,["\n        "])),(n()(),j._16(35,0,null,0,2,"core-context-menu-item",[["iconAction","arrow-round-up"]],null,[[null,"action"]],function(n,l,u){var t=!0;if("action"===l){t=!1!==n.component.changeSort("flat-newest")&&t}return t},xn.b,xn.a)),j._15(36,770048,null,0,Sn.a,[wn.a],{content:[0,"content"],iconAction:[1,"iconAction"],priority:[2,"priority"],hidden:[3,"hidden"]},{action:"action"}),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,0,["\n        "])),(n()(),j._16(39,0,null,0,2,"core-context-menu-item",[["iconAction","swap"]],null,[[null,"action"]],function(n,l,u){var t=!0;if("action"===l){t=!1!==n.component.changeSort("nested")&&t}return t},xn.b,xn.a)),j._15(40,770048,null,0,Sn.a,[wn.a],{content:[0,"content"],iconAction:[1,"iconAction"],priority:[2,"priority"],hidden:[3,"hidden"]},{action:"action"}),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,0,["\n    "])),(n()(),j._40(-1,0,["\n"])),(n()(),j._40(-1,null,["\n"])),(n()(),j._16(45,0,null,null,32,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,wl.b,wl.a)),j._15(46,4374528,[[1,4]],0,Tn.a,[pn.a,yn.a,tl.a,j.p,j.K,rl.a,Kl.a,j.D,[2,Pl.a],[2,On.a]],null,null),(n()(),j._40(-1,1,["\n    "])),(n()(),j._16(48,0,null,2,6,"ion-refresher",[],[[2,"refresher-active",null],[4,"top",null]],[[null,"ionRefresh"]],function(n,l,u){var t=!0;if("ionRefresh"===l){t=!1!==n.component.doRefresh(u)&&t}return t},null,null)),j._15(49,212992,null,0,jl.a,[yn.a,Tn.a,j.D,ul.l],{enabled:[0,"enabled"]},{ionRefresh:"ionRefresh"}),(n()(),j._40(-1,null,["\n        "])),(n()(),j._16(51,0,null,null,2,"ion-refresher-content",[],[[1,"state",0]],null,null,Ll.b,Ll.a)),j._15(52,114688,null,0,Wl.a,[jl.a,pn.a],{pullingText:[0,"pullingText"]},null),j._32(131072,Kn.a,[vn.a,j.i]),(n()(),j._40(-1,null,["\n    "])),(n()(),j._40(-1,1,["\n\n    "])),(n()(),j._16(56,0,null,1,20,"core-loading",[],null,null,null,El.b,El.a)),j._15(57,638976,null,0,Al.a,[vn.a,j.p],{hideUntil:[0,"hideUntil"]},null),(n()(),j._40(-1,0,["\n        "])),(n()(),j._40(-1,0,["\n        "])),(n()(),j._11(16777216,null,0,1,null,I)),j._15(61,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n\n        "])),(n()(),j._11(16777216,null,0,1,null,b)),j._15(64,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n\n        "])),(n()(),j._11(16777216,null,0,1,null,v)),j._15(67,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n\n        "])),(n()(),j._11(16777216,null,0,1,null,k)),j._15(70,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n\n        "])),(n()(),j._11(16777216,null,0,1,null,O)),j._15(73,16384,null,0,En.k,[j.W,j.T],{ngIf:[0,"ngIf"]},null),(n()(),j._40(-1,0,["\n\n        "])),(n()(),j._11(0,[["nestedPosts",2]],0,0,null,w)),(n()(),j._40(-1,0,["\n    "])),(n()(),j._40(-1,1,["\n"])),(n()(),j._40(-1,null,["\n"]))],function(n,l){var u=l.component;n(l,8,0,u.discussion),n(l,19,0),n(l,23,0);n(l,26,0,u.discussionLoaded&&!u.postHasOffline&&u.isOnline);n(l,29,0,u.discussionLoaded&&!u.isSplitViewOn&&u.postHasOffline&&u.isOnline);n(l,32,0,j._41(l,32,0,j._29(l,33).transform("addon.mod_forum.modeflatoldestfirst")),"arrow-round-down",500,"flat-oldest"==u.sort);n(l,36,0,j._41(l,36,0,j._29(l,37).transform("addon.mod_forum.modeflatnewestfirst")),"arrow-round-up",450,"flat-newest"==u.sort);n(l,40,0,j._41(l,40,0,j._29(l,41).transform("addon.mod_forum.modenested")),"swap",400,"nested"==u.sort);n(l,49,0,u.discussionLoaded);n(l,52,0,j._19(1,"",j._41(l,52,0,j._29(l,53).transform("core.pulltorefresh")),""));n(l,57,0,u.discussionLoaded);n(l,61,0,u.postHasOffline);n(l,64,0,u.locked);n(l,67,0,u.discussion);n(l,70,0,"nested"!=u.sort);n(l,73,0,"nested"==u.sort)},function(n,l){n(l,4,0,j._29(l,5)._hidden,j._29(l,5)._sbPadding);n(l,45,0,j._29(l,46).statusbarPadding,j._29(l,46)._hasRefresher);n(l,48,0,"inactive"!==j._29(l,49).state,j._29(l,49)._top);n(l,51,0,j._29(l,52).r.state)})}Object.defineProperty(l,"__esModule",{value:!0});var j=u(1),L=u(0),W=(u(10),u(6)),E=u(32),A=u(31),U=u(653),M=u(199),F=u(11),R=u(20),N=u(2),V=u(5),$=u(3),H=u(74),q=u(133),Y=u(169),z=u(200),B=u(242),J=u(243),G=function(){function n(n,l,u,t,o,e,a,i,r,s,c,_,d,f,m){var p=this;this.appProvider=t,this.eventsProvider=o,this.sitesProvider=e,this.domUtils=a,this.utils=i,this.translate=r,this.uploaderProvider=s,this.forumProvider=c,this.forumOffline=_,this.forumHelper=d,this.forumSync=f,this.svComponent=m,this.discussionLoaded=!1,this.sort="flat-oldest",this.replyData={replyingTo:0,isEditing:!1,subject:"",message:null,files:[]},this.originalData={subject:null,message:null,files:[]},this.refreshIcon="spinner",this.syncIcon="spinner",this.discussionStr="",this.component=Y.a.COMPONENT,this.courseId=n.get("courseId"),this.cmId=n.get("cmId"),this.forumId=n.get("forumId"),this.discussionId=n.get("discussionId"),this.trackPosts=n.get("trackPosts"),this.locked=n.get("locked"),this.isOnline=this.appProvider.isOnline(),this.onlineObserver=l.onchange().subscribe(function(n){u.run(function(){p.isOnline=p.appProvider.isOnline()})}),this.isSplitViewOn=this.svComponent&&this.svComponent.isOn(),this.discussionStr=r.instant("addon.mod_forum.discussion")}return n.prototype.ionViewDidLoad=function(){this.fetchPosts(!0,!1,!0)},n.prototype.ionViewDidEnter=function(){var n=this;this.syncObserver=this.eventsProvider.on(J.a.AUTO_SYNCED,function(l){l.forumId==n.forumId&&n.discussionId==l.discussionId&&l.userId==n.sitesProvider.getCurrentSiteUserId()&&(n.discussionLoaded=!1,n.refreshPosts())},this.sitesProvider.getCurrentSiteId()),this.syncManualObserver=this.eventsProvider.on(J.a.MANUAL_SYNCED,function(l){"discussion"!=l.source&&l.forumId==n.forumId&&l.userId==n.sitesProvider.getCurrentSiteUserId()&&(n.discussionLoaded=!1,n.refreshPosts())},this.sitesProvider.getCurrentSiteId()),this.eventsProvider.trigger(Y.a.VIEW_DISCUSSION_EVENT,{forumId:this.forumId,discussion:this.discussionId},this.sitesProvider.getCurrentSiteId())},n.prototype.ionViewCanLeave=function(){var n=this;return(this.forumHelper.hasPostDataChanged(this.replyData,this.originalData)?this.domUtils.showConfirm(this.translate.instant("core.confirmcanceledit")):Promise.resolve()).then(function(){n.uploaderProvider.clearTmpFiles(n.replyData.files)})},n.prototype.fetchForum=function(){return this.courseId&&this.cmId?this.forumProvider.getForum(this.courseId,this.cmId):this.courseId&&this.forumId?this.forumProvider.getForumById(this.courseId,this.forumId):Promise.reject(null)},n.prototype.fetchPosts=function(n,l,u){var t=this,o=[],e=[],a=!1;return(n?this.syncDiscussion(l).catch(function(){}):Promise.resolve()).then(function(){return t.forumProvider.getDiscussionPosts(t.discussionId).then(function(n){o=n}).then(function(){return t.forumOffline.getDiscussionReplies(t.discussionId).then(function(n){t.postHasOffline=!!n.length;var l=[],u={};return o.forEach(function(n){u[n.id]=n,a=a||!n.postread}),n.forEach(function(n){t.forumId||(t.forumId=n.forumid),t.courseId||(t.courseId=n.courseid),l.push(t.forumHelper.convertOfflineReplyToOnline(n).then(function(n){e.push(n),u[n.parent].canreply=!1}))}),Promise.all(l).then(function(){o=t.utils.objectToArray(u)})})})}).then(function(){var n=e.concat(o);if(t.discussion=t.forumProvider.extractStartingPost(n),"nested"==t.sort)t.forumProvider.sortDiscussionPosts(n,"ASC"),t.posts=t.utils.formatTree(n,"parent","id",t.discussion.id);else{t.forumProvider.sortDiscussionPosts(n,"flat-newest"==t.sort?"DESC":"ASC"),t.posts=n}return t.defaultSubject=t.translate.instant("addon.mod_forum.re")+" "+t.discussion.subject,t.replyData.subject=t.defaultSubject,t.fetchForum().then(function(n){t.discussion.userfullname&&0==t.discussion.parent&&"single"==n.type&&(t.discussion.userfullname=null),void 0!==n.istracked&&(t.trackPosts=n.istracked),t.forumId=n.id,t.cmId=n.cmid,t.forum=n}).catch(function(){t.forum={}})}).catch(function(n){t.domUtils.showErrorModal(n)}).finally(function(){t.discussionLoaded=!0,t.refreshIcon="refresh",t.syncIcon="sync",(u||a&&t.trackPosts)&&t.forumProvider.logDiscussionView(t.discussionId).catch(function(){})})},n.prototype.syncDiscussion=function(n){var l=this;return this.forumSync.syncDiscussionReplies(this.discussionId).then(function(n){return n.warnings&&n.warnings.length&&l.domUtils.showErrorModal(n.warnings[0]),n&&n.updated&&l.eventsProvider.trigger(J.a.MANUAL_SYNCED,{forumId:l.forumId,userId:l.sitesProvider.getCurrentSiteUserId(),source:"discussion"},l.sitesProvider.getCurrentSiteId()),n.updated}).catch(function(u){return n&&l.domUtils.showErrorModalDefault(u,"core.errorsync",!0),Promise.reject(null)})},n.prototype.doRefresh=function(n,l,u){return void 0===u&&(u=!1),this.discussionLoaded?this.refreshPosts(!0,u).finally(function(){n&&n.complete(),l&&l()}):Promise.resolve()},n.prototype.refreshPosts=function(n,l){var u=this;return this.content&&this.content.scrollToTop(),this.refreshIcon="spinner",this.syncIcon="spinner",this.forumProvider.invalidateDiscussionPosts(this.discussionId).catch(function(){}).then(function(){return u.fetchPosts(n,l)})},n.prototype.changeSort=function(n){return this.discussionLoaded=!1,this.sort=n,this.content&&this.content.scrollToTop(),this.fetchPosts()},n.prototype.postListChanged=function(){var n=this;this.eventsProvider.trigger(Y.a.REPLY_DISCUSSION_EVENT,{forumId:this.forumId,discussionId:this.discussionId,cmId:this.cmId},this.sitesProvider.getCurrentSiteId()),this.discussionLoaded=!1,this.refreshPosts().finally(function(){n.discussionLoaded=!0})},n.prototype.ionViewWillLeave=function(){this.syncObserver&&this.syncObserver.off(),this.syncManualObserver&&this.syncManualObserver.off()},n.prototype.ngOnDestroy=function(){this.onlineObserver&&this.onlineObserver.unsubscribe()},n=Object(L.__decorate)([Object(L.__param)(14,Object(j.E)())],n)}(),Q=function(){return function(){}}(),X=u(1290),Z=u(1291),nn=u(1292),ln=u(1293),un=u(1294),tn=u(1295),on=u(1296),en=u(1297),an=u(1298),rn=u(1301),sn=u(1302),cn=u(1303),_n=u(1304),dn=u(1332),fn=u(1300),mn=u(326),pn=u(7),hn=u(237),gn=u(191),In=u(38),bn=u(12),vn=u(17),yn=u(14),Pn=u(24),kn=u(4),Cn=u(16),Dn=u(23),On=u(22),Tn=u(25),xn=u(85),Sn=u(75),wn=u(67),Kn=u(28),jn=u(89),Ln=u(40),Wn=u(215),En=u(9),An=u(194),Un=u(161),Mn=u(121),Fn=u(69),Rn=u(338),Nn=u(246),Vn=u(41),$n=u(34),Hn=u(21),qn=u(19),Yn=u(29),zn=u(33),Bn=u(45),Jn=u(39),Gn=u(429),Qn=u(272),Xn=u(122),Zn=u(110),nl=u(109),ll=u(79),ul=u(36),tl=u(26),ol=u(59),el=u(90),al=u(18),il=u(73),rl=u(27),sl=u(269),cl=u(213),_l=u(165),dl=u(138),fl=u(334),ml=u(177),pl=u(158),hl=u(432),gl=u(1349),Il=u(83),bl=j._14({encapsulation:2,styles:[],data:{}}),vl=u(159),yl=u(419),Pl=u(35),kl=u(1299),Cl=u(420),Dl=u(86),Ol=u(76),Tl=u(84),xl=u(65),Sl=u(66),wl=u(176),Kl=u(97),jl=u(132),Ll=u(192),Wl=u(146),El=u(55),Al=u(49),Ul=u(58),Ml=j._14({encapsulation:2,styles:[],data:{}}),Fl=j._12("page-addon-mod-forum-discussion",G,function(n){return j._42(0,[(n()(),j._16(0,0,null,null,1,"page-addon-mod-forum-discussion",[],null,null,null,K,Ml)),j._15(1,180224,null,0,G,[Ul.a,M.a,j.D,F.a,R.a,N.a,V.a,$.a,vn.a,H.a,Y.a,z.a,B.a,J.a,[2,q.a]],null,null)],null,null)},{},{},[]),Rl=u(322),Nl=u(323),Vl=u(325),$l=u(324),Hl=u(418),ql=u(640),Yl=u(107),zl=u(72),Bl=u(238);u.d(l,"AddonModForumDiscussionPageModuleNgFactory",function(){return Jl});var Jl=j._13(Q,[],function(n){return j._25([j._26(512,j.n,j._6,[[8,[X.a,Z.a,nn.a,ln.a,un.a,tn.a,on.a,en.a,an.a,rn.a,sn.a,cn.a,_n.a,dn.a,Fl]],[3,j.n],j.B]),j._26(4608,En.m,En.l,[j.x,[2,En.v]]),j._26(4608,al.x,al.x,[]),j._26(4608,al.d,al.d,[]),j._26(4608,Rl.b,Rl.a,[]),j._26(4608,Nl.a,Nl.b,[]),j._26(4608,Vl.b,Vl.a,[]),j._26(4608,$l.b,$l.a,[]),j._26(4608,vn.a,vn.a,[Hl.a,Rl.b,Nl.a,Vl.b,$l.b,vn.b,vn.c]),j._26(512,En.b,En.b,[]),j._26(512,al.v,al.v,[]),j._26(512,al.i,al.i,[]),j._26(512,al.s,al.s,[]),j._26(512,ql.a,ql.a,[]),j._26(512,W.a,W.a,[]),j._26(512,A.a,A.a,[]),j._26(512,Yl.a,Yl.a,[]),j._26(512,E.a,E.a,[]),j._26(512,zl.a,zl.a,[]),j._26(512,U.a,U.a,[]),j._26(512,ql.b,ql.b,[]),j._26(512,Q,Q,[]),j._26(256,vn.c,void 0,[]),j._26(256,vn.b,void 0,[]),j._26(256,Bl.a,G,[])])})}});
+webpackJsonp([94],{
+
+/***/ 1817:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModDataEditPageModule", function() { return AddonModDataEditPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__core_comments_components_components_module__ = __webpack_require__(393);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__core_compile_components_compile_html_compile_html_module__ = __webpack_require__(391);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_components_module__ = __webpack_require__(390);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__edit__ = __webpack_require__(1942);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+var AddonModDataEditPageModule = /** @class */ (function () {
+    function AddonModDataEditPageModule() {
+    }
+    AddonModDataEditPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_8__edit__["a" /* AddonModDataEditPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_7__components_components_module__["a" /* AddonModDataComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_6__core_compile_components_compile_html_compile_html_module__["a" /* CoreCompileHtmlComponentModule */],
+                __WEBPACK_IMPORTED_MODULE_5__core_comments_components_components_module__["a" /* CoreCommentsComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_8__edit__["a" /* AddonModDataEditPage */]),
+                __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModDataEditPageModule);
+    return AddonModDataEditPageModule;
+}());
+
+//# sourceMappingURL=edit.module.js.map
+
+/***/ }),
+
+/***/ 1942:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonModDataEditPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_forms__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_utils_utils__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_sites__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_groups__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_events__ = __webpack_require__(12);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__core_fileuploader_providers_fileuploader__ = __webpack_require__(56);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__core_course_providers_course__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_data__ = __webpack_require__(59);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_helper__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_offline__ = __webpack_require__(150);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__providers_fields_delegate__ = __webpack_require__(62);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__components_components_module__ = __webpack_require__(390);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that displays the view edit page.
+ */
+var AddonModDataEditPage = /** @class */ (function () {
+    function AddonModDataEditPage(params, utils, groupsProvider, domUtils, fieldsDelegate, courseProvider, dataProvider, dataOffline, dataHelper, sitesProvider, navCtrl, translate, eventsProvider, fileUploaderProvider) {
+        this.utils = utils;
+        this.groupsProvider = groupsProvider;
+        this.domUtils = domUtils;
+        this.fieldsDelegate = fieldsDelegate;
+        this.courseProvider = courseProvider;
+        this.dataProvider = dataProvider;
+        this.dataOffline = dataOffline;
+        this.dataHelper = dataHelper;
+        this.navCtrl = navCtrl;
+        this.translate = translate;
+        this.eventsProvider = eventsProvider;
+        this.fileUploaderProvider = fileUploaderProvider;
+        this.offlineActions = [];
+        this.fields = {};
+        this.fieldsArray = [];
+        this.forceLeave = false; // To allow leaving the page without checking for changes.
+        this.title = '';
+        this.component = __WEBPACK_IMPORTED_MODULE_11__providers_data__["a" /* AddonModDataProvider */].COMPONENT;
+        this.loaded = false;
+        this.selectedGroup = 0;
+        this.cssClass = '';
+        this.cssTemplate = '';
+        this.editFormRender = '';
+        this.extraImports = [__WEBPACK_IMPORTED_MODULE_15__components_components_module__["a" /* AddonModDataComponentsModule */]];
+        this.errors = {};
+        this.module = params.get('module') || {};
+        this.entryId = params.get('entryId') || null;
+        this.courseId = params.get('courseId');
+        this.selectedGroup = params.get('group') || 0;
+        this.siteId = sitesProvider.getCurrentSiteId();
+        this.title = this.module.name;
+        this.editForm = new __WEBPACK_IMPORTED_MODULE_3__angular_forms__["c" /* FormGroup */]({});
+    }
+    /**
+     * View loaded.
+     */
+    AddonModDataEditPage.prototype.ionViewDidLoad = function () {
+        this.fetchEntryData();
+    };
+    /**
+     * Check if we can leave the page or not and ask to confirm the lost of data.
+     *
+     * @return {boolean | Promise<void>} Resolved if we can leave it, rejected if not.
+     */
+    AddonModDataEditPage.prototype.ionViewCanLeave = function () {
+        var _this = this;
+        if (this.forceLeave) {
+            return true;
+        }
+        var inputData = this.editForm.value;
+        return this.dataHelper.hasEditDataChanged(inputData, this.fieldsArray, this.data.id, this.entry.contents).then(function (changed) {
+            if (!changed) {
+                return Promise.resolve();
+            }
+            // Show confirmation if some data has been modified.
+            return _this.domUtils.showConfirm(_this.translate.instant('core.confirmcanceledit'));
+        }).then(function () {
+            // Delete the local files from the tmp folder.
+            return _this.dataHelper.getEditTmpFiles(inputData, _this.fieldsArray, _this.data.id, _this.entry.contents).then(function (files) {
+                _this.fileUploaderProvider.clearTmpFiles(files);
+            });
+        });
+    };
+    /**
+     * Fetch the entry data.
+     *
+     * @return {Promise<any>}         Resolved when done.
+     */
+    AddonModDataEditPage.prototype.fetchEntryData = function () {
+        var _this = this;
+        return this.dataProvider.getDatabase(this.courseId, this.module.id).then(function (data) {
+            _this.title = data.name || _this.title;
+            _this.data = data;
+            _this.cssClass = 'addon-data-entries-' + data.id;
+            return _this.dataProvider.getDatabaseAccessInformation(data.id);
+        }).then(function (accessData) {
+            _this.cssTemplate = _this.dataHelper.prefixCSS(_this.data.csstemplate, '.' + _this.cssClass);
+            if (_this.entryId) {
+                return _this.groupsProvider.getActivityGroupInfo(_this.data.coursemodule, accessData.canmanageentries)
+                    .then(function (groupInfo) {
+                    _this.groupInfo = groupInfo;
+                    // Check selected group is accessible.
+                    if (groupInfo && groupInfo.groups && groupInfo.groups.length > 0) {
+                        if (!groupInfo.groups.some(function (group) { return _this.selectedGroup == group.id; })) {
+                            _this.selectedGroup = groupInfo.groups[0].id;
+                        }
+                    }
+                });
+            }
+        }).then(function () {
+            return _this.dataOffline.getEntryActions(_this.data.id, _this.entryId);
+        }).then(function (actions) {
+            _this.offlineActions = actions;
+            return _this.dataProvider.getFields(_this.data.id);
+        }).then(function (fieldsData) {
+            _this.fieldsArray = fieldsData;
+            _this.fields = _this.utils.arrayToObject(fieldsData, 'id');
+            return _this.dataHelper.getEntry(_this.data, _this.entryId, _this.offlineActions);
+        }).then(function (entry) {
+            if (entry) {
+                entry = entry.entry;
+                // Index contents by fieldid.
+                entry.contents = _this.utils.arrayToObject(entry.contents, 'fieldid');
+            }
+            else {
+                entry = {
+                    contents: {}
+                };
+            }
+            return _this.dataHelper.applyOfflineActions(entry, _this.offlineActions, _this.fieldsArray);
+        }).then(function (entryData) {
+            _this.entry = entryData;
+            _this.editFormRender = _this.displayEditFields();
+        }).catch(function (message) {
+            _this.domUtils.showErrorModalDefault(message, 'core.course.errorgetmodule', true);
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Saves data.
+     *
+     * @return {Promise<any>} Resolved when done.
+     */
+    AddonModDataEditPage.prototype.save = function () {
+        var _this = this;
+        var inputData = this.editForm.value;
+        return this.dataHelper.hasEditDataChanged(inputData, this.fieldsArray, this.data.id, this.entry.contents).then(function (changed) {
+            if (!changed) {
+                if (_this.entryId) {
+                    return _this.returnToEntryList();
+                }
+                // New entry, no changes means no field filled, warn the user.
+                return Promise.reject('addon.mod_data.emptyaddform');
+            }
+            var modal = _this.domUtils.showModalLoading('core.sending', true);
+            // Create an ID to assign files.
+            var entryTemp = _this.entryId ? _this.entryId : -(new Date().getTime());
+            return _this.dataHelper.getEditDataFromForm(inputData, _this.fieldsArray, _this.data.id, entryTemp, _this.entry.contents, _this.offline).catch(function (e) {
+                if (!_this.offline) {
+                    // Cannot submit in online, prepare for offline usage.
+                    _this.offline = true;
+                    return _this.dataHelper.getEditDataFromForm(inputData, _this.fieldsArray, _this.data.id, entryTemp, _this.entry.contents, _this.offline);
+                }
+                return Promise.reject(e);
+            }).then(function (editData) {
+                if (editData.length > 0) {
+                    if (_this.entryId) {
+                        return _this.dataProvider.editEntry(_this.data.id, _this.entryId, _this.courseId, editData, _this.fields, undefined, _this.offline);
+                    }
+                    return _this.dataProvider.addEntry(_this.data.id, entryTemp, _this.courseId, editData, _this.selectedGroup, _this.fields, undefined, _this.offline);
+                }
+                return false;
+            }).then(function (result) {
+                if (!result) {
+                    // No field filled, warn the user.
+                    return Promise.reject('addon.mod_data.emptyaddform');
+                }
+                // This is done if entry is updated when editing or creating if not.
+                if ((_this.entryId && result.updated) || (!_this.entryId && result.newentryid)) {
+                    var promises = [];
+                    _this.entryId = _this.entryId || result.newentryid;
+                    promises.push(_this.dataProvider.invalidateEntryData(_this.data.id, _this.entryId, _this.siteId));
+                    promises.push(_this.dataProvider.invalidateEntriesData(_this.data.id, _this.siteId));
+                    return Promise.all(promises).then(function () {
+                        _this.eventsProvider.trigger(__WEBPACK_IMPORTED_MODULE_11__providers_data__["a" /* AddonModDataProvider */].ENTRY_CHANGED, { dataId: _this.data.id, entryId: _this.entryId }, _this.siteId);
+                    }).finally(function () {
+                        return _this.returnToEntryList();
+                    });
+                }
+                else {
+                    _this.errors = {};
+                    if (result.fieldnotifications) {
+                        result.fieldnotifications.forEach(function (fieldNotif) {
+                            var field = _this.fieldsArray.find(function (field) { return field.name == fieldNotif.fieldname; });
+                            if (field) {
+                                _this.errors[field.id] = fieldNotif.notification;
+                            }
+                        });
+                    }
+                    _this.jsData['errors'] = _this.errors;
+                    setTimeout(function () {
+                        _this.scrollToFirstError();
+                    });
+                }
+            }).finally(function () {
+                modal.dismiss();
+            });
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Cannot edit entry', true);
+            return Promise.reject(null);
+        });
+    };
+    /**
+     * Set group to see the database.
+     *
+     * @param  {number}       groupId Group identifier to set.
+     * @return {Promise<any>}         Resolved when done.
+     */
+    AddonModDataEditPage.prototype.setGroup = function (groupId) {
+        this.selectedGroup = groupId;
+        this.loaded = false;
+        return this.fetchEntryData();
+    };
+    /**
+     * Displays Edit Search Fields.
+     *
+     * @return {string}  Generated HTML.
+     */
+    AddonModDataEditPage.prototype.displayEditFields = function () {
+        if (!this.data.addtemplate) {
+            return '';
+        }
+        this.jsData = {
+            fields: this.fields,
+            contents: this.entry.contents,
+            form: this.editForm,
+            data: this.data,
+            errors: this.errors
+        };
+        var replace, render, template = this.data.addtemplate;
+        // Replace the fields found on template.
+        this.fieldsArray.forEach(function (field) {
+            replace = '[[' + field.name + ']]';
+            replace = replace.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, '\\$&');
+            replace = new RegExp(replace, 'gi');
+            // Replace field by a generic directive.
+            render = '<addon-mod-data-field-plugin mode="edit" [field]="fields[' + field.id + ']"\
+                [value]="contents[' + field.id + ']" [form]="form" [database]="data" [error]="errors[' + field.id + ']">\
+                </addon-mod-data-field-plugin>';
+            template = template.replace(replace, render);
+            // Replace the field id tag.
+            replace = '[[' + field.name + '#id]]';
+            replace = replace.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, '\\$&');
+            replace = new RegExp(replace, 'gi');
+            template = template.replace(replace, 'field_' + field.id);
+        });
+        return template;
+    };
+    /**
+     * Return to the entry list (previous page) discarding temp data.
+     *
+     * @return {Promise<any>}  Resolved when done.
+     */
+    AddonModDataEditPage.prototype.returnToEntryList = function () {
+        var _this = this;
+        var inputData = this.editForm.value;
+        return this.dataHelper.getEditTmpFiles(inputData, this.fieldsArray, this.data.id, this.entry.contents).then(function (files) {
+            _this.fileUploaderProvider.clearTmpFiles(files);
+        }).finally(function () {
+            // Go back to entry list.
+            _this.forceLeave = true;
+            _this.navCtrl.pop();
+        });
+    };
+    /**
+     * Scroll to first error or to the top if not found.
+     */
+    AddonModDataEditPage.prototype.scrollToFirstError = function () {
+        if (!this.domUtils.scrollToElementBySelector(this.content, '.addon-data-error')) {
+            this.content.scrollToTop();
+        }
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */])
+    ], AddonModDataEditPage.prototype, "content", void 0);
+    AddonModDataEditPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-addon-mod-data-edit',template:/*ion-inline-start:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/data/pages/edit/edit.html"*/'<ion-header>\n    <ion-navbar>\n        <ion-title><core-format-text [text]="title"></core-format-text></ion-title>\n        <ion-buttons end>\n            <button ion-button clear (click)="save()" [attr.aria-label]="\'core.save\' | translate">\n                {{ \'core.save\' | translate }}\n            </button>\n        </ion-buttons>\n    </ion-navbar>\n</ion-header>\n<ion-content>\n    <core-loading [hideUntil]="loaded">\n        <ion-item text-wrap *ngIf="groupInfo && (groupInfo.separateGroups || groupInfo.visibleGroups)">\n            <ion-label id="addon-data-groupslabel" *ngIf="groupInfo.separateGroups">{{ \'core.groupsseparate\' | translate }}</ion-label>\n            <ion-label id="addon-data-groupslabel" *ngIf="groupInfo.visibleGroups">{{ \'core.groupsvisible\' | translate }}</ion-label>\n            <ion-select [(ngModel)]="selectedGroup" (ionChange)="setGroup(selectedGroup)" aria-labelledby="addon-data-groupslabel" interface="popover">\n                <ion-option *ngFor="let groupOpt of groupInfo.groups" [value]="groupOpt.id">{{groupOpt.name}}</ion-option>\n            </ion-select>\n        </ion-item>\n\n        <div class="addon-data-contents {{cssClass}}">\n            <style *ngIf="cssTemplate">\n                {{ cssTemplate }}\n            </style>\n\n            <form (ngSubmit)="save()" [formGroup]="editForm">\n                <core-compile-html [text]="editFormRender" [jsData]="jsData" [extraImports]="extraImports"></core-compile-html>\n            </form>\n        </div>\n    </core-loading>\n</ion-content>\n'/*ion-inline-end:"/Users/danglong/Desktop/phonegap/ats2/src/addon/mod/data/pages/edit/edit.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* NavParams */], __WEBPACK_IMPORTED_MODULE_4__providers_utils_utils__["a" /* CoreUtilsProvider */], __WEBPACK_IMPORTED_MODULE_7__providers_groups__["a" /* CoreGroupsProvider */],
+            __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_14__providers_fields_delegate__["a" /* AddonModDataFieldsDelegate */],
+            __WEBPACK_IMPORTED_MODULE_10__core_course_providers_course__["a" /* CoreCourseProvider */], __WEBPACK_IMPORTED_MODULE_11__providers_data__["a" /* AddonModDataProvider */],
+            __WEBPACK_IMPORTED_MODULE_13__providers_offline__["a" /* AddonModDataOfflineProvider */], __WEBPACK_IMPORTED_MODULE_12__providers_helper__["a" /* AddonModDataHelperProvider */],
+            __WEBPACK_IMPORTED_MODULE_6__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["q" /* NavController */], __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["c" /* TranslateService */],
+            __WEBPACK_IMPORTED_MODULE_8__providers_events__["a" /* CoreEventsProvider */], __WEBPACK_IMPORTED_MODULE_9__core_fileuploader_providers_fileuploader__["a" /* CoreFileUploaderProvider */]])
+    ], AddonModDataEditPage);
+    return AddonModDataEditPage;
+}());
+
+//# sourceMappingURL=edit.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=94.js.map
