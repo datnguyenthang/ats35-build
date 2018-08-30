@@ -5,7 +5,7 @@
         id        = "vn.com.fecredit.training"
         versionCode = "35000"
         android-versionCode="35000"
-        version   = "3.5.0">
+        version   = "3.5.1">
     <name>ATS</name>
 
     <description>
